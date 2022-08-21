@@ -26,17 +26,11 @@ jobs:
         run: mdbook build
 
       - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v1.2.2
-        with:
-          publish-dir: 'build'
-          production-branch: 'main'
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          deploy-message: "Deployed using GitHub Actions..."
-          netlify-config-path: ./netlify.toml
-          github-deployment-environment: "Netlify Deploy"
-          enable-pull-request-comment: true
-          enable-commit-comment: false
+        uses: netlify/actions/build@master
         env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_BASE: '/'
+          NETLIFY_CMD: mdbook build
+          NETLIFY_DIR: book
         timeout-minutes: 1
