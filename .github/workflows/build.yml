@@ -22,7 +22,7 @@ jobs:
       - name: Format the Markdown Files With Prettier
         uses: 'actionsx/prettier@v2'
         with:
-          args: --write .
+          args: --prose-wrap --write "src/**.md" "src/SUMMARY.md"
 
       - name: Setup mdBook
         uses: extractions/setup-crate@v1
@@ -38,11 +38,16 @@ jobs:
         with:
           publish-dir: 'book'
           production-branch: main
+          production-deploy: true
+          netlify-config-path: netlify.toml
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message: "Deploy from GitHub Actions"
           enable-pull-request-comment: false
           enable-commit-comment: false
           overwrites-pull-request-comment: false
+          github-deployment-environment: "Netlify Deployment"
+          github-deployment-description: "The production deployment environment on Netlify."
+          fails-without-credentials: true
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
