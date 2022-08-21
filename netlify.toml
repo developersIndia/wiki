@@ -1,16 +1,16 @@
 [build.processing]
-  skip_processing = false
+  skip_processing = true
   
-[build.processing.css]
-  bundle = true
-  minify = true
-  
-[build.processing.js]
-  bundle = true
-  minify = true
+# [build.processing.css]
+#   bundle = true
+#   minify = true
+#   
+# [build.processing.js]
+#   bundle = true
+#   minify = true
   
 [build.processing.html]
   pretty_urls = true
   
-[build.processing.images]
-  compress = true
+# [build.processing.images]
+#   compress = true

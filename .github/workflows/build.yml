@@ -40,8 +40,7 @@ jobs:
           publish-dir: 'book'
           production-branch: main
           production-deploy: true
-          # FIXME: Causes issues with the generated static site.
-          # netlify-config-path: netlify.toml
+          netlify-config-path: netlify.toml
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message: "Deploy from GitHub Actions"
           enable-pull-request-comment: false
