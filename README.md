@@ -4,7 +4,7 @@ Welcome to the DevelopersIndia Community Wiki! Please find information related t
 and a lot other stuff over here!
 
 TODO:
-- [] Add an introduction about the project.
+- [ ] Add an introduction about the project.
 
 ## Contributing to the Wiki
 
@@ -13,8 +13,8 @@ a word or two which you believe will help the community achieve something good,
 please read this section for instructions.
 
 TODO:
-- [] Add instructions on how to setup & use `mdbook`.
-- [] Add the community contribution guidelines.
+- [ ] Add instructions on how to setup & use `mdbook`.
+- [ ] Add the community contribution guidelines.
 
 ## License & Usage Terms & Conditions
 
