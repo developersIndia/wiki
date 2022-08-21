@@ -26,10 +26,10 @@ jobs:
         run: mdbook build
 
       - name: Deploy to Netlify
-        uses: netlify/actions/cli@master
+      - uses: jsmrcaga/action-netlify-deploy@v1.8
         with:
-          args: deploy --dir=site
-        env:
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_DEPLOY_MESSAGE: "Prod deploy v${{ github.ref }}"
+          NETLIFY_DEPLOY_TO_PROD: true
         timeout-minutes: 1
