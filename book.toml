@@ -1,6 +1,16 @@
 [book]
-authors = ["Somraj Saha"]
+authors = ["DevelopersIndia Community"]
 language = "en"
 multilingual = false
 src = "src"
 title = "The Official developersIndia Community Wiki"
+description = "The home for all things about the developersIndia community wiki"
+
+[build]
+create-missing = false
+
+[output.html]
+git-repository-url = 'https://github.com/developersIndia/wiki-mdbook'
+git-repository-icon = 'fa-github'
+edit-url-template = 'https://github.com/developersIndia/wiki-mdbook/edit/main/{path}'
+# input-404 = 'not-found.md'
