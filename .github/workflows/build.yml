@@ -1,0 +1,42 @@
+name: Netlify Deploy
+
+on:
+  push:
+    branches:
+      - 'main'
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: 'actions/checkout@v3.0.2'
+
+      - name: Setup mdBook
+        uses: extractions/setup-crate@v1
+        with:
+          owner: rust-lang
+          name: mdbook
+
+      - name: Generate the Wiki
+        run: mdbook build
+
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v1.2.2
+        with:
+          publish-dir: './build'
+          production-branch: 'main'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message: "Deployed using GitHub Actions..."
+          netlify-config-path: ./netlify.toml
+          github-deployment-environment: "Netlify Deploy"
+          enable-pull-request-comment: true
+          enable-commit-comment: false
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        timeout-minutes: 1

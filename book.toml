@@ -1,0 +1,6 @@
+[book]
+authors = ["Somraj Saha"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Official developersIndia Community Wiki"
