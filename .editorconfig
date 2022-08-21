@@ -1,0 +1,14 @@
+root = true
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+# Indentation override for all JS under lib directory
+[*.{js,md}]
+indent_style = space
+indent_size = 2
+
+# Matches the exact files either package.json or .travis.yml
+[*.{json,yml}]
+indent_style = space
+indent_size = 2
