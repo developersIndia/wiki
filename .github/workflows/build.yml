@@ -26,11 +26,10 @@ jobs:
         run: mdbook build
 
       - name: Deploy to Netlify
-        uses: netlify/actions/build@master
+        uses: netlify/actions/cli@master
+        with:
+          args: deploy --dir=site
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-          NETLIFY_BASE: '/'
-          NETLIFY_CMD: mdbook build
-          NETLIFY_DIR: book
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         timeout-minutes: 1
