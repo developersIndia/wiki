@@ -22,7 +22,7 @@ jobs:
       - name: Format the Markdown Files With Prettier
         uses: 'actionsx/prettier@v2'
         with:
-          args: --prose-wrap --write "src/**.md" "src/SUMMARY.md"
+          args: --write "README.md" "src/**.md" "!src/SUMMARY.md" --prose-wrap "always"
 
       - name: Setup mdBook
         uses: extractions/setup-crate@v1
