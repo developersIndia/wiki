@@ -9,6 +9,7 @@ updates:
     commit-message:
       prefix: "🔀"
     labels: ["github-actions"]
-    target-branch: "dev"
+    target-branch: "main"
     reviewers:
       - "Jarmos-san"
+      - "bhupesh-V"
