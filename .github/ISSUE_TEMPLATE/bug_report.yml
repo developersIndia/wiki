@@ -1,0 +1,54 @@
+name: Bug Report
+
+description: File a bug report for broken URLs, grammatical errors, inconsistent site aesthetics & such.
+
+title: "[REPORT]: "
+
+labels: ["bug"]
+
+assignees:
+  - "Jarmos-san"
+  - "Bhupesh-V"
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        "Thanks for taking the time to fill this report! It helps us understand the nature of the concern you've with the project."
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What Happened?
+      description: Also tell us, what did you expect to happen? Found broken links? Include the new link & the link to the place where you found the broken links.
+      placeholder: Please explain in detail the bug that you see & what did you expect. Include a screenshot (in GIF formats preferably) if possible.
+      value: "Please explain in detail the bug that you see & what did you expect. Include a screenshot (in GIF formats preferably) if possible."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What Browsers Are You Seeing the Problem On?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Log Output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/developersIndia/.github/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
