@@ -5,7 +5,7 @@
 - Choose a community you can resonate with, by community we mean a collection of self-motivated developers/engineers/programmers. You are already at right place 😉.
 - Read and watch what people are asking and discussing about
 - A good example is reading questions on [stackoverflow](http://stackoverflow.com) or [Software Engineering - StackExchange](https://softwareengineering.stackexchange.com/?tab=month).
-- Join programming related subreddits (Reddit is the best place for software folks after StackOverflow). If you like Javascript, [find subreddits related to javascript](https://anvaka.github.io/sayit/?query=javascript) and join them.
+- Join programming related subreddits (Reddit is the best place for software folks after StackOverflow). If you like JavaScript, [find subreddits related to javascript](https://anvaka.github.io/sayit/?query=javascript) and join them.
 
 ## Write Code & Create Software Projects
 - This has been asked & repeated thousands of time by everyone on Internet, Just build stuff!
