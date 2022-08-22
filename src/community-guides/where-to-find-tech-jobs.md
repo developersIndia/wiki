@@ -15,11 +15,11 @@ Not to mention job portals like shine, indeed
 1. [We Work Remotely](https://weworkremotely.com/)
 2. [Entry Level Remote Job](https://entrylevelremotejob.com/)
 3. [NoCommute - Remote jobs delivered to your inbox](https://nocommute.substack.com/)
-4. [Remote OK](https://remoteok.com/)
+4. [Remote Ok](https://remoteok.com/)
 5. [remotive.io](https://remotive.io/)
 6. [Remote Leaf](https://remoteleaf.com/)
 7. [remotists](https://remotists.com/)
-8. [JustRemote](https://justremote.co/) <- doesn't have jobs in India
+8. [JustRemote](https://justremote.co/) (`doesn't have jobs in India`)
 9. [remote-developer-jobs.com](https://www.remote-developer-jobs.com/)
 10. [findwork.dev](https://findwork.dev)
 11. [echo jobs](https://echojobs.io/search?q=&locations=Remote%2BIndia&page=1)

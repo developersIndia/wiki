@@ -38,7 +38,7 @@ Now it's understandable, if you want to grab someone's attention, it's natural t
 
 So first off, no, you don't need a 4-page long resume. A single page (and less than two & a half) is **MORE** than enough. You should go for a 2-page long resume **ONLY** if boast of decades of experience!
 
-Suffice to say, there's only so much available real estate in standard single A4 sized paper. And being able to stuff enough information about yourself in that size paper will be a matter of how successful the resume is. 
+Suffice to say, there's only so much available real estate in standard single `A4` sized paper. And being able to stuff enough information about yourself in that size paper will be a matter of how successful the resume is. 
 
 So to optimise our limited resource, we'll only include the most relevant information in the resume. And here are bit of what “relevant info” is like:
 
