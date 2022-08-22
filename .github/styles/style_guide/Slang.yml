@@ -1,0 +1,14 @@
+---
+# Warning: style_guide.Slang.yml
+
+extends: existence
+message: "Don't use internet slang abbreviations such as '%s'."
+link: 'https://developers.google.com/style/abbreviations'
+ignorecase: true
+level: error
+tokens:
+  - 'tl;dr'
+  - ymmv
+  - rtfm
+  - imo
+  - fwiw
