@@ -1,0 +1,31 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Jarmos-san",
+      "name": "Somraj Saha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31373860?v=4",
+      "profile": "https://jarmos.vercel.app",
+      "contributions": [
+        "code",
+        "infra",
+        "doc",
+        "ideas",
+        "content",
+        "maintenance",
+        "projectManagement",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "wiki-mdbook",
+  "projectOwner": "developersIndia",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
