@@ -1,6 +1,6 @@
 # The DevelopersIndia Community Wiki
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to the DevelopersIndia Community Wiki repository! This repository is
@@ -66,6 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://bhupesh.me"><img src="https://avatars.githubusercontent.com/u/34342551?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bhupesh Varshney</b></sub></a><br /><a href="https://github.com/developersIndia/wiki-mdbook/pulls?q=is%3Apr+reviewed-by%3ABhupesh-V" title="Reviewed Pull Requests">👀</a> <a href="#content-Bhupesh-V" title="Content">🖋</a> <a href="#ideas-Bhupesh-V" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Bhupesh-V" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://jarmos.vercel.app"><img src="https://avatars.githubusercontent.com/u/31373860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Somraj Saha</b></sub></a><br /><a href="https://github.com/developersIndia/wiki-mdbook/pulls?q=is%3Apr+reviewed-by%3AJarmos-san" title="Reviewed Pull Requests">👀</a> <a href="#content-Jarmos-san" title="Content">🖋</a> <a href="#ideas-Jarmos-san" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Jarmos-san" title="Project Management">📆</a> <a href="#infra-Jarmos-san" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tool-Jarmos-san" title="Tools">🔧</a> <a href="https://github.com/developersIndia/wiki-mdbook/commits?author=Jarmos-san" title="Code">💻</a></td>
   </tr>
 </table>
 
