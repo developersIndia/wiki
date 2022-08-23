@@ -1,0 +1,31 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "user",
+      "name": "Ilya Solovyov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14959?v=4",
+      "profile": "https://github.com/user",
+      "contributions": [
+        "code",
+        "infra",
+        "doc",
+        "ideas",
+        "content",
+        "maintenance",
+        "projectManagement",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "wiki-mdbook",
+  "projectOwner": "developersIndia",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
