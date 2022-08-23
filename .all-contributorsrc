@@ -16,6 +16,21 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "Jarmos-san",
+      "name": "Somraj Saha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31373860?v=4",
+      "profile": "https://jarmos.vercel.app",
+      "contributions": [
+        "review",
+        "content",
+        "ideas",
+        "projectManagement",
+        "infra",
+        "tool",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
