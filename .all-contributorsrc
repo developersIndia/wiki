@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Bhupesh-V",
+      "name": "Bhupesh Varshney",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34342551?v=4",
+      "profile": "http://bhupesh.me",
+      "contributions": [
+        "review",
+        "content",
+        "ideas",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "wiki-mdbook",
+  "projectOwner": "developersIndia",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
