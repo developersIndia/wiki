@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sggts04",
+      "name": "Shreyas Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20678047?v=4",
+      "profile": "https://shreyasgupta.in",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "wiki-mdbook",
+  "projectOwner": "developersIndia",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
