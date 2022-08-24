@@ -43,7 +43,7 @@ body:
     id: your-role
     attributes:
       label: Are you interested in authoring this wiki guide?
-      description: Being an author makes you responsible for researching every little detail a wiki once its written & timely updating it if the scenarios change in future.
+      description: Being an author makes you responsible for researching every little detail about a wiki once its written & keeping it updated timely.
       options:
         - "Yes"
         - "No"
