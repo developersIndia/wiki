@@ -4,6 +4,10 @@ labels: ["proposal"]
 assignees:
   - Bhupesh-V
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest an idea for a wiki proposal 🧡
   - type: input
     id: title
     attributes:
