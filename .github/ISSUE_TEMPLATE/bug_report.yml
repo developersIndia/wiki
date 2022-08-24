@@ -1,9 +1,6 @@
-name: Bug Report
+name: Bug Report 🐛
 
 description: File a bug report for broken URLs, grammatical errors, inconsistent site aesthetics & such.
-
-title: "[REPORT]: "
-
 labels: ["bug"]
 
 assignees:

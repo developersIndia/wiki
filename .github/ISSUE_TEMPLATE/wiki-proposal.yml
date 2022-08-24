@@ -1,0 +1,55 @@
+name: 📑 Wiki Proposal
+description: Suggest an idea for a developersIndia wiki
+labels: ["proposal"]
+assignees:
+  - Bhupesh-V
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Please share the title of your idea/proposal
+      placeholder: For E.g. How to navigate interivews in product based companies
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What's this proposal about? What should this wiki cover? Who's the audience?
+      placeholder: The wiki should talk about ...
+    validations:
+      required: true
+  - type: dropdown
+    id: is-faq
+    attributes:
+      label: Is this topic a Frequently Asked Question (FAQ) on r/developersIndia?
+      description: We encourage wikis that answer frequently asked questions on the developersIndia subreddit.
+      options:
+        - Yes
+        - No
+    validations:
+      required: true
+  - type: textarea
+    id: faq-list
+    attributes:
+      label: If this is a FAQ on the sub, please include links of similar posts from the subreddit
+    validations:
+      required: false
+  - type: dropdown
+    id: your-role
+    attributes:
+      label: Are you interested in authoring this wiki guide?
+      description: Being an author makes you responsible for researching every little detail a wiki once its written & timely updating it if the scenarios change in future.
+      options:
+        - Yes
+        - No
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/developersIndia/.github/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow the community's Code of Conduct
+          required: true
