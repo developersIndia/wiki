@@ -8,16 +8,16 @@ body:
     attributes:
       value: |
         Thanks for taking the time to suggest an idea for a wiki proposal 🧡. If you have any questions, join us on Discord
-        Make sure to enter a descriptive title above For E.g. "How to navigate interivews in product based companies"
-  - type: dropdown
+        Make sure to enter a descriptive issue title above. E.g. "How to navigate interivews in product based companies"
+
+  - type: checkboxes
     id: read-contrib
     attributes:
-      label: Have you read the contributing guidelines for propsing a wiki?
+      label: Have you read the contributing guidelines for proposing a wiki?
+      description: Please go through them once if you haven't [CONTRIBUTING.md](https://github.com/developersIndia/wiki/blob/main/CONTRIBUTING.md)
       options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
+        - label: I have read the contributing guidelines.
+          required: true
   - type: textarea
     id: description
     attributes:
