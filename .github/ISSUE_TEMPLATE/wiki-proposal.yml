@@ -1,5 +1,5 @@
 name: Wiki Proposal 📑
-description: Suggest an idea for a developersIndia wiki
+description: Suggest an idea for the developersIndia wiki
 labels: ["proposal"]
 assignees:
   - Bhupesh-V
@@ -8,14 +8,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to suggest an idea for a wiki proposal 🧡. If you have any questions, join us on Discord
-  - type: input
-    id: title
-    attributes:
-      label: Title
-      description: Please share the title of your idea/proposal
-      placeholder: For E.g. How to navigate interivews in product based companies
-    validations:
-      required: true
+        Make sure to enter a descriptive title above For E.g. "How to navigate interivews in product based companies"
   - type: textarea
     id: description
     attributes:
@@ -44,6 +37,15 @@ body:
     attributes:
       label: Are you interested in authoring this wiki guide?
       description: Being an author makes you responsible for researching every little detail about a wiki once its written & keeping it updated timely.
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: dropdown
+    id: read-contrib
+    attributes:
+      label: Have you read the [contributing guidelines](https://github.com/developersIndia/wiki/blob/main/CONTRIBUTING.md) for propsing a wiki?
       options:
         - "Yes"
         - "No"

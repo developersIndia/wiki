@@ -23,7 +23,7 @@ with this project, make sure you've read the official `mdbook`
 Markdown, the [Markdown Guide][5] will be helpful for that cause.
 
 That said, before contributing to the project make sure you've read & understood
-the [contributing guidelines][6] for the community project. Once you have read
+the [contributing guidelines][6] of our community. Once you have read
 through it, please keep the following points in mind to create a wiki entry:
 
 1. Ensure your wiki is comprehensive enough & benefits the community in some
@@ -34,7 +34,7 @@ through it, please keep the following points in mind to create a wiki entry:
    for the one of the moderators to review it. Expect the review process to take
    a while before it can be merged.
 
-For a more in-detailed guide on contributing or creating community guide, refer
+For a more in-detailed guide on contributing or a creating a wiki, refer
 to the [contributing guidelines][10] document of the project.
 
 ## License & Usage Terms & Conditions
@@ -54,7 +54,7 @@ take a look at the [LICENSE][9] document.
 [7]: https://github.com/developersIndia/wiki-mdbook/issues/new/choose
 [8]: https://github.com/developersIndia/wiki-mdbook/compare
 [9]: ./LICENSE
-[10]: ./github/CONTRIBUTING,md
+[10]: ./CONTRIBUTING,md
 
 ## Contributors ✨
 
