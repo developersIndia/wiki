@@ -9,6 +9,15 @@ body:
       value: |
         Thanks for taking the time to suggest an idea for a wiki proposal 🧡. If you have any questions, join us on Discord
         Make sure to enter a descriptive title above For E.g. "How to navigate interivews in product based companies"
+  - type: dropdown
+    id: read-contrib
+    attributes:
+      label: Have you read the contributing guidelines for propsing a wiki?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
@@ -19,11 +28,11 @@ body:
   - type: dropdown
     id: is-faq
     attributes:
-      label: Is this topic a Frequently Asked Question (FAQ) on r/developersIndia?
+      label: Choose the category for this wiki
       description: We encourage wikis that answer frequently asked questions on the developersIndia subreddit.
       options:
-        - "Yes"
-        - "No"
+        - "Community Guide"
+        - "FAQ"
     validations:
       required: true
   - type: textarea
@@ -36,16 +45,7 @@ body:
     id: your-role
     attributes:
       label: Are you interested in authoring this wiki guide?
-      description: Being an author makes you responsible for researching every little detail about a wiki once its written & keeping it updated timely.
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
-  - type: dropdown
-    id: read-contrib
-    attributes:
-      label: Have you read the [contributing guidelines](https://github.com/developersIndia/wiki/blob/main/CONTRIBUTING.md) for propsing a wiki?
+      description: Being an author makes you responsible for researching every little detail when writing a wiki. Once its written you have to also keep it updated timely.
       options:
         - "Yes"
         - "No"
