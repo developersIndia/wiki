@@ -1,0 +1,12 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @global-owner1 and @global-owner2 will be requested for
+# review when someone opens a pull request.
+*       @Bhupesh-V
+
+# Add yourself as a wikiowner for the correct path of wiki you create in "src" directory
+
+/src/community-guides/where-to-find-tech-jobs.md @Bhupesh-V
+/src/community-guides/how-to-constantly-upskill-yourself-as-a-developer.md @Bhupesh-V
+/src/community-guides/how-to-create-an-ideal-software-engineering-resume.md @Jarmos-san
+/src/faqs/how-to-start-dsa.md @Jarmos-san @sggts04
