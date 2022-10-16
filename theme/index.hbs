@@ -20,6 +20,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
         <meta name="google-site-verification" content="om7RxRaBSwjXM0DfK2c5QBO3VAnjgdS14p9eC8f1rW0" />
+        <meta property="og:type" content="article">
+        <meta property="og:site_name" content="DevelopersIndia Wiki">
+        <meta name="twitter:card" content="summary" />
+        <meta property="og:title" content="{{chapter_title}} - DevelopersIndia Wiki" />
+        <meta property="twitter:title" content="{{chapter_title}}">
+        <meta property="og:image" itemprop="image" content="{{ path_to_root }}favicon.svg"/>
 
         {{#if favicon_svg}}
         <link rel="icon" href="{{ path_to_root }}favicon.svg">
@@ -310,7 +316,11 @@
         </script>
         {{/if}}
         {{/if}}
-
+        <script>
+            function get_og_url(url){
+                return url.replace(/.md/, ".html");
+            }
+        </script>
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-N27DH5VD1W"></script>
         <script>

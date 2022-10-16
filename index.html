@@ -10,9 +10,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
         <meta name="google-site-verification" content="om7RxRaBSwjXM0DfK2c5QBO3VAnjgdS14p9eC8f1rW0" />
+        <meta property="og:type" content="article">
+        <meta property="og:site_name" content="DevelopersIndia Wiki">
+        <meta name="twitter:card" content="summary" />
+        <meta property="og:title" content="Introduction - DevelopersIndia Wiki" />
+        <meta property="twitter:title" content="Introduction">
+        <meta property="og:image" itemprop="image" content="favicon.svg"/>
 
         <link rel="icon" href="favicon.svg">
-        <link rel="shortcut icon" href="favicon.png">
         <link rel="stylesheet" href="css/variables.css">
         <link rel="stylesheet" href="css/general.css">
         <link rel="stylesheet" href="css/chrome.css">
@@ -111,10 +116,10 @@
                         <a href="print.html" title="Print this book" aria-label="Print this book">
                             <i id="print-button" class="fa fa-print"></i>
                         </a>
-                        <a href="https://github.com/developersIndia/wiki-mdbook" title="Git repository" aria-label="Git repository">
+                        <a href="https://github.com/developersIndia/wiki" title="Git repository" aria-label="Git repository">
                             <i id="git-repository-button" class="fa fa-github"></i>
                         </a>
-                        <a href="https://github.com/developersIndia/wiki-mdbook/edit/main/src/../README.md" title="Suggest an edit" aria-label="Suggest an edit">
+                        <a href="https://github.com/developersIndia/wiki/edit/main/src/../README.md" title="Suggest an edit" aria-label="Suggest an edit">
                             <i id="git-edit-button" class="fa fa-edit"></i>
                         </a>
                     </div>
@@ -243,6 +248,11 @@ take a look at the <a href="./LICENSE">LICENSE</a> document.</p>
         <script src="book.js" type="text/javascript" charset="utf-8"></script>
 
         <!-- Custom JS scripts -->
+        <script>
+            function get_og_url(url){
+                return url.replace(/.md/, ".html");
+            }
+        </script>
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-N27DH5VD1W"></script>
         <script>

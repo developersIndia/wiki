@@ -10,7 +10,8 @@ description = "The home for all things about the developersIndia community wiki"
 create-missing = false
 
 [output.html]
-git-repository-url = 'https://github.com/developersIndia/wiki-mdbook'
+git-repository-url = 'https://github.com/developersIndia/wiki'
 git-repository-icon = 'fa-github'
-edit-url-template = 'https://github.com/developersIndia/wiki-mdbook/edit/main/{path}'
+edit-url-template = 'https://github.com/developersIndia/wiki/edit/main/{path}'
+site-url = 'https://wiki.devsindia.in'
 # input-404 = 'not-found.md'
