@@ -46,15 +46,15 @@ take a look at the [LICENSE][9] document.
 <!-- Reference Links -->
 
 [1]: https://github.com/rust-lang/mdbook
-[2]: https://devsindia-wiki.netlify.app
+[2]: https://wiki.devsindia.in
 [3]: https://rust-lang.github.io/mdBook
 [4]: https://github.github.com/gfm
 [5]: https://www.markdownguide.org
 [6]: https://github.com/developersIndia/.github/blob/main/CONTRIBUTING.md
-[7]: https://github.com/developersIndia/wiki-mdbook/issues/new/choose
-[8]: https://github.com/developersIndia/wiki-mdbook/compare
-[9]: ./LICENSE
-[10]: ./CONTRIBUTING,md
+[7]: https://github.com/developersIndia/wiki/issues/new/choose
+[8]: https://github.com/developersIndia/wiki/compare
+[9]: https://github.com/developersIndia/wiki/blob/main/LICENSE
+[10]: https://github.com/developersIndia/wiki/blob/main/CONTRIBUTING.md
 
 ## Contributors ✨
 
