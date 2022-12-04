@@ -48,15 +48,15 @@ So to optimise our limited resource, we'll only include the most relevant inform
 
 ## Prioritise Categories as per the Importance
 
-In a previous section I briefly mentioned about categorising the sections of a resume according to its priority & importance. For example, a experienced individual **SHOULD** start (*after the header section which usually contains your name & contact details*) the resume describing their past experience. The “*Experience*” section can be immediately followed by the “*Projects*” (I prefer naming it as “*Portfolio*” see justification for doing so above) & then “*Skills*”*, “Education”*, etc.
+In a previous section I briefly mentioned about categorising the sections of a resume according to its priority & importance. For example, an experienced individual **SHOULD** start (*after the header section which usually contains your name & contact details*) the resume describing their past experience. The “*Experience*” section can be immediately followed by the “*Projects*” (I prefer naming it as “*Portfolio*” see justification for doing so above) & then “*Skills*”*, “Education”*, etc.
 
 On that note, following are some quick notes on how you should prioritise the categories:
 
 1. You’re an experienced individual (*as in someone with 1+ years of experience*) in that case its best to start the main section of the resume with either the “*Technical*” *or “Experience”* sections. In doing so, you ensure the prospect is forced to focus more time on those two sections than the rest of the stuff towards the end of the resume.
-2. Be mindful, human beings have short attention span & especially in today’s fast-moving word, you’ll want to attract someone’s attention as quick as possible all the while being **VERY** specific. So, only include necessary information about yourself before filling up whitespace with fluff.
+2. Be mindful, human beings have short attention span & especially in today’s fast-moving world, you’ll want to attract someone’s attention as quick as possible all the while being **VERY** specific. So, only include necessary information about yourself before filling up whitespace with fluff.
 3. There will be times (*especially as a fresh college graduate*) when say, looking for an internship or an apprenticeship, your “*Experience*”  and/or “*Technical*” section wouldn’t be as impressive as someone with years of experience. In that case, start the resume with an “*Education*” section & detailing “*relevant courses*” which you believe will help the prospect in their businesses. For example, if you’re applying to a Machine Learning position, state relevant coursework like Statistics & such which were taught in your college curriculum.
 
-That said, do remember prioritising what to include towards the top of the resume is a subjective topic. You can never go wrong with what you include in the resume but remember relevancy is more important than simple fluff! 
+That said, do remember prioritising what to include towards the top of the resume is a subjective topic. You can never go wrong with what you include in the resume but remember, relevancy is more important than simple fluff! 
 
 ## Recommended Resources for Reference
 
