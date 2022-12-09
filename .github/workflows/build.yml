@@ -35,7 +35,7 @@ jobs:
         run: mdbook build
 
       - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v1.2
+        uses: nwtgck/actions-netlify@v2.0
         with:
           publish-dir: 'book'
           production-branch: main
