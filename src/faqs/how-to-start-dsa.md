@@ -64,8 +64,7 @@ If you prefer the book learning approach, you are covered:
 If you prefer the video lecture approach:
 
 - [Luv CP/DSA Playlist](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) - Not to be confused with Luv Babbar, this is a different guy. The playlist is great, and he's a great teacher, the playlist is C++-focused, but the explanation of concepts will be language agnostic. Warning: This playlist is in Hinglish.
-- [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists)
-- Very popular for his Dynamic Programming playlist but also has playlists on other concepts like Binary Search, Recursion, Stacks, Sliding Window, etc.
+- [Aditya Verma](https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists) - Very popular for his Dynamic Programming playlist but also has playlists on other concepts like Binary Search, Recursion, Stacks, Sliding Window, etc.
 - [Striver](https://www.youtube.com/c/takeUforward/playlists) - Very popular for his problem set but has nice playlists explaining some topics like Recursion, DP, Greedy Algos, Binary Search, Trees
 - [LuvBabbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - Not a big fan of the guy personally, but this is a well-compiled playlist to study all the topics.
 
