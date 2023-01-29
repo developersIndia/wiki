@@ -1,7 +1,8 @@
 # The DevelopersIndia Community Wiki
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg)](#contributors-)
+[![Discord](https://img.shields.io/discord/669880381649977354?color=%237289da&label=Discord&logo=Discord)](https://discordapp.com/invite/MKXMSNC)
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
 
 Welcome to the DevelopersIndia Community Wiki repository! This repository is
 home for our face-lifted community wiki which you'll find across all the
