@@ -13,7 +13,7 @@
 - Constantly learning new stuff is useless if you can't apply those new techniques.
 
 ## Write about what you learn
-- No matter how small things are if its something forgettable (and most of the things in software are) than log it somewhere.
+- No matter how small things are if its something forgettable (and most of the things in software are) then log it somewhere.
 - Build a notes sites just for yourself, no need to be fancy. Open a text file, write about what you learned, store in a git repo or in google docs.
 - You can optionally choose to share you knowledge with the rest of the world via blogs.
 
