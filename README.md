@@ -10,6 +10,10 @@ platforms our community is active on. So, feel free to read through our wiki or
 perhaps if you're interested in contributing to the project, this README will
 come in handy for you.
 
+## What wiki(s) to contribute?
+
+The first and foremost goal of a wiki is that it helps the community, and becomes an official standing on the topic. We have a [bunch of topics](https://github.com/developersIndia/wiki/discussions/21) being requested over time. We request any author to have a look over them before creating a new proposal.
+
 ## Contributing to the Wiki
 
 We welcome community contributions to the project! And if you would like to
