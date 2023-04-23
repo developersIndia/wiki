@@ -1,4 +1,4 @@
-# The DevelopersIndia Community Wiki
+# The developersIndia Community Wiki
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg)](#contributors-)
 [![Discord](https://img.shields.io/discord/669880381649977354?color=%237289da&label=Discord&logo=Discord)](https://discordapp.com/invite/MKXMSNC)
