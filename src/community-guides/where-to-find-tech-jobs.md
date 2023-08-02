@@ -29,4 +29,6 @@ Not to mention job portals like shine, indeed
 1. [kennytilton.github.io](https://kennytilton.github.io/whoishiring/)
 2. [hnjobs.emilburzo.com](https://hnjobs.emilburzo.com)
 
-This wiki is maintained by [u/BhupeshV](https://www.reddit.com/user/BhupeshV)
+## Must check out
+- [No CS degree - Job Board for self-taught developers](https://www.nocsdegree.com/jobs/)
+
