@@ -2,7 +2,7 @@
 
 [Introduction](../README.md)
 
-# Frequently Asked Questions (FAQs)]
+# Frequently Asked Questions (FAQs)
 - [How to Start DSA](faqs/how-to-start-dsa.md)
 
 # Community Guides
