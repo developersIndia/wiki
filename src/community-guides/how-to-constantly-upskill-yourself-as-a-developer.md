@@ -8,11 +8,13 @@
 - Join programming related subreddits (Reddit is the best place for software folks after StackOverflow). If you like JavaScript, [find subreddits related to javascript](https://anvaka.github.io/sayit/?query=javascript) and join them.
 
 ## Write Code & Create Software Projects
+
 - This has been asked & repeated thousands of time by everyone on Internet, Just build stuff!
 - Learn how to contribute to FOSS, if you don't have ideas yourself to build.
 - Constantly learning new stuff is useless if you can't apply those new techniques.
 
 ## Write about what you learn
+
 - No matter how small things are if its something forgettable (and most of the things in software are) then log it somewhere.
 - Build a notes sites just for yourself, no need to be fancy. Open a text file, write about what you learned, store in a git repo or in google docs.
 - You can optionally choose to share you knowledge with the rest of the world via blogs.
@@ -36,8 +38,7 @@
   2. [programming talks](https://www.programmingtalks.org/)
   3. [confs.tech](https://confs.tech/#)
   4. [papercall.io](https://www.papercall.io/events/)
-  5. [cfpland](https://www.cfpland.com/)
-  6. [DevTube](https://dev.tube/)
+  5. [DevTube](https://dev.tube/)
 
 &nbsp;
 
