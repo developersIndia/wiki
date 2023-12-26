@@ -4,8 +4,7 @@
 [![Discord](https://img.shields.io/discord/669880381649977354?color=%237289da&label=Discord&logo=Discord)](https://discordapp.com/invite/MKXMSNC)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
 
-Welcome to the DevelopersIndia Community Wiki repository! This repository is
-home for our face-lifted community wiki which you'll find across all the
+Welcome to the DevelopersIndia Community Wiki repository! This repository is home to our face-lifted community wiki which you'll find across all the
 platforms our community is active on. So, feel free to read through our wiki or
 perhaps if you're interested in contributing to the project, this README will
 come in handy for you.
@@ -17,7 +16,7 @@ The first and foremost goal of a wiki is that it helps the community, and become
 ## Contributing to the Wiki
 
 We welcome community contributions to the project! And if you would like to
-share a word or two which you believe will help the community achieve something
+share a word or two that you believe will help the community achieve something
 good, please read this section for instructions.
 
 First off, we use the [`mdbook`][1] project to maintain, create & generate the
@@ -39,7 +38,7 @@ through it, please keep the following points in mind to create a wiki entry:
    for the one of the moderators to review it. Expect the review process to take
    a while before it can be merged.
 
-For a more in-detailed guide on contributing or a creating a wiki, refer
+For a more detailed guide on contributing or creating a wiki, refer
 to the [contributing guidelines][10] document of the project.
 
 ## License & Usage Terms & Conditions
