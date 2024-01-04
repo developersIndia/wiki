@@ -57,7 +57,6 @@ Okay, I know the syllabus, where do I learn from?
 If you prefer the book learning approach, you are covered:
 
 - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - This book is an amazing resource that covers everything even up to advanced CP concepts, but for just cracking DSA interviews you can cover up to chapter 13, which should cover all the basic concepts and introduce to some medium level Graph concepts. Mostly language agnostic, but has code in C++.
-- [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf) - Haven't personally read the book, but is a popular recommended resource for doing DSA in Python.
 
 #### Video Lectures
 
