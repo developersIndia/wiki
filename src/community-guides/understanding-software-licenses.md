@@ -7,6 +7,7 @@ In simple terms, a software license defines a set of responsibilities for those 
 
 A software license is a requirement when releasing code to the public, as without one, the code is copyrighted to the developer by default.
 
+
 ## Why are software licenses important?
 Here are the reasons why software licenses are indispensable:
 
@@ -18,7 +19,8 @@ Here are the reasons why software licenses are indispensable:
 
 - They allow developers to control how their software is used to prevent misuse and unapproved modifications.
 
-- Open-source licenses facilitate collaboration by providing a legal framework for a transparent development environment. 
+- Open-source licenses facilitate collaboration by providing a legal framework for a transparent development environment.
+ 
 
 ## What are the types of Software Licenses? 
 There are mainly 4 main categories of Software Licenses based on the rights and restrictions they impose.
@@ -38,10 +40,9 @@ Permissive licenses, often referred to as “BSD-style licenses”, contain mini
 
 Some commonly used permissive licenses are:
 
-- **MIT License:** The MIT License is one of the most permissive licenses that allow you to use, copy, modify, distribute, sublicense and sell copies of the software as long as you add a copy of the original MIT License and copyright to it. 
-- **Apache License 2.0:** Apache License is similar to MIT License but it explicitly addresses patents by providing the recipient with a license to any patents held by the contributor related to the project.
-- **BSD License 2.0:** Much like the MIT License, the BSDv2 License also allows you to use, modify, distribute and sublicense the software. However, it includes an additional requirement for attribution in advertising materials.
-
+- **[MIT License](https://opensource.org/license/mit/):** The MIT License is one of the most permissive licenses that allow you to use, copy, modify, distribute, sublicense and sell copies of the software as long as you add a copy of the original MIT License and copyright to it. 
+- **[Apache License 2.0](https://opensource.org/license/apache-2-0/):** Apache License is similar to MIT License but it explicitly addresses patents by providing the recipient with a license to any patents held by the contributor related to the project.
+- **[BSD-2-Clause](https://opensource.org/license/bsd-2-clause/):** Much like the MIT License, the 2-Clause BSD License also allows you to use, modify, distribute and sublicense the software. However, it includes an additional requirement for attribution in advertising materials.
 
 ### 3. Copyleft
 Copyleft licenses are more restrictive and less commercial-friendly. 
@@ -49,15 +50,16 @@ These require that anyone who modifies or distributes the software share their c
 
 Some commonly used copyleft licenses are:
 
-- **GNU General Public License (GPL) 2.0:** To utilise GPLv2 rights (copying, distribution & modifying), you must track changes and dates in the source file and share any changes under GPL terms.
-- **GNU General Public License (GPL) 3.0:** GPLv3 follows GPLv2 but also includes provisions for patents, allows adding extra permissions, improved internationalization and termination processes, etc.
-- **GNU Affero General Public License (AGPL) 3.0:** AGPLv3 and GPLv3 share core principles of copyleft, but AGPLv3 includes additional provisions to address the distribution of modified software over a network.   
+- **[GNU General Public License (GPL) 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html):** To utilise GPLv2 rights (copying, distribution & modifying), you must track changes and dates in the source file and share any changes under GPL terms.
+- **[GNU General Public License (GPL) 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html):** GPLv3 follows GPLv2 but also includes provisions for patents, allows adding extra permissions, improved internationalization and termination processes, etc.
+- **[GNU Affero General Public License (AGPL) 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html):** AGPLv3 and GPLv3 share core principles of copyleft, but AGPLv3 includes additional provisions to address the distribution of modified software over a network.   
 
 ### 4. Proprietary
 Also called closed-sourced, this license is used by developers or vendors to claim ownership of their work and software. Proprietary licenses restrict the user’s right to modify, distribute or access the underlying source code of the software.
 An example of a proprietary license is:
 
-- **MS Reference Source License:** The MS-RSL is a proprietary license that allows you to review the code and make copies of it, but you can’t use the code or change it in any way. 
+- **[MS Reference Source License](https://referencesource.microsoft.com/license.html):** The MS-RSL is a proprietary license that allows you to review the code and make copies of it, but you can’t use the code or change it in any way. 
+
 
 ## Comparison of Software Licenses
 Here’s a table summarizing the software licenses we talked about earlier, including their types, key features and examples of projects corresponding to each license.
@@ -74,6 +76,7 @@ Here’s a table summarizing the software licenses we talked about earlier, incl
 | **ISC License**           | Permissive         |  Short and simple permissive license.                        | OpenBSD, PostCSS                 |
 | **GNU Lesser General Public License (LGPL)** | Weak Copyleft  |  Allows linking with non-GPL software.                     | GTK+, GStreamer                  |
 | **Unlicense**             | Public Domain      |  Places the work in the public domain with no restrictions.  | Bitcoin.php, CPython (prior to v3.5) |
+
 
 ## Which software license should I use? 
 
@@ -93,7 +96,7 @@ Not sure which license to pick? Here are a few tools to help you out.
 
 - [Choosealicense.com](https://choosealicense.com/) by Github offers comprehensive information on licensing options beyond those discussed here. 
 - [Public License Selector](https://ufal.github.io/public-license-selector/) by ÚFAL is a tool that can help you choose the right open-source license for data and software.
-- See [OSI's Extensive FAQs list](https://opensource.org/faq/) which might help answer some of your questions.
+- Also, check out [OSI's extensive FAQs](https://opensource.org/faq/) which may offer solutions to your queries.
 ---
 
 This wiki is maintained by [u/govind_s_nair](https://www.reddit.com/user/govind_s_nair).
