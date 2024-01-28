@@ -69,11 +69,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="http://bhupesh.me"><img src="https://avatars.githubusercontent.com/u/34342551?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bhupesh Varshney</b></sub></a><br /><a href="https://github.com/developersIndia/wiki-mdbook/pulls?q=is%3Apr+reviewed-by%3ABhupesh-V" title="Reviewed Pull Requests">👀</a> <a href="#content-Bhupesh-V" title="Content">🖋</a> <a href="#ideas-Bhupesh-V" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Bhupesh-V" title="Project Management">📆</a></td>
-    <td align="center"><a href="https://jarmos.vercel.app"><img src="https://avatars.githubusercontent.com/u/31373860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Somraj Saha</b></sub></a><br /><a href="https://github.com/developersIndia/wiki-mdbook/pulls?q=is%3Apr+reviewed-by%3AJarmos-san" title="Reviewed Pull Requests">👀</a> <a href="#content-Jarmos-san" title="Content">🖋</a> <a href="#ideas-Jarmos-san" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Jarmos-san" title="Project Management">📆</a> <a href="#infra-Jarmos-san" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tool-Jarmos-san" title="Tools">🔧</a> <a href="https://github.com/developersIndia/wiki-mdbook/commits?author=Jarmos-san" title="Code">💻</a></td>
-    <td align="center"><a href="https://shreyasgupta.in"><img src="https://avatars.githubusercontent.com/u/20678047?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shreyas Gupta</b></sub></a><br /><a href="#content-sggts04" title="Content">🖋</a> <a href="#ideas-sggts04" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://bhupesh.me"><img src="https://avatars.githubusercontent.com/u/34342551?v=4?s=100" width="100px;" alt="Bhupesh Varshney"/><br /><sub><b>Bhupesh Varshney</b></sub></a><br /><a href="https://github.com/developersIndia/wiki/pulls?q=is%3Apr+reviewed-by%3ABhupesh-V" title="Reviewed Pull Requests">👀</a> <a href="#content-Bhupesh-V" title="Content">🖋</a> <a href="#ideas-Bhupesh-V" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Bhupesh-V" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jarmos.vercel.app"><img src="https://avatars.githubusercontent.com/u/31373860?v=4?s=100" width="100px;" alt="Somraj Saha"/><br /><sub><b>Somraj Saha</b></sub></a><br /><a href="https://github.com/developersIndia/wiki/pulls?q=is%3Apr+reviewed-by%3AJarmos-san" title="Reviewed Pull Requests">👀</a> <a href="#content-Jarmos-san" title="Content">🖋</a> <a href="#ideas-Jarmos-san" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Jarmos-san" title="Project Management">📆</a> <a href="#infra-Jarmos-san" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tool-Jarmos-san" title="Tools">🔧</a> <a href="https://github.com/developersIndia/wiki/commits?author=Jarmos-san" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://shreyasgupta.in"><img src="https://avatars.githubusercontent.com/u/20678047?v=4?s=100" width="100px;" alt="Shreyas Gupta"/><br /><sub><b>Shreyas Gupta</b></sub></a><br /><a href="#content-sggts04" title="Content">🖋</a> <a href="#ideas-sggts04" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://govindsnair.netlify.app"><img src="https://avatars.githubusercontent.com/u/115881229?v=4?s=100" width="100px;" alt="Govind S Nair"/><br /><sub><b>Govind S Nair</b></sub></a><br /><a href="#content-g0v1ndN" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
