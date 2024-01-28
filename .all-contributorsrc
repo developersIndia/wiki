@@ -41,12 +41,23 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "g0v1ndN",
+      "name": "Govind S Nair",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115881229?v=4",
+      "profile": "http://govindsnair.netlify.app",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "wiki-mdbook",
+  "projectName": "wiki",
   "projectOwner": "developersIndia",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
