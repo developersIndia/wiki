@@ -28,7 +28,7 @@ Public Domain software refers to software deliberately placed in the public doma
 
 Direct licensing for the public domain is not universally recognized. Here are two tools that you could use as alternatives.  
 
-- **Creative Commons Zero (CC0):** CC0, provided by Creative Commons, is used for waving copyright interest in a work you've created and serves as a fallback as a public domain equivalent license.
+- **[Creative Commons Zero (CC0)](https://creativecommons.org/public-domain/cc0/):** CC0, provided by Creative Commons, is used for waving copyright interest in a work you've created and serves as a fallback as a public domain equivalent license.
 - **The Unlicense:** The Unlicense is similar to CC0 but offers a simpler, more direct statement of public domain dedication. 
 
 ### 2. Permissive 
