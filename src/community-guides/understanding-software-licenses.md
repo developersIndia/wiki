@@ -93,7 +93,7 @@ Not sure which license to pick? Here are a few tools to help you out.
 
 - [Choosealicense.com](https://choosealicense.com/) by Github offers comprehensive information on licensing options beyond those discussed here. 
 - [Public License Selector](https://ufal.github.io/public-license-selector/) by ÚFAL is a tool that can help you choose the right open-source license for data and software.
-
+- See [OSI's Extensive FAQs list](https://opensource.org/faq/) which might help answer some of your questions.
 ---
 
 This wiki is maintained by [u/govind_s_nair](https://www.reddit.com/user/govind_s_nair).
