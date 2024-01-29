@@ -6,8 +6,8 @@ on:
       - 'main'
   workflow_dispatch:
 
-# permissions:
-#   contents: read
+permissions:
+  contents: read
 
 jobs:
   deploy:
