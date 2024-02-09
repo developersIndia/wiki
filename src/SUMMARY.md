@@ -4,6 +4,7 @@
 
 # Frequently Asked Questions (FAQs)
 - [How to Start DSA](faqs/how-to-start-dsa.md)
+- [Finding Small FOSS Projects on GitHub to Contribute to](faqs/finding-small-foss-projects-on-github.md)
 
 # Community Guides
 - [How to Constantly Upskill Yourself as a Developer](community-guides/how-to-constantly-upskill-yourself-as-a-developer.md)
