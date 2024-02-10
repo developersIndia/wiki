@@ -2,13 +2,13 @@
 
 There are more than [60k small FOSS projects](https://github.com/search?q=saved%3Asmall-foss&type=repositories&saved_searches=%5B%7B%22name%22%3A%22small-foss%22%2C%22query%22%3A%22template%3Afalse+archived%3Afalse+fork%3Afalse+stars%3A100..500+forks%3A%3E%3D3+is%3Apublic+topics%3A%3E%3D3+license%3A0bsd+license%3Amit+license%3Aapache-2.0+license%3Agpl+license%3AMPL-2.0%22%7D%5D&expanded_query=template%3Afalse+archived%3Afalse+fork%3Afalse+stars%3A100..500+forks%3A%3E%3D3+is%3Apublic+topics%3A%3E%3D3+license%3A0bsd+license%3Amit+license%3Aapache-2.0+license%3Agpl+license%3AMPL-2.0) on GitHub most likely open to contributions. Have you ever thought about contributing to them? If not, then you should. This guide is about helping the reader identify these projects on GitHub. The guide is meant to encourage both new and experienced contributors to find projects on GitHub that have a small impact and contribute to them in any way.
 
-There are a lot of sites like [Up For Grabs](https://up-for-grabs.net/#/) and [First Timers Only](https://www.firsttimersonly.com/) that use "crowdsourcing" as a way to add & find projects and issues to contribute to but there's a big chance that authors of small projects may not be well represented in this list or even worse you are missing out to work on some interesting hidden gems.
+There are existing sites like [Up For Grabs](https://up-for-grabs.net/#/) and [First Timers Only](https://www.firsttimersonly.com/) that use "crowdsourcing" as a way to add & find projects and issues to contribute to but there's a big chance that authors of small projects may not be well represented in this list (marketing projects takes a lof of effort), or even worse you are missing out to work on some interesting hidden gems.
 
 
 ## What this guide covers?
 
 - Understanding the importance of contributing to small projects.
-- How to find projects on GitHub effectively.
+- How to search projects on GitHub effectively.
 
 ## What it doesn't cover?
 
@@ -47,7 +47,7 @@ template:false archived:false fork:false stars:100..500 forks:>=3 is:public topi
 ### Judging the criteria to filter small projects
 
 - **`stars:100..500`**
-  - At first glance, filtering by stars may not be a good idea since they can be [bought nowadays](https://dagster.io/blog/fake-stars), but it's a good starting point for us. Projects sitting in this category have some traction and are not completely unknown to the internet but they most likely lack marketing.
+  - At first glance, filtering by stars may not be a good idea since they can possibly be [bought nowadays](https://dagster.io/blog/fake-stars), but it's a good starting point for us. Projects sitting in this category have some traction and are not completely unknown to the internet but they most likely lack marketing.
   - Reaching this milestone with the number of stars is a sign that the maintainer/author may be serious about the project and is willing to maintain it for the long run. Hence, open for contributions.
 - **`archived:false`**
   - Avoid projects where the author has given up on the project or the maintainers no longer wish to continue the development.
@@ -64,7 +64,7 @@ template:false archived:false fork:false stars:100..500 forks:>=3 is:public topi
 
 ### How to apply and use the filter query?
 
-GitHub is kind enough to provide us with a "Saved Searches" feature. You can save the filter query as a saved search and apply it whenever you want to find small projects.
+GitHub is kind enough to provide us with a "Saved Searches" feature. You can save the filter query as a saved search and apply it whenever you want to find small projects. Let's see how to do that.
 
 #### Step 1: Search for the filter query
 
@@ -96,7 +96,9 @@ You can combine other filters with saved searches as well. For example, to find 
 
 ```
 saved:small-foss language:python
-# or
+
+# or combine multiple languages
+
 saved:small-foss language:C++ language:Java 
 ```
 
@@ -120,17 +122,19 @@ You can sort the search results by "Recently updated" to find the most active pr
 #### What if I don't trust the projects I find?
 
 - You can always check the project's README, CONTRIBUTING.md, and the issues to get a better understanding of the project and its maintainers.
-- Look for authors on external platforms like LinkedIn, Twitter, etc, and see if they actively maintain the project.
+- Look for authors on external platforms like LinkedIn, Twitter, etc, and see if they actively talking about the project.
+- In rare cases its also possible that the authors set-up a blog, newsletter or a YouTube channel to talk about the project. This is an opportunity for you to understand the author's vision and the project's future.
 
 #### What if my PRs are not getting merged?
 
-- If your PRs are not getting merged, don't worry. You can always ask for feedback and improve your PRs. If the project is not active, you can always fork the project and maintain it yourself.
-- In the real world, not all PRs get merged. That's not new and applies to all projects, big or small.
+- If your PRs are not getting merged, don't worry. You can always ask for feedback and improve your PRs.
+- In the real world, not all PRs will get merged. That's not new and applies to all projects, big or small.
 - Having said that, it's a good idea to move on to another project as soon as you feel you can't contribute anymore. There are plenty of projects out there that need your help.
+- Lastly, if the project is not active, you can always fork it and maintain it yourself :)
 
 #### What if there are no open issues on these small projects?
 
-Here's your chance to do a _lot_ of things.
+Here's your chance to do a **_lot_** of things.
 
 - Install and run the project, find potholes in that process, open issue.
 - Look for bugs in the code, open issue.
