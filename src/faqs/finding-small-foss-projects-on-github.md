@@ -141,5 +141,9 @@ Here's your chance to do a _lot_ of things.
 - The project is not following best practices? Open the issue and discuss.
 - Lastly, become an **enabler** for the project. Evangelize the project on social media, write a blog post, etc.
 
+## Recommended Reading
+
+- [GitHub's documentation on Understanding the Code Search syntax](https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax)
+
 ---
 This wiki is maintained by [u/BhupeshV](https://www.reddit.com/user/BhupeshV/)
