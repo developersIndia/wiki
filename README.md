@@ -51,7 +51,7 @@ take a look at the [LICENSE][9] document.
 <!-- Reference Links -->
 
 [1]: https://github.com/rust-lang/mdbook
-[2]: https://wiki.devsindia.in
+[2]: https://wiki.developersindia.in
 [3]: https://rust-lang.github.io/mdBook
 [4]: https://github.github.com/gfm
 [5]: https://www.markdownguide.org

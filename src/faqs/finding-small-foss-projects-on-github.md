@@ -43,6 +43,8 @@ We now look at how to use GitHub search effectively to hunt small projects. Let'
 
 ### Base Search Criteria
 
+We combine a bunch of search prefixes to build the following criteria:
+
 ```
 template:false archived:false fork:false stars:100..500 forks:>=3 is:public topics:>=3 license:0bsd license:mit license:apache-2.0 license:gpl license:MPL-2.0 license:Unlicense license:AGPL-3.0 license:WTFPL license:CC
 ```
@@ -126,6 +128,10 @@ Small projects have high chances of being abandoned, so it's a good idea to sort
 ### What's missing?
 
 - There's no way to tell if the project has a valid description or not. You can however search for a query [inside the description](https://docs.github.com/en/search-github/searching-on-github/searching-for-repositories#search-by-repository-name-description-or-contents-of-the-readme-file) to filter out projects. A missing description is a sign that the author may not be serious about the project.
+- We didn't cover filtering projects based on how many open issues they have. Unfortunately there's no direct filter that will help us know whether issues exist on a repository. Although GitHub offers us 2 prefixes to look for [good-first-issues and help-wanted-issues](https://docs.github.com/en/search-github/searching-on-github/searching-for-repositories#search-based-on-number-of-issues-with-good-first-issue-or-help-wanted-labels).
+  ```
+  saved:small-foss good-first-issues:>1 help-wanted-issues:>1
+  ```
 
 ### FAQs
 
