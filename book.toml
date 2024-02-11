@@ -3,7 +3,7 @@ authors = ["DevelopersIndia Community"]
 language = "en"
 multilingual = false
 src = "src"
-title = "The Official developersIndia Community Wiki"
+title = "The Official r/developersIndia Community Wiki"
 description = "The home for all things about the developersIndia community wiki"
 
 [build]
