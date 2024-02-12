@@ -333,7 +333,7 @@ _**HAPPY CONTRIBUTING!**_ 😄
 [20]: https://docs.github.com/en/get-started/quickstart/fork-a-repo
 [21]: https://youtu.be/f5grYMXbAV0
 [22]: https://git-scm.com/docs/githooks#_pre_commit
-[23]: https://devsindia-wiki.netlify.app
+[23]: https://wiki.developersindia.in
 [24]: https://rust-lang.github.io/mdbook
 [25]: ../LICENSE
 [26]: https://github.com/developersIndia/wiki-mdbook/pulls

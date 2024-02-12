@@ -7,7 +7,7 @@ Make sure you follow below guidelines before contributing.
 ## What qualifies as a "wiki"?
 
 1. For starters, the wiki has 2 different sections:
-   1. `Community Guides`: Guides which will help the devsIndia (or the tech community) in general. You can suggest ideas by creating a proposal. A nice example would be _"How to improve your productivity as a developer"_. Go very niche with the topic.
+   1. `Community Guides`: Guides which will help developersIndia (or the tech community) in general. You can suggest ideas by creating a proposal. A nice example would be _"How to improve your productivity as a developer"_. Go very niche with the topic.
    2. `FAQs`: Questions that are repeatedly asked on our subreddit (or discord). E.g _"How to prepare yourself for a product job"_ or _"How to switch from service based to a product-based job"_. FAQs are highly valuable to the community & we expect you to constantly update them as time changes.
 2. We don't accept "tutorials" in the wiki.
 3. Try to make you wiki as detailed as possible. We don't expect you to know everything.
