@@ -11,3 +11,4 @@
 - [How to Create an Ideal Software Engineering Resume](./community-guides/how-to-create-an-ideal-software-engineering-resume.md)
 - [Where to Find Tech Jobs](./community-guides/where-to-find-tech-jobs.md)
 - [Understanding Software Licenses](./community-guides/understanding-software-licenses.md)
+- [Approaching a DSA problem](./community-guides/approaching-a-DSA-problem.md)
