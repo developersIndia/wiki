@@ -18,4 +18,5 @@
 #### Effective debugging.
 Breaking your code down into smaller parts would allow you to approach the problem in a more appealing way, allowing you to debug and test it easily. Identify patterns between logic(s) of various problems and think about why they resemble each other. Try thinking about possible tradeoffs between speed and storage. Balancing both is key in real world situations. 
 #### Patience is key.
-Most importantly, you must be patient throughout the whole process. Getting stuck is a part of the journey. Apart from that, solving more DSA problems will make you better at it. That is pretty much true for every replicable activity. Solving more problems, especially harder questions would allow you to step out of your comfort zone by a lot. Learning new algorithms, mathematical formulae, etc are all things that would make you a better programmer in the long run. 
+- Most importantly, you must be patient throughout the whole process. Getting stuck is a part of the journey. Apart from that, solving more DSA problems will make you better at it. That is pretty much true for every replicable activity. Solving more problems, especially harder questions, would allow you to step out of your comfort zone by a lot. 
+- Learning new algorithms, mathematical formulae, etc. are all things that would make you a better programmer in the long run. 
