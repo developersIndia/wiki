@@ -21,3 +21,6 @@
 #### Patience is key.
 - Most importantly, you must be patient throughout the whole process. Getting stuck is a part of the journey. Apart from that, solving more DSA problems will make you better at it. That is pretty much true for every replicable activity. Solving more problems, especially harder questions, would allow you to step out of your comfort zone by a lot. 
 - Learning new algorithms, mathematical formulae, etc. are all things that would make you a better programmer in the long run. 
+
+## Attribution
+This wiki was maintained/written by <a href="https://github.com/triach-rold"> Triach Rold</a>. 
