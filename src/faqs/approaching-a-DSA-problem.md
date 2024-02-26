@@ -1,6 +1,7 @@
 # How to approach a DSA problem ?
 #### Understanding the problem.
-The first step in approaching a DSA problem is to understand the essence of the problem itself. We must try and figure out what the problem demands. Not understanding the basic working of the problem is a big mistake. If the wording of the question is unclear, look at the testcases given for the particular problem and try to reverse-engineer the demands of the question.
+- The first step in approaching a DSA problem is to understand the essence of the problem itself. We must try and figure out what the problem demands. 
+- Not understanding the basic needs of the problem asked is a big mistake. If the wording of the question is unclear, look at the testcases given for the particular problem and try to reverse-engineer the demands of the question.
 #### Clearing out a logical path.
 Now that the problem is understood, we must move on to the logic. We must have a clear picture of the answer's logic in our head. Once we have a clear "map" of this logic, we move on to implementing it in code. If the logic of your answer statement is fairly complicated, consider writing down comments while implementing the logic in your code. Once the logic is thought of, try to think of alternate ways to approach the problem if it doesn't meet the complexity constraints. Repeat this step until you're happy with your desired logic for the answer. Using pseudocode or diagrammatic representations to refine the algorithm before coding can help to understand the logic and essence of the program well.
 #### Effective Implementation. 
