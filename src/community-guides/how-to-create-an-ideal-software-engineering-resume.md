@@ -71,6 +71,10 @@ That said, while following these suggestions will help you build the base of a g
 
 That said, what other tips do you think I might've missed out on about refining & making a resume look good? Share your thoughts below. And reach out to me on Discord if you want me to review your resume further!
 
+#### Must Reads
+
+- [r/EngineeringResumes Wiki](https://www.reddit.com/r/EngineeringResumes/wiki/index/)
+
 #### Attribution
 
 This wiki is maintained by [u/jarmosie](https://www.reddit.com/user/jarmosie)
