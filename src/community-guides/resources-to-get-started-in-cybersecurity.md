@@ -9,17 +9,11 @@ Cybersecurity is protection of computer systems or networks from malicious actor
 
 To get, it is recommended to have basic understanding of computer networking as to hack something you have to know how it communicates.
 
-[Network Fundamentals](https://www.youtube.com/watch?v=9uebakqWlB0)
-
-[TCP IP Model](https://www.youtube.com/watch?v=e5DEVa9eSN0)
-
-[How ssl works](https://howhttps.works/)
-
-[Basic of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-
-If you want a university like course with deeper understanding of basics you can follow
-
-[PWN College](https://pwn.college/intro-to-cybersecurity/)
+- [Network Fundamentals](https://www.youtube.com/watch?v=9uebakqWlB0)
+- [TCP IP Model](https://www.youtube.com/watch?v=e5DEVa9eSN0)
+- [How ssl works](https://howhttps.works/)
+- [Basic of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- If you want a university like course with deeper understanding of basics you can follow [PWN College](https://pwn.college/intro-to-cybersecurity/)
 
 ### Learn about the vulnerabilites and tools
 
