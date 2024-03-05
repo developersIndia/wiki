@@ -21,7 +21,7 @@ After understanding the basics, it is time to learn some hacking skills.
 
 [OWASP Top 10 for Web](https://owasp.org/Top10/)
 
-To learn hacking, you have to know about the vulnerabilities you need to look for. OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
+The very first step is to understand what are vulnerabilities to look for in a system? OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications.
 
 [Web Testing Guide](https://owasp.org/www-project-web-security-testing-guide/latest/)
 
