@@ -51,15 +51,10 @@ So now after gaining the knowledge about vulnerabilities and practicing how to f
 
 Bug bounty programs offer monetary rewards to ethical hackers for successfully discovering and reporting a vulnerability or bug to the application's developer.
 
-[HackerOne](https://hackerone.com/bug-bounty-programs)
-
-[Bugcrowd](https://bugcrowd.com/engagements?category=bug_bounty&page=1&sort_by=promoted&sort_direction=desc)
-
-[Intigriti](https://www.intigriti.com/programs)
-
-[Bugbase](https://bugbase.in/programs)
-
-Bugbase is India based bug bounty platform which hosts bug bounty programs for various Indian companies.
+1. [HackerOne](https://hackerone.com/bug-bounty-programs)
+2. [Bugcrowd](https://bugcrowd.com/engagements?category=bug_bounty&page=1&sort_by=promoted&sort_direction=desc)
+3. [Intigriti](https://www.intigriti.com/programs)
+4. [Bugbase](https://bugbase.in/programs): Bugbase is India based bug bounty platform which hosts bug bounty programs for various Indian companies.
 
 You can use there platforms to hunt on various programs or you can search for independent vulnerability disclosure programs which are self-hosted by various companies by searching 'Company Name' vulnerability disclosure program or 'Company Name' bug bounty program on google.
 
