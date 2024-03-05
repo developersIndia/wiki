@@ -7,7 +7,7 @@ Cybersecurity is protection of computer systems or networks from malicious actor
 
 ### Basics
 
-To get, it is recommended to have basic understanding of computer networking as to hack something you have to know how it communicates.
+To get started with cybersecurity, it is recommended to have basic understanding of computer networking, operating system fundamentals, as to hack something you have to know how it communicates. Checkout following resource to get a head start:
 
 - [Network Fundamentals](https://www.youtube.com/watch?v=9uebakqWlB0)
 - [TCP IP Model](https://www.youtube.com/watch?v=e5DEVa9eSN0)
