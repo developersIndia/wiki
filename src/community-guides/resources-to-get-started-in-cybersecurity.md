@@ -31,9 +31,8 @@ After learning about the OWSAP TOP 10 vulnerabilities in web applications. You c
 
 Burp Suite is a software security application used for penetration testing of web applications. It is a HTTP proxy tool which is used to intercept and manipulate the HTTP traffic of application which we are testing. To go ahead with practicing to look for vulnerabilites , it is necessary to learn how to use this tool to intercept and edit the HTTP request. It has both paid and free versions, but you can use the community edition which is more than enough.
 
-[How to use burpsuite](https://www.youtube.com/watch?v=LSqC9qgEMi0&list=PLxhvVyxYRviajtnHaICLg_ZcY47TpgGjR)
-
-[To practice Burpsuite lab](https://tryhackme.com/room/burpsuitebasics)
+- [How to use burpsuite](https://www.youtube.com/watch?v=LSqC9qgEMi0&list=PLxhvVyxYRviajtnHaICLg_ZcY47TpgGjR)
+- [To practice Burpsuite lab](https://tryhackme.com/room/burpsuitebasics)
 
 ### Practice
 
