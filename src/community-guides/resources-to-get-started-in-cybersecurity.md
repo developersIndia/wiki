@@ -45,21 +45,10 @@ Burp Suite is a software security application used for penetration testing of we
 
 After you have some knowledge about the vulnerabilities in theory it is time to practice them
 
-[Portswigger Web Security Academy](https://portswigger.net/web-security/getting-started)
-
-Portswigger Web Security Academy is free online academy to learn about web security from the creaters of Burpsuite. They have detailed information about different vulnerability topics along with the real world scenario. Must recommended for anyone who wants to learn basics of how to look for the web vulnerabilites.
-
-[Tryhackme](https://tryhackme.com/)
-
-TryHackMe is a online platform for learning cyber security, using hands-on exercises and labs, all through your browser. It has both paid and free rooms which covers all topics about security through as series of CTF  .
-
-[Kontra](https://application.security/free/owasp-top-10)
-
-Kontra is the free platform to learn about application security through their series of interactive execises of vulnerabilities in the real world scenario.
-
-[Owasp Juice Shop](https://github.com/juice-shop/juice-shop)
-
-It is modern insecure application which has vulnerabilites from Owasp Top 10 and other security issues found in the real world applications.
+- [Portswigger Web Security Academy](https://portswigger.net/web-security/getting-started) is a free online academy to learn about web security from the creaters of Burpsuite. They have detailed information about different vulnerability topics along with the real world scenario. Must recommended for anyone who wants to learn basics of how to look for the web vulnerabilites.
+- [Tryhackme](https://tryhackme.com/) is a online platform for learning cyber security, using hands-on exercises and labs, all through your browser. It has both paid and free rooms which covers all topics about security through as series of CTF.
+- [Kontra](https://application.security/free/owasp-top-10) is a free platform to learn about application security through their series of interactive execises of vulnerabilities in the real world scenario.
+- [Owasp Juice Shop](https://github.com/juice-shop/juice-shop) is a modern insecure application which has vulnerabilites from Owasp Top 10 and other security issues found in the real world applications.
 
 
 ### Test your skills in real world
