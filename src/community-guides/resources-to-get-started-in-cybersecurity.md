@@ -62,3 +62,5 @@ You can use there platforms to hunt on various programs or you can search for in
 - [OWASP](https://owasp.org/www-project-top-ten/)
 - [Portswigger](https://portswigger.net/web-security/)
 - [How to be a hacker](https://github.com/s0md3v/be-a-hacker)
+
+This wiki is maintained by [u/Sanamdhar](https://www.reddit.com/user/Sanamdhar/)
