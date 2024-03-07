@@ -57,6 +57,8 @@ Okay, I know the syllabus, where do I learn from?
 If you prefer the book learning approach, you are covered:
 
 - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - This book is an amazing resource that covers everything even up to advanced CP concepts, but for just cracking DSA interviews you can cover up to chapter 13, which should cover all the basic concepts and introduce to some medium level Graph concepts. Mostly language agnostic, but has code in C++.
+- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
+- [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680507222)
 
 #### Video Lectures
 
@@ -72,6 +74,7 @@ If you prefer the video lecture approach:
 If you want to follow a laid out roadmap:
 
 - [Roadmap to CP](https://docs.google.com/document/d/1N4--AK1rC45rjY-o0JFUwz1jRRc56w_QLurYCimH2Mc/edit#) - Has question links and lecture links for the entire syllabus relevant to you. You can leave the extra “Advanced” concepts at the end.
+- [roadmap.sh - Data Structures & Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms) - Step by step guide to learn Data Structures and Algorithms.
 
 #### Other Helpful Websites
 
@@ -100,6 +103,22 @@ A big factor in interviews for DSA questions as well as in OA Rounds is **time**
 - [LeetCode Contests](https://leetcode.com/contest/) - To start off, aim to solve at least 2 questions in all the weekly and biweekly contests.
 - [Atcoder Contests](https://atcoder.jp/contests/) - To start off, just give the 'Beginner Contests'.
 - [Codechef Contests](https://www.codechef.com/contests?itm_medium=navmenu&itm_campaign=allcontests) - Codechef has fallen off the throne for a while because of its degrading quality and user base, but it's still a decent site for beginners. To start off, I wouldn't recommend the Long contests because it has unnecessary bruteforce questions, instead just do the timed contests like Cook-off, Lunchtime, and Starters.
+
+#### Practice Platforms 
+
+|Name|Link|
+|:-|:-|
+|LeetCode|[leetcode.com](https://leetcode.com/)|
+|HackerRank|[hackerrank.com](https://www.hackerrank.com/)|
+|CodeSignal|[codesignal.com](https://codesignal.com/)|
+|GeeksforGeeks|[geeksforgeeks.org](https://www.geeksforgeeks.org/)|
+|Codeforces|[codeforces.com](https://codeforces.com/)|
+|TopCoder|[topcoder.com](https://www.topcoder.com/)|
+|InterviewBit|[interviewbit.com](https://www.interviewbit.com/)|
+|Codewars|[codewars.com](https://www.codewars.com/)|
+|Project Euler|[projecteuler.net](https://projecteuler.net/)|
+|Spoj|[spoj.com](https://www.spoj.com/)|
+
 
 
 ---
