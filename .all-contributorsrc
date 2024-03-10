@@ -59,6 +59,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "asce-21",
+      "name": "Sanam Dhar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39599300?v=4",
+      "profile": "https://asce-21.github.io/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
