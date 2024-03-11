@@ -108,16 +108,14 @@ A big factor in interviews for DSA questions as well as in OA Rounds is **time**
 
 |Name|Link|
 |:-|:-|
-|LeetCode|[leetcode.com](https://leetcode.com/)|
 |HackerRank|[hackerrank.com](https://www.hackerrank.com/)|
 |CodeSignal|[codesignal.com](https://codesignal.com/)|
-|GeeksforGeeks|[geeksforgeeks.org](https://www.geeksforgeeks.org/)|
-|Codeforces|[codeforces.com](https://codeforces.com/)|
 |TopCoder|[topcoder.com](https://www.topcoder.com/)|
 |InterviewBit|[interviewbit.com](https://www.interviewbit.com/)|
 |Codewars|[codewars.com](https://www.codewars.com/)|
 |Project Euler|[projecteuler.net](https://projecteuler.net/)|
 |Spoj|[spoj.com](https://www.spoj.com/)|
+|GeeksforGeeks|[geeksforgeeks.org](https://www.geeksforgeeks.org/)|
 
 
 
