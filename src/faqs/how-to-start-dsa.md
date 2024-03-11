@@ -104,7 +104,7 @@ A big factor in interviews for DSA questions as well as in OA Rounds is **time**
 - [Atcoder Contests](https://atcoder.jp/contests/) - To start off, just give the 'Beginner Contests'.
 - [Codechef Contests](https://www.codechef.com/contests?itm_medium=navmenu&itm_campaign=allcontests) - Codechef has fallen off the throne for a while because of its degrading quality and user base, but it's still a decent site for beginners. To start off, I wouldn't recommend the Long contests because it has unnecessary bruteforce questions, instead just do the timed contests like Cook-off, Lunchtime, and Starters.
 
-#### Practice Platforms 
+#### Other Practice Platforms 
 
 |Name|Link|
 |:-|:-|
