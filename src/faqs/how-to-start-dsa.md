@@ -122,4 +122,7 @@ A big factor in interviews for DSA questions as well as in OA Rounds is **time**
 
 ---
 
-This wiki is maintained by [u/sggts04](https://reddit.com/u/sggts04)
+This wiki was orignially written by [u/sggts04](https://reddit.com/u/sggts04).
+
+Later revisions done by:
+  - [u/LinearArray](https://reddit.com/u/lineararray)
