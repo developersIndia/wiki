@@ -59,9 +59,9 @@ You can use there platforms to hunt on various programs or you can search for in
 
 ### Check the CompTIA Objectives for basic IT/CyberSec outline
 
-CompTIA A+ [Core 1](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0)) [Core 2](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0))
-[CompTIA Network +](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0))
-[CompTIA Security +](https://certblaster.com/wp-content/uploads/2023/11/CompTIA-Security-SY0-701-Exam-Objectives-1.pdf)
+1. CompTIA A+ [Core 1](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0)) [Core 2](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1102-exam-objectives-(3-0)) 
+2. [CompTIA Network +](https://partners.comptia.org/docs/default-source/resources/comptia-network-n10-008-exam-objectives-(2-0))
+3. [CompTIA Security +](https://certblaster.com/wp-content/uploads/2023/11/CompTIA-Security-SY0-701-Exam-Objectives-1.pdf)
 
 ### References
 
