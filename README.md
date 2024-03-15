@@ -76,6 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://shreyasgupta.in"><img src="https://avatars.githubusercontent.com/u/20678047?v=4?s=100" width="100px;" alt="Shreyas Gupta"/><br /><sub><b>Shreyas Gupta</b></sub></a><br /><a href="#content-sggts04" title="Content">🖋</a> <a href="#ideas-sggts04" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://govindsnair.netlify.app"><img src="https://avatars.githubusercontent.com/u/115881229?v=4?s=100" width="100px;" alt="Govind S Nair"/><br /><sub><b>Govind S Nair</b></sub></a><br /><a href="#content-g0v1ndN" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/triach-rold"><img src="https://avatars.githubusercontent.com/u/156170660?v=4?s=100" width="100px;" alt="Triach Rold"/><br /><sub><b>Triach Rold</b></sub></a><br /><a href="#content-triach-rold" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://asce-21.github.io/"><img src="https://avatars.githubusercontent.com/u/39599300?v=4?s=100" width="100px;" alt="Sanam Dhar"/><br /><sub><b>Sanam Dhar</b></sub></a><br /><a href="#content-asce-21" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
