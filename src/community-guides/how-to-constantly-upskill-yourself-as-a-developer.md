@@ -39,6 +39,7 @@
   3. [confs.tech](https://confs.tech/#)
   4. [papercall.io](https://www.papercall.io/events/)
   5. [DevTube](https://dev.tube/)
+  6. [developers.events](https://developers.events)
 
 &nbsp;
 
