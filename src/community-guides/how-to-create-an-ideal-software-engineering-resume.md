@@ -1,80 +1,198 @@
-# Guidelines on Creating an Ideal Software Engineering Resume
+# How to Create an Appealing Software Engineering Resume
 
+Job search (especially in the competitive Software Engineering field) is a
+time-consuming and often stressful task. Hence it is important to optimise and
+streamline each step of this task as much as possible to better the chances of
+landing a good job offer.
 
-If you ever looked for job before, you would know job hunting is no walk in the park. It's stressful, time consuming and chances of you landing a job after hundreds of applications is less than 5%! 
+Part of the job search procedure is to draft an appealing resume according to
+certain standard protocols and format. This guideline therefore attempts to
+share with your some of those protocols (along with a few tips and tricks) to
+draft a resume to improve your chances of landing your ideal job offer.
 
-This is so because recruiters and companies receive hundreds if not thousands of applicants. And businesses would **ALWAYS** prefer optimising their operations wherever possible. Suffice to say, it's paramount to be on top of your toes when it comes to grabbing the recruiter’s attention.
+## Understanding the Hiring Pipeline
 
-There're a couple of tasks you can work on to increase you chances of successfully landing a job (like [preparing for DSA](https://www.reddit.com/r/developersIndia/w/faq/how-to-start-dsa/?utm_source=share&utm_medium=android_app) & interviews). But all those tasks are pretty useless if your resume isn't optimised enough to pass the first few hurdles (like the Application Tracking System (ATS)).
+Over the years as I reviewed and screened a lot of resumes, one thing is always
+apparent - the applicant lacks insight of the hiring process. Hence I would like
+to start this guideline by attempting to educate you about it first.
 
-So, here are some tips to make your resume optimised & perfect for what the recruiters are looking for. 
+The hiring process is usually divided into multiple stages. Now the exact
+pipeline is never the same and it varies depending on the size and financial
+capabilities of the organisation but the core concept is pretty much very
+similar.
 
-## Use the Right Format
+The first stage of the hiring pipeline is when a _Hiring Manager_ (who is
+usually a senior technical member of the organisation/team) requires additional
+resources and prompts the HR team about the same. The HR team is provided a list
+of requirements the candidate is supposed to have to fulfill the Hiring
+Manager's needs. The HR then proceeds to put up a job advert on various
+platforms like LinkedIn or some other platform. As soon as you apply to a job
+advert through the said portal, your application (and your resume) is stored in
+an _Application Tracking System (ATS)_ for further screening.
 
-I'm sure you must've stumbled across countless resume templates out in the wild! Be it Google Docs, MS-Word Document Templates, heck even [Canva](https://canva.com) and/or the random “[resume generators](https://www.google.com/search?q=resume+generators&oq=resume+generators&aqs=edge..69i57j0i433i512j0i20i263i512j0i512l6.2677j0j1&sourceid=chrome&ie=UTF-8)” that promises to create aesthetically pleasing resumes for you. Unfortunately, if you ever used one of those templates, rest assured your resume won't be parsed properly in an ATS (unless lady luck herself is on your side!).
+Now a common misunderstanding is about drafting resumes are that "_it should
+ATS-friendly_". I do not understand where this common misconception arose but
+you should be aware that the ATS is just a software to store and track
+applicants to a job position. Most commonly used ATSes do not have intelligent
+OCR capabilities to parse through your resume (if its in a PDF format). The
+organisations which can afford to utilise ATSes with more feature-rich and OCR
+capabilities are rare and not very common. To give you a heads up, the inbuilt
+LinkedIn ATS does not provide any such feature and you need not worry whether
+your resume will "_pass the ATS test_".
 
-Your ideal ATS-friendly resume will:
+With your application (and resume) tracked on the ATS, it is the HR's call to
+screen through the thousands and thousands of resume they receive each day! A
+vast majority of the resumes are often spam and unrelated to the job advert.
+Hence HRs are incentivised to scan a bunch of resumes/applications for not more
+than a few seconds "_looking for certain keywords_". The said keywords are
+chosen based on the requirements list provided to them by the Hiring Manager.
+All resumes which pass this initial HR screening are forwarded to the Hiring
+Manager for further review. The Hiring Manager approves a select few of those
+screened resumes for an interview call (or sometimes even a quick phone
+interview as is the case in smaller seed startups).
 
-1. Be in a single column format, to be read top to bottom, left to right. Similar to reading any other LTR languages (like English). 
-2. Not abuse unnecessary whitespaces (as fellow software engineers, we all know computers don't interpret whitespaces the same way humans do). 
-3. Be sectioned properly with well-formatted, distinct & self-explanatory headings.
-4. Categorically ordered so as the ensure the recruiter focuses more on the sections you want to prioritise (like the “*Experience*” or “*Technical Skills*” section).
+<!-- TODO (Somraj Saha): Add a mermaid diagram for more easier visual understanding of the process -->
 
-## Giving the Resume a Professional Look
+The key takeaway here is, your resume should be optimised to showcase the best
+version of you at a quick glance! Keep it in mind, the HR screening your resume
+will not be spending more than 3-5 seconds of a glance reading through the
+resume. You can discuss more details of yourself during the phone call or
+face-to-face interview with the Hiring Manager!
 
-While the format and structure of the resume is only half the task, making it both appealing to look at & legible is equally important! Do note, if the resume passes the ATS hurdle, the resume now needs to pass the “*recruiter approval*” hurdle! So, let’s see how should we make a resume which is both ATS-friendly & liked by technical recruiters alike.
+## Using the Right Structure/Format for the Resume
 
-Remember, Technical Recruiters more often than not don't care about the design of your resume. So yeah that Canva resume template you've been looking at? Yeah the one with exotic fonts and rainbow colours? You can ditch it, a prospective technical recruiter doesn't want to gauge your design prowess. They want to know how capable you're at what you do! 
+To ensure the resume is optimised for the HR screening stage, it is important to
+use a correct format for the resume. This section of the guide will walk you
+through the steps to draft a resume with a correct structure. Now do note, the
+structure shared here is applicable to the industries of most parts of Asia,
+Western Europe and the US. If you are looking to apply elsewhere you will
+probably have to perform your due research on what the accepted structure of the
+resume for that particular industry is.
 
-And the best way to showcase those factors are as follows:
+That said, the structure of the resume you should be working with is as follows:
 
-1. Use a simple Sans Serif font & overlook any other nonsense fonts for professional documents. I **CANNOT** emphasise on this factor enough!
-2. Use power words & quantify your past contributions to a project/company/business. It gives an impression of someone who is capable of holding a professional demeanour where & when necessary as a Software Engineer. Also the numbers describing your past responsibilities simply gives out a sense of specificity in the prospect’s point of view which is always good.
-3. Format the sections of the resume with bold fonts, capitalised first letter of each word & an underline (with a visible thickness). 
+1. Always start the resume with your name (in bold and prominent font size),
+   contact information like email, GitHub profile, current location and your a
+   phone number to reach out to you.
 
-## Things to Include in the Resume
+2. Divide the entire resume into multiple sections and each should be structured
+   exactly like this:
 
-Now it's understandable, if you want to grab someone's attention, it's natural to showcase everything you're good at! But that natural human instinct does more harm than good in today's fast-moving corporate scenario.
+   - Technical Skills, where you list all the skills you want to showcase.
+   - Work Experience, where you share detailed description of your previous work
+     experience.
+   - (Optional) Projects, achievements, certifications and such where you want
+     to showcase extra-curricular activities relevant to the job advert.
+   - Education, where you share information about your academics.
 
-So first off, no, you don't need a 4-page long resume. A single page (and less than two & a half) is **MORE** than enough. You should go for a 2-page long resume **ONLY** if boast of decades of experience!
+3. Ensure your resume is read top-down like a normal book or a professional
+   document. Resist the temptation to draft a resume in a column style, such
+   resumes are often outright rejected!
 
-Suffice to say, there's only so much available real estate in standard single `A4` sized paper. And being able to stuff enough information about yourself in that size paper will be a matter of how successful the resume is. 
+4. Ensure chronological order of pretty much any/all relevant sections like your
+   latest work experience should be on top of the previous ones. Or your latest
+   education should be before the older previous one.
 
-So to optimise our limited resource, we'll only include the most relevant information in the resume. And here are bit of what “relevant info” is like:
+5. Resist the urge to prettify the resume with unnecessary details. Remember it
+   is a professional document and you will not want to read such documents
+   written by an amateur.
 
-1. The list of your “*Technical Skills*” and I prefer categorising them further like React.js under “*Libraries & Frameworks” and so on…* 
-2. Your past “*Experience*” with quantified descriptions of the past responsibilities as detailed in a previous section. Don't forget to make ample use of power words to showcase confidence & an image of a “*dependable individual*”.
-3. A list of projects & I prefer naming this section as “*Portfolio*” since there're times when a company might've funded a project where your initial contributions were the foundational base. But you don't own the IP rights to the project. And in renaming the section you can also include your personal projects without creating a separate section! That said, as is usual, don't forget to quantify your responsibilities & use enough power words.
+## Some Tips & Tricks to Write Professionally
 
-## Prioritise Categories as per the Importance
+As discussed in the previous section, drafting the resume professionally is very
+important. This section will share some tips and tricks to create one such
+professionally drafted resume.
 
-In a previous section I briefly mentioned about categorising the sections of a resume according to its priority & importance. For example, an experienced individual **SHOULD** start (*after the header section which usually contains your name & contact details*) the resume describing their past experience. The “*Experience*” section can be immediately followed by the “*Projects*” (I prefer naming it as “*Portfolio*” see justification for doing so above) & then “*Skills*”*, “Education”*, etc.
+#### Tip 1: Use the Right Font Family & Size
 
-On that note, following are some quick notes on how you should prioritise the categories:
+Please for the love of God, stick with either of this font families - Times New
+Roman, Arial or any Serif-type font. Anything else and especially if it is not a
+[serif-type font](https://www.myfonts.com/pages/serif-fonts) is extremely
+unappealing to read!
 
-1. You’re an experienced individual (*as in someone with 1+ years of experience*) in that case its best to start the main section of the resume with either the “*Technical*” *or “Experience”* sections. In doing so, you ensure the prospect is forced to focus more time on those two sections than the rest of the stuff towards the end of the resume.
-2. Be mindful, human beings have short attention span & especially in today’s fast-moving world, you’ll want to attract someone’s attention as quick as possible all the while being **VERY** specific. So, only include necessary information about yourself before filling up whitespace with fluff.
-3. There will be times (*especially as a fresh college graduate*) when say, looking for an internship or an apprenticeship, your “*Experience*”  and/or “*Technical*” section wouldn’t be as impressive as someone with years of experience. In that case, start the resume with an “*Education*” section & detailing “*relevant courses*” which you believe will help the prospect in their businesses. For example, if you’re applying to a Machine Learning position, state relevant coursework like Statistics & such which were taught in your college curriculum.
+A good font size of the general description section of the document is 10-11
+points. Exception applies to the heading sections and the top of the document
+where you share your personal contact details and name.
 
-That said, do remember prioritising what to include towards the top of the resume is a subjective topic. You can never go wrong with what you include in the resume but remember, relevancy is more important than simple fluff! 
+#### Tip 2: Refrain from Adding Unnecessary Fluff
 
-## Recommended Resources for Reference
+Professional documents do not require to look fancy with loads of colours and an
+oomph. Keep it simple and stupid (KISS) like the engineer in me would like it
+as!
 
-The suggestions I shared above are only the tip of an iceberg & there's so much more involved in what makes your resume truly stand out. I do plan on requesting to the mods for pinning this thread as a wiki input. But I plan on maintaining a more up-to-date version of this discussion on [a separate note](https://www.notion.so/Guidelines-on-the-Ideal-Software-Engineer-s-Resume-6c3a24a33e964b37a4b8992bdcdf27b1), so feel free to check it out if you want to.
+The most beautification you should worry about is:
 
-That said, while following these suggestions will help you build the base of a good resume, you should receive some second-hand feedback for further polishing. So, to end this thread, let me share some resources which you can use to polish your resume further:
+1. Making sections of your resume bold and if you want to direct extra attention
+   to it.
+2. Using italics style on lesser prominent sections of the document.
+3. Adding an underline and a blue font colour to hyperlinks to clearly
+   distinguish them from the rest of the document as something of a
+   point-of-interest.
 
-1. Use a LaTeX template to generate the PDF of your resume. A good starting point is [Jake’s](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) or [Sourva Bajaj’s](https://www.overleaf.com/latex/templates/software-engineer-resume/gqxmqsvsbdjf) resume & rest assured your resume will easily pass the ATS-check. Using a pre-made template will also save time & effort!
-2. Get your resume reviewed from your peers. A second opinion will always polish out the remaining intricate mistakes here and there which you might've missed. Join [our Discord community](https://discord.gg/kRMQSZGzkt) & ping me whenever you want to for a resume review (my Discord ID - `Jarmos#8937`).
-3. **ALWAYS** remember, job hunting is a numbers game! Don't lose patience and keep applying to jobs on all platforms you can think of. And don't hesitate to reach out to prospects & network with people. Be mindful though, asking for a job straight away might appear rude to some. See this article - ****[How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)**** to find some insights & lessons. Also ensure you give a second look at the resume for grammatical errors or update the keywords before sending it to a prospects. You never know what sort of an impression would that last minute update leave on the prospect!
-4. Read the blog - “[Why I do my resume in LaTeX](https://www.toofishes.net/blog/why-i-do-my-resume-latex/)” & its the [HN thread](https://news.ycombinator.com/item?id=2238408) for further insights on writing good ATS-friendly resumes.
+#### Tip 3: Use Your Best Judgement to Add Projects/Achievements
 
-That said, what other tips do you think I might've missed out on about refining & making a resume look good? Share your thoughts below. And reach out to me on Discord if you want me to review your resume further!
+Now adding a projects/achievements section to the resume can be quite
+subjective. While you might be super proud and confident about a certain project
+or achievement, others might not feel the same way about it!
 
-#### Must Reads
+I personally recommend adding such a section to the document only and only if
+you feel confident you have a chance at discussing some interesting points about
+it during the interview process. If you do not have something to boast about
+during the interview, the space might be better utilised to describe more about
+your work experience instead.
 
-- [r/EngineeringResumes Wiki](https://www.reddit.com/r/EngineeringResumes/wiki/index/)
+#### Tip 4: Update the Resume Very Often
 
-#### Attribution
+Most people I know only remember about updating the resume during their job
+search phase which I strongly advice against. Instead I usually recommend
+maintaining a [Bragdoc](https://www.bragdocs.com) which is updated every other
+day (should not take you more than a minute or two post work hours). And then
+every three or so months should you pick your personal best achievement from the
+Bragdoc and add it to your resume.
 
-This wiki is maintained by [u/jarmosie](https://www.reddit.com/user/jarmosie)
+This way not only are you **ALWAYS** ready with a resume but you will also never
+forget about an achievement you made at your workplace which could have made
+your resume look quite appealing.
+
+#### Tip 5: Perform a Customary Grammar Check
+
+It is a major turn off and a red flag to find a resume with **loads** of
+grammatical errors (keyword being loads). A professional document with
+grammatical errors make it looks amateurish and the candidate as someone to be
+slacking.
+
+Take my word on it and do not make yourself a target to be joked on and just use
+tools like [Grammarly](https://www.grammarly.com) &
+[Hemingway Editor](https://hemingwayapp.com) or some LLM-based chat bots like
+[ChatGPT](https://www.chat.openai.com) or [Claude](https://claude.ai) to review
+your resume for grammatical mistakes.
+
+## Additional Recommended Refernce Materials
+
+While the suggestions I have shared above will help you a long way ahead in
+securing your next job offer by enabling you write a very professional document,
+I want to share some additional resources which will provide additional marginal
+benefits.
+
+1. Use this resume template I created in Google Docs -
+   [Anonymous Resume](https://docs.google.com/document/d/12jBHnaiQXpIVH91lHf3OvNA5hPdFpmi5PBK5wUE5C_0/edit?usp=sharing).
+
+2. Get your resume reviewed from your peers. A second opinion will always polish
+   out the remaining intricate mistakes here and there which you might've
+   missed. Join [our Discord community](https://discord.gg/kRMQSZGzkt) & ping me
+   whenever you want to for a resume review (my Discord ID - `Jarmos#8937`).
+
+3. **ALWAYS** remember, job hunting is a numbers game! Don't lose patience and
+   keep applying to jobs on all platforms you can think of. And don't hesitate
+   to reach out to prospects & network with people. Be mindful though, asking
+   for a job straight away might appear rude to some. See this article -
+   [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
+   to find some insights & lessons.
+4. The
+   [r/EngineeringResumes Wiki](https://www.reddit.com/r/EngineeringResumes/wiki/index/)
+   .
+
+If you feel I missed out on some advice and/or you could add additional
+insights, please feel free to make a pull request or ping me on Discord!
+Additionally, you can find more personal contact details about me on
+[my personal website](https://jarmos.dev) if you want to reach to me privately.
