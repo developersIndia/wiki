@@ -2,7 +2,7 @@
 
 Did you know there are more than [**60k small FOSS projects**](https://github.com/search?q=saved%3Asmall-foss+&type=repositories&saved_searches=%5B%7B%22name%22%3A%22small-foss%22%2C%22query%22%3A%22template%3Afalse+archived%3Afalse+fork%3Afalse+stars%3A100..500+forks%3A%3E%3D3+is%3Apublic+topics%3A%3E%3D3+license%3A0bsd+license%3Amit+license%3Aapache-2.0+license%3Agpl+license%3AMPL-2.0+license%3AUnlicense%22%7D%5D&expanded_query=template%3Afalse+archived%3Afalse+fork%3Afalse+stars%3A100..500+forks%3A%3E%3D3+is%3Apublic+topics%3A%3E%3D3+license%3A0bsd+license%3Amit+license%3Aapache-2.0+license%3Agpl+license%3AMPL-2.0+license%3AUnlicense+) on GitHub most likely open to contributions? Have you ever thought about contributing to them? If not, then you should. This guide is about helping the reader identify these projects on GitHub. The guide is meant to encourage both new and experienced contributors to find software that have a small impact and contribute to them in any way.
 
-There are existing sites like [Up For Grabs](https://up-for-grabs.net/#/) and [First Timers Only](https://www.firsttimersonly.com/) that use _crowdsourcing_ as a way to add & find projects and issues to contribute to but there's a big chance that authors of small projects may not be well represented in this list (marketing projects takes a lof of effort), or even worse you are missing out to work on some interesting hidden gems.
+There are existing sites like [Up For Grabs](https://up-for-grabs.net/#/) and [First Timers Only](https://www.firsttimersonly.com/) that use _crowdsourcing_ as a way to add & find projects and issues to contribute to but there's a big chance that authors of small projects may not be well represented in this list (marketing projects takes a lot of effort), or even worse you are missing out to work on some interesting hidden gems.
 
 
 ## What this guide covers?
@@ -34,8 +34,8 @@ There are existing sites like [Up For Grabs](https://up-for-grabs.net/#/) and [F
 
 ### You chance for being an early adopter
 
-- You never know what projects on github might get some traction over the years. If you participate in contributing to small FOSS consistenly, its possible that you might eventually become one of the maintainers.
-- Not just that, its possible that the project converts into a product or gets used by another big projects.
+- You never know what projects on github might get some traction over the years. If you participate in contributing to small FOSS consistently, it's possible that you might eventually become one of the maintainers.
+- Not just that, it's possible that the project converts into a product or gets used by another big projects.
 
 ## How to find small projects on **`GitHub`**?
 
