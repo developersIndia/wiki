@@ -189,3 +189,13 @@ blockquote {
 .result-no-output {
     font-style: italic;
 }
+
+.footer-links {
+    padding-top: 23px;
+    font-size: 1em;
+}
+
+.footer-links-table {
+    width: 100%;
+    text-align: center;
+}
