@@ -167,7 +167,7 @@ tools like [Grammarly](https://www.grammarly.com) &
 [ChatGPT](https://www.chat.openai.com) or [Claude](https://claude.ai) to review
 your resume for grammatical mistakes.
 
-## Additional Recommended Refernce Materials
+## Additional Recommended Reference Materials
 
 While the suggestions I have shared above will help you a long way ahead in
 securing your next job offer by enabling you write a very professional document,
