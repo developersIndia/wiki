@@ -12,17 +12,18 @@ Not to mention job portals like shine, indeed
 
 ## Remote
 
-1. [We Work Remotely](https://weworkremotely.com/)
-2. [Entry Level Remote Job](https://entrylevelremotejob.com/)
-3. [NoCommute - Remote jobs delivered to your inbox](https://nocommute.substack.com/)
-4. [Remote Ok](https://remoteok.com/)
-5. [remotive.io](https://remotive.io/)
-6. [Remote Leaf](https://remoteleaf.com/)
-7. [remotists](https://remotists.com/)
-8. [JustRemote](https://justremote.co/) (`doesn't have jobs in India`)
-9. [remote-developer-jobs.com](https://www.remote-developer-jobs.com/)
-10. [findwork.dev](https://findwork.dev)
-11. [echo jobs](https://echojobs.io/search?q=&locations=Remote%2BIndia&page=1)
+1. [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - a job board for 100% work from anywhere jobs
+2. [We Work Remotely](https://weworkremotely.com/)
+3. [Entry Level Remote Job](https://entrylevelremotejob.com/)
+4. [NoCommute - Remote jobs delivered to your inbox](https://nocommute.substack.com/)
+5. [Remote Ok](https://remoteok.com/)
+6. [remotive.io](https://remotive.io/)
+7. [Remote Leaf](https://remoteleaf.com/)
+8. [remotists](https://remotists.com/)
+9. [JustRemote](https://justremote.co/) (`doesn't have jobs in India`)
+10. [remote-developer-jobs.com](https://www.remote-developer-jobs.com/)
+11. [findwork.dev](https://findwork.dev)
+12. [echo jobs](https://echojobs.io/search?q=&locations=Remote%2BIndia&page=1)
 
 ## Job Boards for HackerNews Jobs
 
