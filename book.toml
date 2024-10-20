@@ -12,6 +12,7 @@ create-missing = false
 [output.html]
 git-repository-url = 'https://github.com/developersIndia/wiki'
 git-repository-icon = 'fa-github'
+reddit-url = 'https://reddit.com/r/developersIndia'
 edit-url-template = 'https://github.com/developersIndia/wiki/edit/main/{path}'
 site-url = 'https://wiki.developersindia.in'
 # input-404 = 'not-found.md'

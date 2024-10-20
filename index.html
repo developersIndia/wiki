@@ -1,0 +1,319 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Introduction - The Official r/developersIndia Community Wiki</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="The home for all things about the developersIndia community wiki">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+        <meta property="og:type" content="article">
+        <meta property="og:site_name" content="r/developersIndia Wiki">
+        <meta name="twitter:card" content="summary" />
+        <meta property="og:title" content="Introduction - r/developersIndia Wiki" />
+        <meta property="twitter:title" content="Introduction">
+        <meta property="og:image" itemprop="image" content="favicon.svg"/>
+        <link rel="canonical" href="">
+
+        <link rel="icon" href="favicon.svg">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+        <meta name="google-site-verification" content="jeqscIfDl_A3eUsQzbMRqd74G3WaI1GHVaV3DHkDD4A" />
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../index.html" class="active">Introduction</a></li><li class="chapter-item expanded affix "><li class="part-title">Frequently Asked Questions (FAQs)</li><li class="chapter-item expanded "><a href="faqs/how-to-start-dsa.html"><strong aria-hidden="true">1.</strong> How to Start DSA</a></li><li class="chapter-item expanded "><a href="faqs/finding-small-foss-projects-on-github.html"><strong aria-hidden="true">2.</strong> Discovering Small GitHub Projects for Contributing to FOSS</a></li><li class="chapter-item expanded "><a href="faqs/approaching-a-DSA-problem.html"><strong aria-hidden="true">3.</strong> Approaching a DSA problem</a></li><li class="chapter-item expanded affix "><li class="part-title">Community Guides</li><li class="chapter-item expanded "><a href="community-guides/how-to-constantly-upskill-yourself-as-a-developer.html"><strong aria-hidden="true">4.</strong> How to Constantly Upskill Yourself as a Developer</a></li><li class="chapter-item expanded "><a href="community-guides/how-to-create-an-ideal-software-engineering-resume.html"><strong aria-hidden="true">5.</strong> How to Create an Ideal Software Engineering Resume</a></li><li class="chapter-item expanded "><a href="community-guides/where-to-find-tech-jobs.html"><strong aria-hidden="true">6.</strong> Where to Find Tech Jobs</a></li><li class="chapter-item expanded "><a href="community-guides/understanding-software-licenses.html"><strong aria-hidden="true">7.</strong> Understanding Software Licenses</a></li><li class="chapter-item expanded "><a href="community-guides/resources-to-get-started-in-cybersecurity.html"><strong aria-hidden="true">8.</strong> Getting Started in Cybersecurity</a></li><li class="chapter-item expanded "><a href="community-guides/hackathons-101-a-step-by-step-guide-to-success.html"><strong aria-hidden="true">9.</strong> Hackathons 101: A Step-by-Step Guide to Success</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Official r/developersIndia Community Wiki</h1>
+
+                    <div class="right-buttons">
+                        <a href="https://www.reddit.com/r/developersIndia/" title="developersIndia forum" aria-label="Reddit">
+                            <i id="reddit-button" class="fa fa-reddit"></i>
+                        </a>
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        <a href="https://github.com/developersIndia/wiki" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        <a href="https://github.com/developersIndia/wiki/edit/main/src/../README.md" title="Suggest an edit" aria-label="Suggest an edit">
+                            <i id="git-edit-button" class="fa fa-edit"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="the-developersindia-community-wiki"><a class="header" href="#the-developersindia-community-wiki">The developersIndia Community Wiki</a></h1>
+<p><a href="#contributors-"><img src="https://img.shields.io/badge/all_contributors-3-orange.svg" alt="All Contributors" /></a>
+<a href="https://discordapp.com/invite/MKXMSNC"><img src="https://img.shields.io/discord/669880381649977354?color=%237289da&amp;label=Discord&amp;logo=Discord" alt="Discord" /></a>
+<a href="https://www.reddit.com/r/developersIndia/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdevelopersindia.github.io%2Fmetrics%2Fdata%2F&amp;query=%24.totalMembers&amp;suffix=%20members&amp;style=flat&amp;logo=reddit&amp;label=r%2FdevelopersIndia&amp;color=orange&amp;link=https%3A%2F%2Fwww.reddit.com%2Fr%2FdevelopersIndia" alt="Subreddit subscribers" /></a></p>
+<p>Welcome to the DevelopersIndia Community Wiki repository! This repository is home to our face-lifted community wiki which you'll find across all the
+platforms our community is active on. So, feel free to read through our wiki or
+perhaps if you're interested in contributing to the project, this README will
+come in handy for you.</p>
+<h2 id="what-wikis-to-contribute"><a class="header" href="#what-wikis-to-contribute">What wiki(s) to contribute?</a></h2>
+<p>The first and foremost goal of a wiki is that it helps the community, and becomes an official standing on the topic. We have a <a href="https://github.com/developersIndia/wiki/discussions/21">bunch of topics</a> being requested over time. We request any author to have a look over them before creating a new proposal.</p>
+<h2 id="contributing-to-the-wiki"><a class="header" href="#contributing-to-the-wiki">Contributing to the Wiki</a></h2>
+<p>We welcome community contributions to the project! If you would like to
+share a word or two that you believe will help the community achieve something
+good, please read this section for instructions.</p>
+<p>First off, we use the <a href="https://github.com/rust-lang/mdbook"><code>mdbook</code></a> project to maintain, create &amp; generate the
+static version of our <a href="https://wiki.developersindia.in">wiki</a>. So, if you would like to get your hands dirty
+with this project, make sure you've read the official <code>mdbook</code>
+<a href="https://rust-lang.github.io/mdBook">documentations</a>. Besides the CLI tool, we also write our wiki content in
+<a href="https://github.github.com/gfm">GitHub Flavoured Markdown</a>. So if you need a rundown on how to write in
+Markdown, the <a href="https://www.markdownguide.org">Markdown Guide</a> will be helpful for that cause.</p>
+<p>That said, before contributing to the project make sure you've read &amp; understood
+the <a href="https://github.com/developersIndia/.github/blob/main/CONTRIBUTING.md">contributing guidelines</a> of our community. Once you have read
+through it, please keep the following points in mind to create a wiki entry:</p>
+<ol>
+<li>Ensure your wiki is comprehensive enough &amp; benefits the community in some
+ways.</li>
+<li>Ensure your wiki entry is thoroughly reviewed for correctness &amp; quality by one of the moderators (<em>you can reach out to us over Discord</em>).</li>
+<li>Follow the <a href="https://github.com/developersIndia/wiki/issues/new/choose">issue</a> &amp; <a href="https://github.com/developersIndia/wiki/compare">pull request</a> templates to create a wiki entry for one of the moderators to review it. Expect the review process to take
+a while before it can be merged.</li>
+</ol>
+<p>For a more detailed guide on contributing or creating a wiki, refer
+to the <a href="https://github.com/developersIndia/wiki/blob/main/CONTRIBUTING.md">contributing guidelines</a> document of the project.</p>
+<h2 id="license--usage-terms--conditions"><a class="header" href="#license--usage-terms--conditions">License &amp; Usage Terms &amp; Conditions</a></h2>
+<p>The community wiki is licensed under the terms &amp; conditions (T&amp;Cs) of the
+Creative Commons license. If you're interested in reading more about it, please
+take a look at the <a href="https://github.com/developersIndia/wiki/blob/main/LICENSE">LICENSE</a> document.</p>
+<!-- Reference Links -->
+<h2 id="contributors-"><a class="header" href="#contributors-">Contributors ✨</a></h2>
+<p>Thanks go to these wonderful people (<a href="https://allcontributors.org/docs/en/emoji-key">emoji key</a>):</p>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://bhupesh.me"><img src="https://avatars.githubusercontent.com/u/34342551?v=4?s=100" width="100px;" alt="Bhupesh Varshney"/><br /><sub><b>Bhupesh Varshney</b></sub></a><br /><a href="https://github.com/developersIndia/wiki/pulls?q=is%3Apr+reviewed-by%3ABhupesh-V" title="Reviewed Pull Requests">👀</a> <a href="#content-Bhupesh-V" title="Content">🖋</a> <a href="#ideas-Bhupesh-V" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Bhupesh-V" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jarmos.vercel.app"><img src="https://avatars.githubusercontent.com/u/31373860?v=4?s=100" width="100px;" alt="Somraj Saha"/><br /><sub><b>Somraj Saha</b></sub></a><br /><a href="https://github.com/developersIndia/wiki/pulls?q=is%3Apr+reviewed-by%3AJarmos-san" title="Reviewed Pull Requests">👀</a> <a href="#content-Jarmos-san" title="Content">🖋</a> <a href="#ideas-Jarmos-san" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Jarmos-san" title="Project Management">📆</a> <a href="#infra-Jarmos-san" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tool-Jarmos-san" title="Tools">🔧</a> <a href="https://github.com/developersIndia/wiki/commits?author=Jarmos-san" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://shreyasgupta.in"><img src="https://avatars.githubusercontent.com/u/20678047?v=4?s=100" width="100px;" alt="Shreyas Gupta"/><br /><sub><b>Shreyas Gupta</b></sub></a><br /><a href="#content-sggts04" title="Content">🖋</a> <a href="#ideas-sggts04" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://govindsnair.netlify.app"><img src="https://avatars.githubusercontent.com/u/115881229?v=4?s=100" width="100px;" alt="Govind S Nair"/><br /><sub><b>Govind S Nair</b></sub></a><br /><a href="#content-g0v1ndN" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/triach-rold"><img src="https://avatars.githubusercontent.com/u/156170660?v=4?s=100" width="100px;" alt="Triach Rold"/><br /><sub><b>Triach Rold</b></sub></a><br /><a href="#content-triach-rold" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://asce-21.github.io/"><img src="https://avatars.githubusercontent.com/u/39599300?v=4?s=100" width="100px;" alt="Sanam Dhar"/><br /><sub><b>Sanam Dhar</b></sub></a><br /><a href="#content-asce-21" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ryukaizen"><img src="https://avatars.githubusercontent.com/u/55140313?v=4?s=100" width="100px;" alt="Akash"/><br /><sub><b>Akash</b></sub></a><br /><a href="#content-ryukaizen" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<p>This project follows the <a href="https://github.com/all-contributors/all-contributors">all-contributors</a> specification. Contributions of any kind are welcome!</p>
+
+
+
+                        <hr>
+                        <div class="footer-links">
+                            <table class="footer-links-table">
+                            <tr>
+                                <th>Must Read Thread Collections on r/developersIndia</th>
+                            </tr>
+                            <tr>
+                                <td><b><a href="https://www.reddit.com/r/developersIndia/?f=flair_name%3A%22Showcase%20Sunday%20%3Asnoo_hearteyes%3A%22" target="_blank">Monthly Showcase Sundays</a></b></td>
+                            </tr>
+                            <tr>
+                                <td><b><a href="https://www.reddit.com/r/developersIndia/new/?f=flair_name%3A%22Weekly%20Discussion%20%F0%9F%92%AC%22" target="_blank">Weekly Tech Discussions</a></b></td>
+                            </tr>
+                            <tr>
+                                <td><b><a href="https://www.reddit.com/r/developersIndia/?f=flair_name%3A%22Community%20Roundup%22" target="_blank">Monthly Community Roundups</a></b></td>
+                            </tr>
+                            <tr>
+                                <td><b><a href="https://www.reddit.com/r/developersIndia/?f=flair_name%3A%22Hiring%22" target="_blank">Monthly Hiring Thread</a></b></td>
+                            </tr>
+                            <tr>
+                                <td><b><a href="https://www.reddit.com/r/developersIndia/wiki/community-threads/" target="_blank">100+ Insightful Handpicked Discussions</a></b></td>
+                            </tr>
+                            </table>
+                        </div>
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+
+                            <a rel="next" href="faqs/how-to-start-dsa.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+
+                    <a rel="next" href="faqs/how-to-start-dsa.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
+            const socket = new WebSocket(wsAddress);
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+        <script>
+            function get_og_url(url){
+                return url.replace(/.md/, ".html");
+            }
+        </script>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-N27DH5VD1W"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-N27DH5VD1W');
+        </script>
+
+    </body>
+</html>

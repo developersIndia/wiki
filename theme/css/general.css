@@ -184,6 +184,7 @@ blockquote {
     color: var(--sidebar-fg);
     margin: 5px 0px;
     font-weight: bold;
+    font-size: 20px;
 }
 
 .result-no-output {

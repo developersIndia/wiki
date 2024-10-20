@@ -1,21 +1,25 @@
+<!-- omit from toc -->
 # Hackathons 101: A Step-by-Step Guide to Success
 
-### Table of Contents
-  * [Building the Dream Team](#building-the-dream-team)
-  * [The Art of Problem Selection](#the-art-of-problem-selection)
-  * [From Idea to Innovation](#from-idea-to-innovation)
-  * [Handling Stress and Burnout](#handling-stress-and-burnout)
-  * [Building Connections Beyond the Code](#building-connections-beyond-the-code)
-  * [Technical Preparation](#technical-preparation)
-  * [Useful Tools and Resources](#useful-tools-and-resources)
-  * [Time Management](#time-management)
-  * [Selling Your Solution](#selling-your-solution)
-  * [Remote Hackathon Strategies](#remote-hackathon-strategies)
-  * [Beyond the Prize](#beyond-the-prize)
-  * [Dealing with Failure](#dealing-with-failure)
-  * [Post-Hackathon Actions](#post-hackathon-actions)
-  * [Case Study: From Hackathon to Startup](#case-study-from-hackathon-to-startup)
-  * [Conclusion](#conclusion)
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Building the Dream Team](#building-the-dream-team)
+- [The Art of Problem Selection](#the-art-of-problem-selection)
+- [From Idea to Innovation](#from-idea-to-innovation)
+- [Handling Stress and Burnout](#handling-stress-and-burnout)
+- [Building Connections Beyond the Code](#building-connections-beyond-the-code)
+- [Technical Preparation](#technical-preparation)
+- [Useful Tools and Resources](#useful-tools-and-resources)
+- [Time Management](#time-management)
+- [Selling Your Solution](#selling-your-solution)
+- [Remote Hackathon Strategies](#remote-hackathon-strategies)
+- [Beyond the Prize](#beyond-the-prize)
+- [Dealing with Failure](#dealing-with-failure)
+- [Post-Hackathon Actions](#post-hackathon-actions)
+- [Case Study: From Hackathon to Startup](#case-study-from-hackathon-to-startup)
+- [Conclusion](#conclusion)
+
 
 
 Have you ever wondered why certain teams excel in hackathons?  
