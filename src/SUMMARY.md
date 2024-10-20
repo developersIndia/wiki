@@ -13,3 +13,4 @@
 - [Where to Find Tech Jobs](./community-guides/where-to-find-tech-jobs.md)
 - [Understanding Software Licenses](./community-guides/understanding-software-licenses.md)
 - [Getting Started in Cybersecurity](./community-guides/resources-to-get-started-in-cybersecurity.md)
+- [Beginner's Guide to Git/Github](./community-guides/beginner-guide-to-git-github.md)
