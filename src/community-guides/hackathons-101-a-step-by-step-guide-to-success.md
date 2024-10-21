@@ -1,9 +1,9 @@
 <!-- omit from toc -->
 # Hackathons 101: A Step-by-Step Guide to Success
 
+<!-- omit from toc -->
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Building the Dream Team](#building-the-dream-team)
 - [The Art of Problem Selection](#the-art-of-problem-selection)
 - [From Idea to Innovation](#from-idea-to-innovation)
