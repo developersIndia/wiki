@@ -1,0 +1,5 @@
+# Asking for Job Referrals
+
+## Perspective & Advice from the Community
+
+<blockquote class="reddit-embed-bq" data-embed-showtitle="true" data-embed-context="1" data-embed-depth="2" data-embed-height="1974"><a href="https://www.reddit.com/r/developersIndia/comments/vclqru/comment/icffcq0/">Comment</a><br> by<a href="https://www.reddit.com/user/Enforcerboy/">u/Enforcerboy</a> from discussion<a href="https://www.reddit.com/r/developersIndia/comments/vclqru/getting_ghosted_after_asking_for_referrals_is/"></a><br> in<a href="https://www.reddit.com/r/developersIndia/">developersIndia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
