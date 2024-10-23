@@ -1,0 +1,3 @@
+# Planning for Resignation
+
+<blockquote class="reddit-embed-bq" data-embed-showtitle="true" data-embed-context="1" data-embed-depth="2" data-embed-height="406"><a href="https://www.reddit.com/r/developersIndia/comments/15gwfph/comment/jul7so8/">Comment</a><br> by<a href="https://www.reddit.com/user/Serious_Web7948/">u/Serious_Web7948</a> from discussion<a href="https://www.reddit.com/r/developersIndia/comments/15gwfph/resignation_reason_backfired/"></a><br> in<a href="https://www.reddit.com/r/developersIndia/">developersIndia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
