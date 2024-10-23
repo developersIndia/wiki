@@ -1,0 +1,5 @@
+# Negotiating Notice Periods
+
+## Perspective & Advice from the Community
+
+<blockquote class="reddit-embed-bq" data-embed-showtitle="true" data-embed-context="1" data-embed-depth="2" data-embed-height="508"><a href="https://www.reddit.com/r/developersIndia/comments/1b875sd/comment/ktpodj4/">Comment</a><br> by<a href="https://www.reddit.com/user/dedxtreme/">u/dedxtreme</a> from discussion<a href="https://www.reddit.com/r/developersIndia/comments/1b875sd/lied_about_my_notice_period_before_interview_now/"></a><br> in<a href="https://www.reddit.com/r/developersIndia/">developersIndia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>

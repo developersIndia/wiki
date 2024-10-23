@@ -7,6 +7,9 @@
 - [How to Start DSA](faqs/how-to-start-dsa.md)
 - [Discovering Small GitHub Projects for Contributing to FOSS](faqs/finding-small-foss-projects-on-github.md)
 - [Approaching a DSA problem](./faqs/approaching-a-DSA-problem.md)
+- [Advice for Freshers just starting out in the tech industry](./faqs/advice-for-freshers.md)
+- [Negotiating Notice Periods](./faqs/negotiating-notice-periods.md)
+- [Asking for Job Referrals](./faqs/asking-for-job-referrals.md)
 
 # Community Guides
 
