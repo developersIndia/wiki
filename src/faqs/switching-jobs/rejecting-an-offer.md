@@ -1,0 +1,3 @@
+# Rejecting an offer
+
+<blockquote class="reddit-embed-bq" data-embed-showtitle="true" data-embed-context="1" data-embed-depth="2" data-embed-height="368"><a href="https://www.reddit.com/r/developersIndia/comments/taw6k8/comment/i03f5tu/">Comment</a><br> by<a href="https://www.reddit.com/user/Mindless-Pilot-Chef/">u/Mindless-Pilot-Chef</a> from discussion<a href="https://www.reddit.com/r/developersIndia/comments/taw6k8/i_accepted_an_offer_but_dont_want_to_join/"></a><br> in<a href="https://www.reddit.com/r/developersIndia/">developersIndia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>

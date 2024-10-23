@@ -7,9 +7,14 @@
 - [How to Start DSA](faqs/how-to-start-dsa.md)
 - [Discovering Small GitHub Projects for Contributing to FOSS](faqs/finding-small-foss-projects-on-github.md)
 - [Approaching a DSA problem](./faqs/approaching-a-DSA-problem.md)
-- [Advice for Freshers just starting out in the tech industry](./faqs/advice-for-freshers.md)
-- [Negotiating Notice Periods](./faqs/negotiating-notice-periods.md)
-- [Asking for Job Referrals](./faqs/asking-for-job-referrals.md)
+- [Advice for Freshers](./faqs/advice-for-freshers.md)
+- [Advice for Seniors](./faqs/advice-for-seniors.md)
+- [Switching Jobs](./faqs/switching-jobs/README.md)
+  - [Planning for Resignation](./faqs/switching-jobs/planning-for-resignation.md)
+  - [Negotiating Notice Periods](./faqs/switching-jobs/negotiating-notice-periods.md)
+  - [Asking for Referrals](./faqs/switching-jobs/asking-for-referrals.md)
+  - [Rejecting a Job Offer](./faqs/switching-jobs/rejecting-an-offer.md)
+  - [Sharing offer letters](./faqs/switching-jobs/sharing-offer-letters.md)
 
 # Community Guides
 
