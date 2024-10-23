@@ -1,10 +1,20 @@
+<!-- omit from toc -->
 # Resources To Get Started in Cybersecurity
+
+- [What is cybersecurity?](#what-is-cybersecurity)
+- [Basics](#basics)
+- [Learn about vulnerabilities and tools](#learn-about-vulnerabilities-and-tools)
+- [Practice](#practice)
+- [Test your skills in the real world](#test-your-skills-in-the-real-world)
+- [References](#references)
+- [Perspective \& advice from the community](#perspective--advice-from-the-community)
+
 
 ## What is cybersecurity?
 
 Cybersecurity is the protection of computer systems or networks from malicious actors that may result in the theft of data or disruption to any services these systems provide. It has many fields such as web hacking, mobile hacking, reverse engineering, etc. To get started, you have to pick the field which interests you. It can be web hacking if you like to tinker around with web applications to see how they behave or maybe reverse engineering if you like to see how the applications work.
 
-### Basics
+## Basics
 
 To get started with cybersecurity, it is recommended to have a basic understanding of computer networking, operating system fundamentals, as you have to know how it communicates to hack something. Check out the following resources to get a head start:
 
@@ -14,7 +24,7 @@ To get started with cybersecurity, it is recommended to have a basic understandi
 - [Basics of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 - If you want a university-like course with a deeper understanding of basics, you can follow [PWN College](https://pwn.college/intro-to-cybersecurity/)
 
-### Learn about vulnerabilities and tools
+## Learn about vulnerabilities and tools
 
 After understanding the basics, it is time to learn some hacking skills.
 
@@ -33,7 +43,7 @@ Burp Suite is a software security application used for penetration testing of we
 - [How to use Burp Suite](https://www.youtube.com/watch?v=LSqC9qgEMi0&list=PLxhvVyxYRviajtnHaICLg_ZcY47TpgGjR)
 - [To practice Burp Suite lab](https://tryhackme.com/room/burpsuitebasics)
 
-### Practice
+## Practice
 
 After you have some knowledge about the vulnerabilities in theory, it is time to practice them.
 
@@ -42,7 +52,7 @@ After you have some knowledge about the vulnerabilities in theory, it is time to
 - [Kontra](https://application.security/free/owasp-top-10) is a free platform to learn about application security through their series of interactive exercises on vulnerabilities in real-world scenarios.
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) is a modern insecure application that has vulnerabilities from OWASP Top 10 and other security issues found in real-world applications.
 
-### Test your skills in the real world
+## Test your skills in the real world
 
 Now, after gaining knowledge about vulnerabilities and practicing how to find them, it is time to use your skills in the real world. You can try to test for vulnerabilities in Bug Bounty programs.
 
@@ -55,10 +65,22 @@ Bug bounty programs offer monetary rewards to ethical hackers for successfully d
 
 You can use these platforms to hunt on various programs, or you can search for independent vulnerability disclosure programs that are self-hosted by various companies by searching for 'Company Name' vulnerability disclosure program or 'Company Name' bug bounty program on Google.
 
-### References
+
+## References
 
 - [OWASP](https://owasp.org/www-project-top-ten/)
 - [Portswigger](https://portswigger.net/web-security/)
 - [How to be a hacker](https://github.com/s0md3v/be-a-hacker)
 
-This wiki is maintained by [u/Sanamdhar](https://www.reddit.com/user/Sanamdhar/)
+## Perspective & advice from the community
+
+- [Career path for cybersecurity in India?](https://www.reddit.com/r/developersIndia/comments/ydxj5j/career_path_for_cybersecurity_in_india/)
+- [Cybersecurity vs Developer salary and career growth.](https://www.reddit.com/r/developersIndia/comments/12w45c1/cybersecurity_vs_developer_salary_and_career/).
+- [Is cyber security worth it?](https://www.reddit.com/r/developersIndia/comments/1930411/is_cyber_security_worth_it/)
+- [How is the CyberSecurity job market for freshers in India?](https://www.reddit.com/r/developersIndia/comments/1dsmrwo/how_is_the_cybersecurity_job_market_for_freshers/)
+- [**I’m Subho Halder, Co-founder & CEO of Appknox — AMA**](https://www.reddit.com/r/developersIndia/comments/1g75a7o/im_subho_halder_cofounder_ceo_of_appknox_ama/)
+
+<!-- omit from toc -->
+## Acknowledgements
+
+This wiki was initially written by [u/Sanamdhar](https://www.reddit.com/user/Sanamdhar/).

@@ -1,5 +1,5 @@
 <!-- omit from toc -->
-# Advice for Seniors
+# Advice for Professionals
 
 - [Long Term Career Planning](#long-term-career-planning)
 

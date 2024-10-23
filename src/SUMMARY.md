@@ -8,16 +8,18 @@
 - [Discovering Small GitHub Projects for Contributing to FOSS](faqs/finding-small-foss-projects-on-github.md)
 - [Approaching a DSA problem](./faqs/approaching-a-DSA-problem.md)
 - [Advice for Freshers](./faqs/advice-for-freshers.md)
-- [Advice for Seniors](./faqs/advice-for-seniors.md)
+- [Advice for Professionals](./faqs/advice-for-professionals.md)
 - [Switching Jobs](./faqs/switching-jobs/README.md)
   - [Planning for Resignation](./faqs/switching-jobs/planning-for-resignation.md)
   - [Negotiating Notice Periods](./faqs/switching-jobs/negotiating-notice-periods.md)
   - [Asking for Referrals](./faqs/switching-jobs/asking-for-referrals.md)
   - [Rejecting a Job Offer](./faqs/switching-jobs/rejecting-an-offer.md)
   - [Sharing offer letters](./faqs/switching-jobs/sharing-offer-letters.md)
+  - [Switching from Service Based to Product Based](./faqs/switching-jobs/service-based-to-product-based.md)
 - [Career Transitions](./faqs/career-transitions/README.md)
   - [From QA/SDET to Developer](./faqs/career-transitions/qa-sdet-to-dev.md)
   - [From Dev to DevOps](./faqs/career-transitions/dev-to-devops.md)
+  - [To Game Dev](./faqs/career-transitions/game-dev.md)
 
 # Community Guides
 

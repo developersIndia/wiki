@@ -6,3 +6,4 @@
 - [Asking for Referrals](./asking-for-referrals.md)
 - [Rejecting a Job Offer](./rejecting-an-offer.md)
 - [Sharing offer letters](./sharing-offer-letters.md)
+- [Switching from Service Based to Product Based](./service-based-to-product-based.md)
