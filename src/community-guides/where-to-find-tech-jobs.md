@@ -1,5 +1,7 @@
 # Where to Find Jobs?
 
+> Checkout r/developerIndia's official [Job Board](https://developersindia.in/job-board/) for job listings.
+
 ## Traditional Mediums
 
 1. [LinkedIn](https://www.linkedin.com/jobs/)
@@ -10,7 +12,7 @@
 
 Not to mention job portals like Shine and Indeed.
 
-## Remote
+## Remote Job Boards
 
 1. [We Work Remotely](https://weworkremotely.com/)
 2. [Entry Level Remote Job](https://entrylevelremotejob.com/)

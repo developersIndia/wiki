@@ -1,3 +1,0 @@
-# Sharing offer letters
-
-<blockquote class="reddit-embed-bq" data-embed-showtitle="true" data-embed-context="1" data-embed-depth="2" data-embed-height="424"><a href="https://www.reddit.com/r/developersIndia/comments/v32lvo/comment/iaw284y/">Comment</a><br> by<a href="https://www.reddit.com/user/Lord_TrainBacker7000/">u/Lord_TrainBacker7000</a> from discussion<a href="https://www.reddit.com/r/developersIndia/comments/v32lvo/is_it_okay_for_me_to_share_my_offer_letter_with_a/"></a><br> in<a href="https://www.reddit.com/r/developersIndia/">developersIndia</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>

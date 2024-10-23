@@ -200,3 +200,17 @@ blockquote {
     width: 100%;
     text-align: center;
 }
+
+/* .reddit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 16px;
+} */
+
+/* Add or update this in book/css/general.css and theme/css/general.css */
+.reddit-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 16px;
+    grid-auto-flow: dense;
+}
