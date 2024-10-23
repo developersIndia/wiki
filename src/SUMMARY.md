@@ -15,6 +15,9 @@
   - [Asking for Referrals](./faqs/switching-jobs/asking-for-referrals.md)
   - [Rejecting a Job Offer](./faqs/switching-jobs/rejecting-an-offer.md)
   - [Sharing offer letters](./faqs/switching-jobs/sharing-offer-letters.md)
+- [Career Transitions](./faqs/career-transitions/README.md)
+  - [From QA/SDET to Developer](./faqs/career-transitions/qa-sdet-to-dev.md)
+  - [From Dev to DevOps](./faqs/career-transitions/dev-to-devops.md)
 
 # Community Guides
 
