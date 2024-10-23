@@ -1,10 +1,10 @@
 <!-- omit from toc -->
 # QA/SDET to Developer
 
-- [Stories from the Community](#stories-from-the-community)
+- [Stories from the community](#stories-from-the-community)
 - [Perspectives \& Advice from the community](#perspectives--advice-from-the-community)
 
-## Stories from the Community
+## Stories from the community
 
 - [My journey from test engineer to software developer](https://www.reddit.com/r/developersIndia/comments/16wy6es/my_journey_from_test_engineer_to_software/) by u/Slayerofmayor.
 
