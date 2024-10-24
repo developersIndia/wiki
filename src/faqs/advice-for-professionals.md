@@ -3,6 +3,7 @@
 
 - [Perspectives \& Advice from the community](#perspectives--advice-from-the-community)
   - [Long Term Career Planning](#long-term-career-planning)
+- [Related Discussions from the community](#related-discussions-from-the-community)
 
 ## Perspectives & Advice from the community
 
@@ -31,3 +32,7 @@ Strongly refrain from using social media. If you must, use it for brand building
 [`Source`](https://www.reddit.com/r/developersIndia/comments/18ma6fw/comment/ke4fl3a/)
 
 </blockquote>
+
+## Related Discussions from the community
+
+- [Your career span in IT sector would be more like 20 years rather than 40 years, so plan accordingly](https://www.reddit.com/r/developersIndia/comments/1bx1yx4/your_career_span_in_it_sector_would_be_more_like/)

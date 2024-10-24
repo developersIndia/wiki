@@ -17,7 +17,7 @@
   - [Negotiating Salaries](./faqs/switching-jobs/negotiating-salaries.md)
   - [Rejecting a Job Offer](./faqs/switching-jobs/rejecting-an-offer.md)
   - [Sharing offer letters & past salaries with recruiters](./faqs/switching-jobs/sharing-offer-letters-and-past-salaries.md)
-  - [Switching from Service Based to Product Based](./faqs/switching-jobs/service-based-to-product-based.md)
+  - [Service Based to Product Based Organizations](./faqs/switching-jobs/service-based-to-product-based.md)
 - [Career Transitions](./faqs/career-transitions/README.md)
   - [From QA/SDET to Developer](./faqs/career-transitions/qa-sdet-to-dev.md)
   - [From Dev to DevOps](./faqs/career-transitions/dev-to-devops.md)
