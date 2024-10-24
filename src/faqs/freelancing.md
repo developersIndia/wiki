@@ -4,10 +4,9 @@
 - [How do I find clients?](#how-do-i-find-clients)
 - [How do I decide how much to charge?](#how-do-i-decide-how-much-to-charge)
 
-
 ## How do I find clients?
 
-_@jarmos.rs_ on developersIndia discord shared the following advice:
+`@jarmos.rs` on developersIndia discord shared the following advice:
 
 <blockquote>
 
@@ -34,7 +33,7 @@ So, I hope it answered the question on "How to find clients?". Obviously, there'
 
 ## How do I decide how much to charge?
 
-_@jarmos.rs_ on developersIndia discord shared the following advice:
+`@jarmos.rs` on developersIndia discord shared the following advice:
 
 <blockquote>
 

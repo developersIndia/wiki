@@ -6,7 +6,7 @@
 
 ## Stories from the community
 
-_u/Luci\_95_ on a post titled [Switching from Software Developer to DEVOPS role](https://www.reddit.com/r/developersIndia/comments/1fjk7h5/switching_from_software_developer_to_devops_role/) shared the following story:
+`u/Luci_95` on a post titled [Switching from Software Developer to DEVOPS role](https://www.reddit.com/r/developersIndia/comments/1fjk7h5/switching_from_software_developer_to_devops_role/) shared the following story:
 
 <blockquote>
 

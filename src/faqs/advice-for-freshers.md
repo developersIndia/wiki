@@ -10,7 +10,7 @@
 
 ### General Advice
 
-_u/morning-coder_ on a post titled [To all the developers who made it, how did you do it?](https://www.reddit.com/r/developersIndia/comments/1g40a9z/to_all_the_developers_who_made_it_how_did_you_do/) shared the following advice:
+`u/morning-coder` on a post titled [To all the developers who made it, how did you do it?](https://www.reddit.com/r/developersIndia/comments/1g40a9z/to_all_the_developers_who_made_it_how_did_you_do/) shared the following advice:
 
 <blockquote>
 
@@ -40,7 +40,7 @@ Edit 1 : Tech-stack primarily Java Springboot, C++, Rest, Kafka, gRPC Mongo, Pos
 
 </blockquote>
 
-_u/stackaway_ on a post titled [What did you notice in those top 1% developers?](https://www.reddit.com/r/developersIndia/comments/1bobrc8/what_did_you_notice_in_those_top_1_developers/) shared the following advice:
+`u/stackaway` on a post titled [What did you notice in those "top 1 %" developers which made them successful?](https://www.reddit.com/r/developersIndia/comments/1bobrc8/what_did_you_notice_in_those_top_1_developers/) shared the following advice:
 
 <blockquote>
 
@@ -73,12 +73,12 @@ Personality, Decision Making, Team Mate Interactions & Programming Skills.
 The top 1% would be most likely good to great on all these parameters. People can read the entire research paper [here](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/Paul-Li-MSR-Tech-Report.pdf).
 
 ---
-    
+
 [`Source`](https://www.reddit.com/r/developersIndia/comments/1bobrc8/comment/kwo2yv4/)
 
 </blockquote>
 
-_u/MJasdf_ on a post titled [How to find my niche?](https://www.reddit.com/r/developersIndia/comments/147puva/how_to_find_my_nich%C3%A9/) shared the following advice:
+`u/MJasdf` on a post titled [How to find my niche?](https://www.reddit.com/r/developersIndia/comments/147puva/how_to_find_my_nich%C3%A9/) shared the following advice:
 
 <blockquote>
 
@@ -98,7 +98,7 @@ Take. Your. Time. Start at one place don't just jump into the niche. It's like a
 
 ### Soft Skills
 
-_u/Ashishpayasi_ shared the following advice:
+`u/Ashishpayasi` shared the following advice on a now deleted post:
 
 <blockquote>
 
@@ -122,7 +122,7 @@ Here is how to avoid to be in such a situation:
 
 </blockquote>
 
-_u/alok4_ shared the following advice:
+`u/alok4` shared the following advice on a now deleted post:
 
 <blockquote>
 
@@ -146,7 +146,7 @@ for your situation let it go , talk privately with manager , and if it becomes r
 
 ### Social Skills
 
-_u/boumboum34_ on a post titled [Never worked so Formally with people, first time working in a group.](https://www.reddit.com/r/developersIndia/comments/1fbp4o4/never_worked_so_formally_with_people_first_time/) shared the following advice:
+`u/boumboum34` on a post titled [Never worked so Formally with people, first time working in a group.](https://www.reddit.com/r/developersIndia/comments/1fbp4o4/never_worked_so_formally_with_people_first_time/) shared the following advice:
 
 <blockquote>
 

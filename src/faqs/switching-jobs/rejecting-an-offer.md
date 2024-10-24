@@ -3,7 +3,7 @@
 
 ## Perspectives & Advice from the community
 
-_u/Mindless-Pilot-Chef_ on a post titled [I accepted an offer but don't want to join](https://www.reddit.com/r/developersIndia/comments/taw6k8/i_accepted_an_offer_but_dont_want_to_join/) shared the following advice:
+`u/Mindless-Pilot-Chef` on a post titled [I accepted an offer but don't want to join](https://www.reddit.com/r/developersIndia/comments/taw6k8/i_accepted_an_offer_but_dont_want_to_join/) shared the following advice:
 
 <blockquote>
 

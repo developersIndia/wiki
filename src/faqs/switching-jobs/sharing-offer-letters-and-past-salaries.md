@@ -2,7 +2,7 @@
 
 ## Perspectives & Advice from the community
 
-_u/pablolit69_ on a post titled [Recruiter: What's your current CTC? How to respond?](https://www.reddit.com/r/developersIndia/comments/xhiz2b/recruiter_whats_your_current_ctc_how_to/) shared the following advice:
+`u/pablolit69` on a post titled [Recruiter: What's your current CTC? How to respond?](https://www.reddit.com/r/developersIndia/comments/xhiz2b/recruiter_whats_your_current_ctc_how_to/) shared the following advice:
 
 <blockquote>
 
@@ -26,7 +26,7 @@ Do tell them your current CTC, as it saves everyone some time. But keep the "exp
 
 </blockquote>
 
-u/Lord_TrainBacker7000 on a post titled [Is it okay for me to share my offer letter with a recruiter?](https://www.reddit.com/r/developersIndia/comments/v32lvo/is_it_okay_for_me_to_share_my_offer_letter_with_a/) shared the following advice:
+`u/Lord_TrainBacker7000` on a post titled [Is it okay for me to share my offer letter with a recruiter?](https://www.reddit.com/r/developersIndia/comments/v32lvo/is_it_okay_for_me_to_share_my_offer_letter_with_a/) shared the following advice:
 
 <blockquote>
 
@@ -44,7 +44,7 @@ Your awesome self
 
 </blockquote>
 
-_u/Infinitrix02_ on a post titled [I'm tired of being asked about my current and expected CTC](https://www.reddit.com/r/developersIndia/comments/qnvk1d/im_tired_of_being_asked_about_my_current_and/) shared the following advice:
+`u/Infinitrix02` on a post titled [I'm tired of being asked about my current and expected CTC](https://www.reddit.com/r/developersIndia/comments/qnvk1d/im_tired_of_being_asked_about_my_current_and/) shared the following advice:
 
 <blockquote>
 

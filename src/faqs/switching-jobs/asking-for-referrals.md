@@ -2,7 +2,7 @@
 
 ## Perspectives & Advice from the community
 
-_u/Enforcerboy_ on a post titled [Getting ghosted after asking for referrals is frustrating](https://www.reddit.com/r/developersIndia/comments/vclqru/getting_ghosted_after_asking_for_referrals_is/) shared the following advice:
+`u/Enforcerboy` on a post titled [Getting ghosted after asking for referrals is frustrating](https://www.reddit.com/r/developersIndia/comments/vclqru/getting_ghosted_after_asking_for_referrals_is/) shared the following advice:
 
 <blockquote>
 
@@ -68,6 +68,8 @@ Who you are?(Senior SWE @ <company>, working on <language(s)>/<tech stack>, expe
 What kind of job you want to go for?Individual contributor / Managerial , etc
 
 They should only have to spend more than 5-10 seconds, if they want to know more about your projects, your graduation/school marks, or your hobbies. Most recruiters won't care.
+
+---
 
 [`Source`](https://www.reddit.com/r/developersIndia/comments/vclqru/comment/icffcq0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 

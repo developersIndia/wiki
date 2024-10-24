@@ -8,7 +8,7 @@
 
 ### Long Term Career Planning
 
-_u/impossible__dude_ on a post titled [What is the future of people in the tech sector?](https://www.reddit.com/r/developersIndia/comments/18ma6fw/what_is_the_future_of_people_in_the_tech_sector/) shared the following advice:
+`u/impossible__dude` on a post titled [What is the future of people in the tech sector?](https://www.reddit.com/r/developersIndia/comments/18ma6fw/what_is_the_future_of_people_in_the_tech_sector/) shared the following advice:
 
 <blockquote>
 

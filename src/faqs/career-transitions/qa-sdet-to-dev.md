@@ -10,7 +10,7 @@
 
 ## Perspectives & Advice from the community
 
-_u/Effective_Spite6462_ on a post titled [Need guidance on switching from testing to development](https://www.reddit.com/r/developersIndia/comments/twol6c/need_guidance_on_switching_from_testing_to/) shared the following advice:
+`u/Effective_Spite6462` on a post titled [Need guidance on switching from testing to development](https://www.reddit.com/r/developersIndia/comments/twol6c/need_guidance_on_switching_from_testing_to/) shared the following advice:
 
 <blockquote>
 

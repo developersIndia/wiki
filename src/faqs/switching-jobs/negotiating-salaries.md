@@ -6,7 +6,7 @@
 
 ## Perspectives & Advice from the community
 
-_@thecatclubpresident_ on developersindia discord shared the following advice:
+`@thecatclubpresident` on developersindia discord shared the following advice:
 
 <blockquote>
 

@@ -2,7 +2,7 @@
 
 ## Perspectives & Advice from the community
 
-_@someguyguy._ on developersIndia discord shared the following advice on **How to evaluate if a good company is _good_**?
+`@someguyguy.` on developersIndia discord shared the following advice on **How to evaluate if a good company is _good_**?
 
 <blockquote>
 
