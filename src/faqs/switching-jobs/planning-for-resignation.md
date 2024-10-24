@@ -2,7 +2,7 @@
 
 ## Perspectives & Advice from the community
 
-_u/magnet_24_ on a post titled [Resignation Reason Backfired](https://www.reddit.com/r/developersIndia/comments/15gwfph/resignation_reason_backfired/) shared the following advice:
+_u/magnet\_24_ on a post titled [Resignation Reason Backfired](https://www.reddit.com/r/developersIndia/comments/15gwfph/resignation_reason_backfired/) shared the following advice:
 
 <blockquote>
 

@@ -13,6 +13,7 @@
   - [Planning for Resignation](./faqs/switching-jobs/planning-for-resignation.md)
   - [Negotiating Notice Periods](./faqs/switching-jobs/negotiating-notice-periods.md)
   - [Asking for Referrals](./faqs/switching-jobs/asking-for-referrals.md)
+  - [Choosing your new workplace](./faqs/switching-jobs/choosing-your-new-workplace.md)
   - [Negotiating Salaries](./faqs/switching-jobs/negotiating-salaries.md)
   - [Rejecting a Job Offer](./faqs/switching-jobs/rejecting-an-offer.md)
   - [Sharing offer letters & past salaries with recruiters](./faqs/switching-jobs/sharing-offer-letters-and-past-salaries.md)
@@ -21,6 +22,7 @@
   - [From QA/SDET to Developer](./faqs/career-transitions/qa-sdet-to-dev.md)
   - [From Dev to DevOps](./faqs/career-transitions/dev-to-devops.md)
   - [To Game Dev](./faqs/career-transitions/game-dev.md)
+- [Freelancing](./faqs/freelancing.md)
 
 # Community Guides
 

@@ -2,8 +2,7 @@
 
 ## Perspectives & Advice from the community
 
-
-u/pablolit69 on a post titled [Recruiter: What's your current CTC? How to respond?](https://www.reddit.com/r/developersIndia/comments/xhiz2b/recruiter_whats_your_current_ctc_how_to/) shared the following advice:
+_u/pablolit69_ on a post titled [Recruiter: What's your current CTC? How to respond?](https://www.reddit.com/r/developersIndia/comments/xhiz2b/recruiter_whats_your_current_ctc_how_to/) shared the following advice:
 
 <blockquote>
 
@@ -45,7 +44,7 @@ Your awesome self
 
 </blockquote>
 
-u/Infinitrix02 on a post titled [I'm tired of being asked about my current and expected CTC](https://www.reddit.com/r/developersIndia/comments/qnvk1d/im_tired_of_being_asked_about_my_current_and/) shared the following advice:
+_u/Infinitrix02_ on a post titled [I'm tired of being asked about my current and expected CTC](https://www.reddit.com/r/developersIndia/comments/qnvk1d/im_tired_of_being_asked_about_my_current_and/) shared the following advice:
 
 <blockquote>
 
