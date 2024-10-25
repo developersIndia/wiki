@@ -1,11 +1,11 @@
 <!-- omit from toc -->
-
 # Advice for Freshers
 
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
   - [General Advice](#general-advice)
   - [Soft Skills](#soft-skills)
   - [Social Skills](#social-skills)
+- [Related Discussions from the community](#related-discussions-from-the-community)
 
 ## Perspectives & advice from the community
 
@@ -373,3 +373,7 @@ best people you can, the people you want to be like.
 [`Source`](https://www.reddit.com/r/developersIndia/comments/1fbp4o4/comment/lotc2re/)
 
 </blockquote>
+
+## Related Discussions from the community
+
+- [How to Software Engineer 101: comprehensive guide with templates!](https://www.reddit.com/r/developersIndia/comments/1eewofj/how_to_software_engineer_101_comprehensive_guide/).

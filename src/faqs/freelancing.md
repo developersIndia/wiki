@@ -3,6 +3,7 @@
 
 - [How do I find clients?](#how-do-i-find-clients)
 - [How do I decide how much to charge?](#how-do-i-decide-how-much-to-charge)
+- [Related Discussions from the community](#related-discussions-from-the-community)
 
 ## How do I find clients?
 
@@ -59,3 +60,7 @@ Some ending notes, always prioritise providing the best service over your income
 [`Source`](https://discord.com/channels/669880381649977354/670198758343966740/861203010382200862)
 
 </blockquote>
+
+## Related Discussions from the community
+
+- [A lot of people in this sub are budding freelancers. So, here is how to apply for GST registration(and how much time it takes)](https://www.reddit.com/r/developersIndia/comments/15xcvg2/a_lot_of_people_in_this_sub_are_budding/).
