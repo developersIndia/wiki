@@ -23,6 +23,7 @@
   - [From Dev to DevOps](./faqs/career-transitions/dev-to-devops.md)
   - [To Game Dev](./faqs/career-transitions/game-dev.md)
 - [Freelancing](./faqs/freelancing.md)
+- [Contract Work](./faqs/contract-work.md)
 
 # Community Guides
 
