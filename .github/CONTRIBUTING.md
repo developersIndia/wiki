@@ -175,13 +175,13 @@ uniform source code across the repository. So, ensure you've `pre-commit`
 installed on your local machine & run the following command:
 
 ```shell
-cd wiki-mdbook && pre-commit install --install-hooks
+cd wiki && pre-commit install --install-hooks
 ```
 
 This will install the necessary [`git` pre-commit hooks][22] which will run
 each time you attempt to commit some changes.
 
-**2. mdBook:
+**2. mdBook**:
 
 We statically generate the [website][23] for the wiki using a CLI tool called
 [`mdbook`][16]. It's built using Rust which means its fast & very useful for
