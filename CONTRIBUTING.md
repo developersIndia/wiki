@@ -3,6 +3,92 @@
 First off, thanks for taking the time to contribute! 🎉 Make sure you follow
 below guidelines before contributing.
 
+## Setup
+
+### Prerequisites
+
+You need to have the follow tools installed:
+
+- [`mdbook`](https://github.com/rust-lang/mdBook/releases)
+- [`vale`](https://vale.sh/docs/vale-cli/installation/)
+<!-- - [`pre-commit`][18] -->
+
+Once installed you can verify if the software are working properly or not by
+invoking the following commands;
+
+```shell
+# Verify the mdbook CLI tool is installed on your system
+mdbook --version
+# Example output: mdbook v0.4.21
+
+# Verify vale exists & is ready to lint your wiki entry
+vale --version
+# Example output: vale version v2.20.21
+```
+
+### Getting Started
+
+1. Fork the repository & clone it on your local machine:
+
+   ```shell
+   git clone github.com/developersIndia/wiki
+   ```
+
+2. Run the development server to see the changes live:
+
+   ```shell
+   mdbook serve
+   ```
+
+3. To lint the markdown files, run the following command:
+
+   ```shell
+   vale .
+   ```
+
+<!-- **1. Pre-Commit Hooks**:
+
+We've placed some bare minimum pre-commit hooks to ensure the contributions we
+receive adhere to some standard coding practices. It helps us maintain an
+uniform source code across the repository. So, ensure you've `pre-commit`
+installed on your local machine & run the following command:
+
+```shell
+cd wiki && pre-commit install --install-hooks
+```
+
+This will install the necessary [`git` pre-commit hooks][22] which will run
+each time you attempt to commit some changes. -->
+
+<!-- **2. mdBook**:
+
+We statically generate the [website][23] for the wiki using a CLI tool called
+[`mdbook`][16]. It's built using Rust which means its fast & very useful for
+building documentation websites without much overhead.
+
+`mdbook` requires us to create Markdown files inside the `src` directory &
+nested Markdown contents can exists inside sub-folders. The CLI tool is smart
+enough to use those sub-folders when building the URLs. In other words, here's
+what the current structure of the project is like:
+
+```shell
+.
+└── ./
+    └── src/
+        ├── faqs/
+        │   ├── how-to-start-dsa.md
+        │   └── ...
+        └── common-guides/
+            ├── how-to-find-a-tech-job.md
+            └── ...
+```
+
+Besides, the opinionated file organisation structure, `mdbook` can also be
+further configured using the `book.toml` file!
+
+Regardless, `mdbook` is highly customization & as such we recommend going
+through its [official documentation](https://rust-lang.github.io/mdBook/index.html) for more information on the same. -->
+
 ## What qualifies as a "wiki"?
 
 ### FAQs
