@@ -2,13 +2,11 @@
 
 # Advice for Professionals
 
-- [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
-  - [Long Term Career Planning](#long-term-career-planning)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Advice for Professionals](#advice-for-professionals)
+  - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
+  - [Related Discussions from the community](#related-discussions-from-the-community)
 
 ## Perspectives & advice from the community
-
-### Long Term Career Planning
 
 `u/impossible__dude` on a post titled
 [What is the future of people in the tech sector?](https://www.reddit.com/r/developersIndia/comments/18ma6fw/what_is_the_future_of_people_in_the_tech_sector/)
@@ -46,6 +44,61 @@ long career you need to be healthy and relaxed above anything
 
 </blockquote>
 
+`u/Longjumping-Egg-3925` on a post titled [Professionals with 15+ years experience](https://www.reddit.com/r/developersIndia/comments/190l8ap/professionals_with_15_years_experience/), shared the following perspective:
+
+<blockquote>
+
+Closing 20 years in 2025.
+
+Service Desk Engineer - Sys Admin - Windows Admin - Design Engineer - Cloud Engineer - Cloud Architect - Cloud Tech Sales/Pre-Sales - Cloud Programme Leadership (Tech & Non Tech).
+
+Career spans two countries India/New Zealand.
+
+Learnt that you can learn anything given enough effort and time is out against it. Also learnt that grass is always greener on the other side.
+
+Learnt WLB is important - and work cannot come at the cost of health/wealth.
+
+If I was to tell my younger self something - passive income pursuits and also investing early.
+
+Also learnt that if you invest in yourself - you can reap bigger than life benefits.
+
+Now - give back to migrant communities where I am, return to work folk, students and such.
+
+Now chasing passive income pursuits. And building that retirement portfolio - read up about FIRE if you are interested.
+
+Looking to coast after 45 - and then look for consulting only opportunities at the end. Depending on what my kid wants to end up doing.
+
+Lots more! Let the discussion begin.
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/190l8ap/comment/kgp5ki4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+</blockquote>
+
+`u/impossible__dude` on a post titled, [Professionals with 15+ years experience](https://www.reddit.com/r/developersIndia/comments/190l8ap/professionals_with_15_years_experience/), shared the following advice:
+
+<blockquote>
+
+22+ YOE. CXO.
+
+Very important to still be sufficiently hands on and not be dependent on someone else (another staff member) for everything.
+
+At this level, picking up what will keep you ahead of the competition is everything. Could be reading up on some specific tech like Rust and seeing if it makes sense to write a few modules with it. Could be reading up on how to analyze your AWS and GCP bills and understand if the teams are effectively utilizing the resources or overprovisioning. Could be checking out the latest release notes of React Native and trying to understand if upgrading makes sense.
+
+Overall, being independent and reading up a lot is crucial so that you can bring your own perspective to the team meetings.
+
+And, of course, learning new ways to convince people never goes out of fashion. Some board member will always bat for AI and LLMs even if the firm doesn't remotely need it. Learning to focus and deploy the available research dollars to the right projects is v crucial.
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/190l8ap/comment/kgpvfe3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+</blockquote>
+
 ## Related Discussions from the community
 
-- [Your career span in IT sector would be more like 20 years rather than 40 years, so plan accordingly](https://www.reddit.com/r/developersIndia/comments/1bx1yx4/your_career_span_in_it_sector_would_be_more_like/)
+- [Your career span in IT sector would be more like 20 years rather than 40 years, so plan accordingly](https://www.reddit.com/r/developersIndia/comments/1bx1yx4/your_career_span_in_it_sector_would_be_more_like/).
+- [What is the "endgame" for people in IT?](https://www.reddit.com/r/developersIndia/comments/1ak1l1j/what_is_the_endgame_for_people_in_it/).
+- [How have you changed with years of experience? What are the things you did as a fresher that you no longer do?](https://www.reddit.com/r/developersIndia/comments/1bo7sre/how_have_you_changed_with_years_of_experience/).
+- [Let's talk performance reviews!](https://www.reddit.com/r/developersIndia/comments/siqswv/lets_talk_performance_reviews/).

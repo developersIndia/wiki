@@ -2,45 +2,7 @@
 
 ## Perspectives & advice from the community
 
-`u/pablolit69` on a post titled
-[Recruiter: What's your current CTC? How to respond?](https://www.reddit.com/r/developersIndia/comments/xhiz2b/recruiter_whats_your_current_ctc_how_to/)
-shared the following advice:
-
-<blockquote>
-
-Don't try to avoid them.
-
-Tell that you earn 5 LPA, and that you are expecting 10-12 LPA. It's not as rare
-as they will make it sound like.
-
-Let them stick to their script, you stick to yours.
-
-But yes, you can always decline to tell your expected CTC before the interviews.
-For that, you can say that you don't know their pay range, and your expectations
-will be according to that. If they can tell you the range, you can tell the
-expectation now. Else, it will take time for you to get an idea about how much
-their company pays
-
-At least that's what I do. If they insist, I always tell them that I do not have
-any fixed number in mind, and if they keep insisting, I get done with saying
-"industry standard hike". Later, after the interview, if they insist that the
-industry standard is 25%, I insist that for the role that I am applying to and
-based on the company, it's 100%. (Don't just say it, unless it's true)
-
-It's not that there's some official resource that they can quote, and tell me
-that I am wrong.
-
-Do tell them your current CTC, as it saves everyone some time. But keep the
-"expected CTC" part for later.
-
----
-
-[`Source`](https://www.reddit.com/r/developersIndia/comments/xhiz2b/comment/ioy1xia/)
-
-</blockquote>
-
-`u/Lord_TrainBacker7000` on a post titled
-[Is it okay for me to share my offer letter with a recruiter?](https://www.reddit.com/r/developersIndia/comments/v32lvo/is_it_okay_for_me_to_share_my_offer_letter_with_a/)
+`u/Lord_TrainBacker7000` on a post titled, [Is it okay for me to share my offer letter with a recruiter?](https://www.reddit.com/r/developersIndia/comments/v32lvo/is_it_okay_for_me_to_share_my_offer_letter_with_a/)
 shared the following advice:
 
 <blockquote>
@@ -61,9 +23,7 @@ Your awesome self
 
 </blockquote>
 
-`u/Infinitrix02` on a post titled
-[I'm tired of being asked about my current and expected CTC](https://www.reddit.com/r/developersIndia/comments/qnvk1d/im_tired_of_being_asked_about_my_current_and/)
-shared the following advice:
+`u/Infinitrix02` on a post titled, [I'm tired of being asked about my current and expected CTC](https://www.reddit.com/r/developersIndia/comments/qnvk1d/im_tired_of_being_asked_about_my_current_and/) shared the following advice:
 
 <blockquote>
 
@@ -101,5 +61,41 @@ two have worked beautifully for me over the past year.
 ---
 
 [`Source`](https://www.reddit.com/r/developersIndia/comments/qnvk1d/comment/hjj0ybp/)
+
+</blockquote>
+
+`u/pablolit69` on a post titled, [Recruiter: What's your current CTC? How to respond?](https://www.reddit.com/r/developersIndia/comments/xhiz2b/recruiter_whats_your_current_ctc_how_to/)
+shared the following advice:
+
+<blockquote>
+
+Don't try to avoid them.
+
+Tell that you earn 5 LPA, and that you are expecting 10-12 LPA. It's not as rare
+as they will make it sound like.
+
+Let them stick to their script, you stick to yours.
+
+But yes, you can always decline to tell your expected CTC before the interviews.
+For that, you can say that you don't know their pay range, and your expectations
+will be according to that. If they can tell you the range, you can tell the
+expectation now. Else, it will take time for you to get an idea about how much
+their company pays
+
+At least that's what I do. If they insist, I always tell them that I do not have
+any fixed number in mind, and if they keep insisting, I get done with saying
+"industry standard hike". Later, after the interview, if they insist that the
+industry standard is 25%, I insist that for the role that I am applying to and
+based on the company, it's 100%. (Don't just say it, unless it's true)
+
+It's not that there's some official resource that they can quote, and tell me
+that I am wrong.
+
+Do tell them your current CTC, as it saves everyone some time. But keep the
+"expected CTC" part for later.
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/xhiz2b/comment/ioy1xia/)
 
 </blockquote>

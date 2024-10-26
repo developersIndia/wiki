@@ -376,4 +376,14 @@ best people you can, the people you want to be like.
 
 ## Related Discussions from the community
 
+- [Senior devs, please drop your best piece of advice for the upcoming devs](https://www.reddit.com/r/developersIndia/comments/1dhqw2r/senior_devs_please_drop_your_best_piece_of_advice/).
 - [How to Software Engineer 101: comprehensive guide with templates!](https://www.reddit.com/r/developersIndia/comments/1eewofj/how_to_software_engineer_101_comprehensive_guide/).
+- [Senior developers of India, what's the single best piece of advice you would give to your younger self?](https://www.reddit.com/r/developersIndia/comments/188c2el/senior_developers_of_india_whats_the_single_best/).
+- [Career development advice for beginners from an experienced dev. Part 1- The Rise and Fall Waterfall](https://www.reddit.com/r/developersIndia/comments/xyjwqs/career_development_advice_for_beginners_from_an/).
+- [Career development advice Part Deux - Agile Sprint Extreme Quick Legspin edition with TLDR, Rants and Resources](https://www.reddit.com/r/developersIndia/comments/xys0us/career_development_advice_part_deux_agile_sprint/).
+- [what does experienced devs expect from a fresher dev?](https://www.reddit.com/r/developersIndia/comments/1c2c8so/what_does_experienced_devs_expect_from_a_fresher/).
+- [Experienced developers of India, How to be not incompetent at work?](https://www.reddit.com/r/developersIndia/comments/17n1gv5/experienced_developers_of_india_how_to_be_not/).
+- [Here are some tips to get onboarded in a role or start your first job of no prior experience](https://www.reddit.com/r/developersIndia/comments/vahab4/here_are_some_tips_to_get_onboarded_in_a_role_or/).
+- [What I wish I knew as a fresher](https://www.reddit.com/r/developersIndia/comments/rr0o8l/what_i_wish_i_knew_as_a_fresher/).
+- [Tips for young developers, who find programming overwhelming :)](https://www.reddit.com/r/developersIndia/comments/158codn/tips_for_young_developers_who_find_programming/).
+- [Some tips for fellow developers who are new to IT industry](https://www.reddit.com/r/developersIndia/comments/1bkge7h/some_tips_for_fellow_developers_who_are_new_to_it/).
