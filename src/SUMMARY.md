@@ -9,7 +9,6 @@
 - [Approaching a DSA problem](./faqs/approaching-a-DSA-problem.md)
 - [Advice for Freshers](./faqs/advice-for-freshers.md)
 - [Advice for Professionals](./faqs/advice-for-professionals.md)
-- [Preparing for tech interviews](./faqs/tech-interviews.md)
 - [Switching Jobs](./faqs/switching-jobs/README.md)
   - [Planning for Resignation](./faqs/switching-jobs/planning-for-resignation.md)
   - [Negotiating Notice Periods](./faqs/switching-jobs/negotiating-notice-periods.md)
@@ -23,6 +22,8 @@
   - [From QA/SDET to Developer](./faqs/career-transitions/qa-sdet-to-dev.md)
   - [From Dev to DevOps](./faqs/career-transitions/dev-to-devops.md)
   - [To Game Dev](./faqs/career-transitions/game-dev.md)
+- [Preparing for tech interviews](./faqs/tech-interviews.md)
+- [Effect of CGPA on getting a job](./faqs/effect-of-cgpa-getting-job.md)
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
 
