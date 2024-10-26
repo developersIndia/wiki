@@ -102,3 +102,4 @@ And, of course, learning new ways to convince people never goes out of fashion. 
 - [What is the "endgame" for people in IT?](https://www.reddit.com/r/developersIndia/comments/1ak1l1j/what_is_the_endgame_for_people_in_it/).
 - [How have you changed with years of experience? What are the things you did as a fresher that you no longer do?](https://www.reddit.com/r/developersIndia/comments/1bo7sre/how_have_you_changed_with_years_of_experience/).
 - [Let's talk performance reviews!](https://www.reddit.com/r/developersIndia/comments/siqswv/lets_talk_performance_reviews/).
+- [As a senior dev, how do you work (or mentor) junior folks around you, what have you learned from them?](https://www.reddit.com/r/developersIndia/comments/15jf4o8/as_a_senior_dev_how_do_you_work_or_mentor_junior/)

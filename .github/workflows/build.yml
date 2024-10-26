@@ -27,6 +27,9 @@ jobs:
       #   with:
       #     args: --write "README.md" "src/**/*.md" "!src/SUMMARY.md" --prose-wrap "always"
 
+      - name: Install static-sitemap-cli
+        run: npm install static-sitemap-cli
+
       - name: Setup mdBook
         uses: extractions/setup-crate@v1
         with:
@@ -35,6 +38,11 @@ jobs:
 
       - name: Generate the Wiki
         run: mdbook build
+
+      - name: Generate sitemap
+        run: |
+          cd book
+          npx sscli --no-clean --base https://wiki.developersindia.in
 
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
