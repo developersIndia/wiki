@@ -23,7 +23,11 @@
   - [From Dev to DevOps](./faqs/career-transitions/dev-to-devops.md)
   - [To Game Dev](./faqs/career-transitions/game-dev.md)
 - [Preparing for tech interviews](./faqs/tech-interviews.md)
-- [Effect of CGPA on getting a job](./faqs/effect-of-cgpa-getting-job.md)
+- [Campus Placements](./faqs/campus-placements/README.md)
+  - [Effect of CGPA on getting a job](./faqs/campus-placements/effect-of-cgpa-getting-job.md)
+  - [Does college tier matter?](./faqs/campus-placements/does-college-tier-matter.md)
+  - [Effect of High School Grades on Campus Placements]()
+  - [Does college backlog matter?]()
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
 
