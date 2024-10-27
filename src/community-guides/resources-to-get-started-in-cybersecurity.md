@@ -74,11 +74,12 @@ You can use these platforms to hunt on various programs, or you can search for i
 
 ## Perspective & advice from the community
 
-- [Career path for cybersecurity in India?](https://www.reddit.com/r/developersIndia/comments/ydxj5j/career_path_for_cybersecurity_in_india/)
+- [Career path for cybersecurity in India?](https://www.reddit.com/r/developersIndia/comments/ydxj5j/career_path_for_cybersecurity_in_india/).
 - [Cybersecurity vs Developer salary and career growth.](https://www.reddit.com/r/developersIndia/comments/12w45c1/cybersecurity_vs_developer_salary_and_career/).
-- [Is cyber security worth it?](https://www.reddit.com/r/developersIndia/comments/1930411/is_cyber_security_worth_it/)
-- [How is the CyberSecurity job market for freshers in India?](https://www.reddit.com/r/developersIndia/comments/1dsmrwo/how_is_the_cybersecurity_job_market_for_freshers/)
-- [**I’m Subho Halder, Co-founder & CEO of Appknox — AMA**](https://www.reddit.com/r/developersIndia/comments/1g75a7o/im_subho_halder_cofounder_ceo_of_appknox_ama/)
+- [Is cyber security worth it?](https://www.reddit.com/r/developersIndia/comments/1930411/is_cyber_security_worth_it/).
+- [How is the CyberSecurity job market for freshers in India?](https://www.reddit.com/r/developersIndia/comments/1dsmrwo/how_is_the_cybersecurity_job_market_for_freshers/).
+- [How do i get into Cyber Security / A Cyber Security Job?](https://www.reddit.com/r/developersIndia/comments/ynmf8h/how_do_i_get_into_cyber_security_a_cyber_security/).
+- [**I’m Subho Halder, Co-founder & CEO of Appknox — AMA**](https://www.reddit.com/r/developersIndia/comments/1g75a7o/im_subho_halder_cofounder_ceo_of_appknox_ama/).
 
 <!-- omit from toc -->
 ## Acknowledgements

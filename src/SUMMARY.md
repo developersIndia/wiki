@@ -26,7 +26,7 @@
 - [Campus Placements](./faqs/campus-placements/README.md)
   - [Effect of CGPA on getting a job](./faqs/campus-placements/effect-of-cgpa-getting-job.md)
   - [Does college tier matter?](./faqs/campus-placements/does-college-tier-matter.md)
-  - [Effect of High School Grades on Campus Placements]()
+  - [Effect of High School Grades on Campus Placements](./faqs/campus-placements/effect-of-high-school-grades.md)
   - [Does college backlog matter?]()
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
