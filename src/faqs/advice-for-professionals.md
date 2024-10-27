@@ -1,10 +1,8 @@
 <!-- omit from toc -->
-
 # Advice for Professionals
 
-- [Advice for Professionals](#advice-for-professionals)
-  - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
-  - [Related Discussions from the community](#related-discussions-from-the-community)
+- [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
+- [Related Discussions from the community](#related-discussions-from-the-community)
 
 ## Perspectives & advice from the community
 

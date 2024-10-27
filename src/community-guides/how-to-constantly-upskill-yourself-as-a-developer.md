@@ -1,4 +1,13 @@
-# How to Constantly Upskill Yourself
+<!-- omit from toc -->
+# How to constantly upskill yourself as a developer
+
+- [Hangout in Forums \& Communities](#hangout-in-forums--communities)
+- [Write Code \& Create Software Projects](#write-code--create-software-projects)
+- [Write about what you learn](#write-about-what-you-learn)
+- [Where to find interesting stuff?](#where-to-find-interesting-stuff)
+  - [Read Newsletters](#read-newsletters)
+  - [Listen to Podcasts](#listen-to-podcasts)
+  - [Attend/Watch Conferences](#attendwatch-conferences)
 
 ## Hangout in Forums & Communities
 

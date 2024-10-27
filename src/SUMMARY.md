@@ -5,8 +5,8 @@
 # Frequently Asked Questions (FAQs)
 
 - [How to Start DSA](faqs/how-to-start-dsa.md)
+- [Approaching a DSA problem](./faqs/approaching-a-dsa-problem.md)
 - [Discovering Small GitHub Projects for Contributing to FOSS](faqs/finding-small-foss-projects-on-github.md)
-- [Approaching a DSA problem](./faqs/approaching-a-DSA-problem.md)
 - [Advice for Freshers](./faqs/advice-for-freshers.md)
 - [Advice for Professionals](./faqs/advice-for-professionals.md)
 - [Switching Jobs](./faqs/switching-jobs/README.md)
@@ -25,15 +25,17 @@
 - [Preparing for tech interviews](./faqs/tech-interviews.md)
 - [Campus Placements](./faqs/campus-placements/README.md)
   - [Effect of CGPA on getting a job](./faqs/campus-placements/effect-of-cgpa-getting-job.md)
-  - [Does college tier matter?](./faqs/campus-placements/does-college-tier-matter.md)
-  - [Effect of High School Grades on Campus Placements](./faqs/campus-placements/effect-of-high-school-grades.md)
-  - [Does college backlog matter?]()
+  - [Effect of college tier on getting a job](./faqs/campus-placements/effect-college-tier.md)
+  - [Effect of High School grades on getting a job](./faqs/campus-placements/effect-of-high-school-grades.md)
+  - [Effect of backlogs on getting a job]()
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
 
 # Community Guides
 
-- [How to Constantly Upskill Yourself as a Developer](community-guides/how-to-constantly-upskill-yourself-as-a-developer.md)
+blah blah
+
+- [How to constantly upskill yourself as a developer](community-guides/how-to-constantly-upskill-yourself-as-a-developer.md)
 - [How to Create an Ideal Software Engineering Resume](./community-guides/how-to-create-an-ideal-software-engineering-resume.md)
 - [Where to Find Tech Jobs](./community-guides/where-to-find-tech-jobs.md)
 - [Understanding Software Licenses](./community-guides/understanding-software-licenses.md)

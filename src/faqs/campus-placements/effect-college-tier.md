@@ -1,4 +1,4 @@
-# Does college tier matter?
+# Effect of college tier on getting a job
 
 ## Related Discussions from the community
 

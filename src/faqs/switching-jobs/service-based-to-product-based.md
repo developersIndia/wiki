@@ -1,6 +1,5 @@
 <!-- omit from toc -->
-
-# Service based to product based organizations
+# Switch from Service based to product based organizations
 
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
 - [Stories from the community](#stories-from-the-community)

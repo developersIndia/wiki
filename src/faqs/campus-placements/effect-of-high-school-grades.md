@@ -1,4 +1,4 @@
-# Effect of High School Grades on Campus Placements
+# Effect of High School grades on getting a job
 
 ## Related Discussions from the community
 

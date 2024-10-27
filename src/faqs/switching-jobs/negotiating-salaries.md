@@ -1,5 +1,4 @@
 <!-- omit from toc -->
-
 # Negotiating Salaries
 
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)

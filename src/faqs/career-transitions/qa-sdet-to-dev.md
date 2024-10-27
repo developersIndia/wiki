@@ -1,5 +1,4 @@
 <!-- omit from toc -->
-
 # QA/SDET to Developer
 
 - [Stories from the community](#stories-from-the-community)
