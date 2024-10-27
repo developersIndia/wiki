@@ -10,7 +10,7 @@ below guidelines before contributing.
 You need to have the follow tools installed:
 
 - [`mdbook`](https://github.com/rust-lang/mdBook/releases)
-- [`vale`](https://vale.sh/docs/vale-cli/installation/)
+<!-- - [`vale`](https://vale.sh/docs/vale-cli/installation/) -->
 <!-- - [`pre-commit`][18] -->
 
 Once installed you can verify if the software are working properly or not by
@@ -20,10 +20,6 @@ invoking the following commands;
 # Verify the mdbook CLI tool is installed on your system
 mdbook --version
 # Example output: mdbook v0.4.21
-
-# Verify vale exists & is ready to lint your wiki entry
-vale --version
-# Example output: vale version v2.20.21
 ```
 
 ### Getting Started
@@ -38,12 +34,6 @@ vale --version
 
    ```shell
    mdbook serve
-   ```
-
-3. To lint the markdown files, run the following command:
-
-   ```shell
-   vale .
    ```
 
 <!-- **1. Pre-Commit Hooks**:

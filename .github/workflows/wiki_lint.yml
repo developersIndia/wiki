@@ -1,7 +1,6 @@
 name: Wiki Style Guide Lint
 on:
   workflow_dispatch:
-  pull_request:
 
 jobs:
   vale:

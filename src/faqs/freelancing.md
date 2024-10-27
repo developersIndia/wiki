@@ -16,7 +16,7 @@ I've come across a lot of people lately asking questions about freelancing. Amon
 But before that, a couple of gotchas & business 101:
 
 - It's cheaper & less time consuming to keep working with an older client than look for a new client.
-- Second, client interactions are pretty much like dating. Just as how you wouldn't date based on the other person's bank balance or :spicy:  you shouldn't do business based on the clients's budget either. Strive to deliver the best quality of service & products, the $$$ will flow in eventually.
+- Second, client interactions are pretty much like dating. Just as how you wouldn't date based on the other person's bank balance or ...  you shouldn't do business based on the clients's budget either. Strive to deliver the best quality of service & products, the _$$$_ will flow in eventually.
 - And finally identify what kind of clients you would like to work with based on how you want to freelance.
 
 With that said, let's try to identify who an ideal client is:
@@ -50,7 +50,7 @@ Remember;
 
 That said here's how I calculated my fees when I started some 6 years ago in college. I created an UpWork profile & started bidding only to realise I was getting ghosted. And if you feel the same don't be surprised. Marketplaces are a battle-royale to the bottom of the barrel. So, if you charge the lowest & you also get have good rating you can make a living off of marketplaces. Suffice to say, I didn't survive there & don't recommend to start out there either.
 
-I went full-time on 2019 after quitting my job & was fortunate enough to land a client soon after who I was working with earlier. And as such this is how calculated my hourly rate: Expected Annual Income divided by # of Working hours in a year. 
+I went full-time on 2019 after quitting my job & was fortunate enough to land a client soon after who I was working with earlier. And as such this is how calculated my hourly rate: Expected Annual Income divided by # of Working hours in a year.
 
 With that in mind, assume you want to earn ₹600,000/yr & work ~1920hrs/yr (8hrs for 5-working days a week). So, that would mean your hourly rate should be ~₹300/hr. Now obviously this is a rough estimation but remember my intention was to get your started somehow. And as you keep perfecting your craft you'll eventually learn the other nitty-gritty details as well.
 

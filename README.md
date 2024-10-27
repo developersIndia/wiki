@@ -43,8 +43,6 @@ it, please keep the following points in mind to create a wiki entry:
    for one of the moderators to review it. Expect the review process to take a
    while before it can be merged.
 
-For a more detailed guide on contributing or creating a wiki, refer to the
-[contributing guidelines][10] document of the project.
 
 ## License & Usage Terms & Conditions
 
@@ -59,11 +57,10 @@ take a look at the [LICENSE][9] document.
 [3]: https://rust-lang.github.io/mdBook
 [4]: https://github.github.com/gfm
 [5]: https://www.markdownguide.org
-[6]: https://github.com/developersIndia/.github/blob/main/CONTRIBUTING.md
+[6]: https://github.com/developersIndia/wiki/blob/main/CONTRIBUTING.md
 [7]: https://github.com/developersIndia/wiki/issues/new/choose
 [8]: https://github.com/developersIndia/wiki/compare
 [9]: https://github.com/developersIndia/wiki/blob/main/LICENSE
-[10]: https://github.com/developersIndia/wiki/blob/main/CONTRIBUTING.md
 
 ## Contributors ✨
 
