@@ -6,19 +6,23 @@
 
 Welcome to the developersIndia Community Wiki! This repository is home to our
 face-lifted community wiki which you'll find across all the platforms our
-community is active on. So, feel free to read through our wiki or perhaps if
-you're interested in contributing to the project, this README willcome in handy
-for you.
+community is active on.
 
-## What wiki(s) to contribute?
+## How to use (read) the wiki?
+
+1. Use the search function to find the topic you're looking for.
+2. It's possible that a query you are looking for is not yet covered in the
+   wiki. In that case, add the keyword `YOUR QUERY site:reddit.com/r/developersindia` to your search query on google.
+3. Some of the topics may be grayed out. This means that the topic is still under construction and will be available soon. We encourage you to contribute in that case or [open a discussion on the same topic](https://github.com/developersIndia/wiki/discussions).
+4. If a wiki is not helpful, consider contributing to it.
+
+## How to contribute?
 
 The first and foremost goal of a wiki is that it helps the community, and
 becomes an official standing on the topic. We have a
 [bunch of topics](https://github.com/developersIndia/wiki/discussions/21) being
 requested over time. We request any author to have a look over them before
 creating a new proposal.
-
-## Contributing to the Wiki
 
 We welcome community contributions! If you would like to share a word or two
 that you believe will help the community achieve something good, please read

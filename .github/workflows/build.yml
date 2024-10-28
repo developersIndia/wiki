@@ -6,10 +6,6 @@ on:
       - 'main'
   workflow_dispatch:
 
-# permissions:
-#   id-token: write
-#   contents: read
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -20,12 +16,6 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: 'actions/checkout@v4'
-
-      # FIXME: Causes issue with the generated static site.
-      # - name: Format the Markdown Files With Prettier
-      #   uses: 'actionsx/prettier@v2'
-      #   with:
-      #     args: --write "README.md" "src/**/*.md" "!src/SUMMARY.md" --prose-wrap "always"
 
       - name: Install static-sitemap-cli
         run: npm install static-sitemap-cli
