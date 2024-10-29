@@ -387,3 +387,4 @@ best people you can, the people you want to be like.
 - [What I wish I knew as a fresher](https://www.reddit.com/r/developersIndia/comments/rr0o8l/what_i_wish_i_knew_as_a_fresher/).
 - [Tips for young developers, who find programming overwhelming :)](https://www.reddit.com/r/developersIndia/comments/158codn/tips_for_young_developers_who_find_programming/).
 - [Some tips for fellow developers who are new to IT industry](https://www.reddit.com/r/developersIndia/comments/1bkge7h/some_tips_for_fellow_developers_who_are_new_to_it/).
+- [Rant + Tips for freshers](https://www.reddit.com/r/developersIndia/comments/16ylvcz/rant_tips_for_freshers/).
