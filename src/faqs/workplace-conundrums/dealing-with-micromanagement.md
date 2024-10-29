@@ -57,6 +57,29 @@ Be confident - not doubtful. Your manager needs to believe you when you say you 
 
 </blockquote>
 
+`u/FactorResponsible609` shared the following advice on a post titled, [It made me tears. I was bullied by a client at higher management](https://www.reddit.com/r/developersIndia/comments/1bksuhc/it_made_me_tears_i_was_bullied_by_a_client_at/).
+
+<blockquote>
+
+Follow up on this with your immediate manager, and ask him for advice on how he will approach this situation. Don't let this go under the carpet. Two things will happen from here:
+
+1. You stay quiet, you will continue to remember this forever and you'll soon become a punching bag for not only external clients but colleagues too. Humans tend to exploit soft punching bags. Nobody bothers a vocal person. The worst will be the abuse will be transformed into feedback and slide in your performance review. I have seen how people build bad narratives.
+
+    (a). You'll talk it out to the manager, probably they'll get you a diplomatic apology, next time these people will be sensitive to you & you'll be happy that you did at least something. Good people don't mind apologising if they made mistake.
+
+    (b). Your manager isn't bothered about it, in that case, it's a lesson well learnt to spot good vs bad managers, but hey you at least tried on your end.
+
+A good manager will immediately follow up on such rude, personal remarks & get it resolved, he/she won't let sleep under the carpet for the next 1:1, feedback not.
+
+Last but not least, don't stress over it. See if there is anything you can help to de-escalate, if it was not about following a process, may be you can document the process, may be make it more visible for others.
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1bksuhc/comment/kw0g1ke/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+</blockquote>
+
+
 ## Related Discussions from the community
 
 - [What are the traits of a toxic manager? I will go first](https://www.reddit.com/r/developersIndia/comments/1ci64dp/what_are_the_traits_of_a_toxic_manager_i_will_go/).

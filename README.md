@@ -14,7 +14,8 @@ community is active on.
 2. It's possible that a query you are looking for is not yet covered in the
    wiki. In that case, add the keyword `YOUR QUERY site:reddit.com/r/developersindia` to your search query on google.
 3. Some of the topics may be grayed out. This means that the topic is still under construction and will be available soon. We encourage you to contribute in that case or [open a discussion on the same topic](https://github.com/developersIndia/wiki/discussions).
-4. If a wiki is not helpful, consider contributing to it.
+4. If a wiki is not helpful, **consider contributing to it**.
+5. Each perspective/advice has a dedicated `Source` attached to it which is a comment on the forum. Consider visiting the source for more contextual information.
 
 ## How to contribute?
 
