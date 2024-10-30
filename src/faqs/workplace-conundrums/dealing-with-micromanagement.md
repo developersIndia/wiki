@@ -79,7 +79,6 @@ Last but not least, don't stress over it. See if there is anything you can help 
 
 </blockquote>
 
-
 ## Related Discussions from the community
 
 - [What are the traits of a toxic manager? I will go first](https://www.reddit.com/r/developersIndia/comments/1ci64dp/what_are_the_traits_of_a_toxic_manager_i_will_go/).

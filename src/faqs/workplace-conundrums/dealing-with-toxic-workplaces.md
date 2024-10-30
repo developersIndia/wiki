@@ -1,4 +1,8 @@
+<!-- omit from toc -->
 # Dealing with toxic workplaces
+
+- [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
+- [Related Discussions from the community](#related-discussions-from-the-community)
 
 ## Perspectives & advice from the community
 
@@ -47,3 +51,26 @@ Hope these suggestions help! Good luck
 [`Source`](https://www.reddit.com/r/developersIndia/comments/14wyqa2/comment/jrkkv8u/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 </blockquote>
+
+`u/headshot_to_liver` shared the following advice on a post titled, [How to become resilient to toxic work culture?](https://www.reddit.com/r/developersIndia/comments/1altowr/how_to_become_resilient_to_toxic_work_culture/).
+
+<blockquote>
+
+Not a veteran but have considerable experience so here are my 2 cents
+
+1. Lay low, don't get into useless fights with seniors. Last thing you want is a reason to get fired.
+2. Keep an eye out for any openings and networking is your best friend here. Just realise that people like you
+3. Can't stress is enough, keep upskilling. Gramophone repairmen are not in demand today.
+4. Don't go overboard with anything, be it work or delivery. Do what you're asked and that's it.
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1altowr/comment/kph8ifn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+</blockquote>
+
+## Related Discussions from the community
+
+- [People who got laid off Or left a job because of toxicity or bad culture how does it turned out for you? How much time did it took you to get a new job?](https://www.reddit.com/r/developersIndia/comments/1ela649/people_who_got_laid_off_or_left_a_job_because_of/).
+- [Why do none of the companies show no regard for Indian employees?](https://www.reddit.com/r/developersIndia/comments/1cm2u4a/why_do_none_of_the_companies_show_no_regard_for/).
+- [What are the traits of a toxic manager? I will go first](https://www.reddit.com/r/developersIndia/comments/1ci64dp/what_are_the_traits_of_a_toxic_manager_i_will_go/).

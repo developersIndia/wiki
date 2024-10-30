@@ -28,9 +28,9 @@
   - [Effect of college tier on getting a job](./faqs/campus-placements/effect-college-tier.md)
   - [Effect of High School grades on getting a job](./faqs/campus-placements/effect-of-high-school-grades.md)
   - [Effect of backlogs on getting a job]()
-- [Workplace Conundrums]()
+- [Workplace Conundrums](./faqs/workplace-conundrums/README.md)
   - [Dealing with micro management](./faqs/workplace-conundrums/dealing-with-micromanagement.md)
-  - [Dealing with toxic workplaces]()
+  - [Dealing with toxic workplaces](./faqs/workplace-conundrums/dealing-with-toxic-workplaces.md)
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
 
