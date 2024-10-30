@@ -1,9 +1,9 @@
 name: Netlify Deploy
 
 on:
-  push:
-    branches:
-      - 'main'
+  # push:
+  #   branches:
+  #     - 'main'
   workflow_dispatch:
 
 jobs:
@@ -29,6 +29,7 @@ jobs:
       - name: Generate the Wiki
         run: mdbook build
 
+      # TODOL fix the issue when the sitemap doesn't get generated when a commit is directly pushed to the main branch
       - name: Generate sitemap
         run: |
           cd book
