@@ -71,6 +71,7 @@ Not a veteran but have considerable experience so here are my 2 cents
 
 ## Related Discussions from the community
 
+- [What are some of the red flags of a toxic manager?](https://www.reddit.com/r/developersIndia/comments/17saqxz/what_are_some_of_the_red_flags_of_a_toxic_manager/).
 - [People who got laid off Or left a job because of toxicity or bad culture how does it turned out for you? How much time did it took you to get a new job?](https://www.reddit.com/r/developersIndia/comments/1ela649/people_who_got_laid_off_or_left_a_job_because_of/).
 - [Why do none of the companies show no regard for Indian employees?](https://www.reddit.com/r/developersIndia/comments/1cm2u4a/why_do_none_of_the_companies_show_no_regard_for/).
 - [What are the traits of a toxic manager? I will go first](https://www.reddit.com/r/developersIndia/comments/1ci64dp/what_are_the_traits_of_a_toxic_manager_i_will_go/).
