@@ -30,12 +30,11 @@
   - [Effect of backlogs on getting a job]()
 - [Workplace Conundrums]()
   - [Dealing with micro management](./faqs/workplace-conundrums/dealing-with-micromanagement.md)
+  - [Dealing with toxic workplaces]()
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
 
 # Community Guides
-
-blah blah
 
 - [How to constantly upskill yourself as a developer](community-guides/how-to-constantly-upskill-yourself-as-a-developer.md)
 - [How to Create an Ideal Software Engineering Resume](./community-guides/how-to-create-an-ideal-software-engineering-resume.md)

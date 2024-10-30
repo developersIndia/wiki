@@ -376,6 +376,7 @@ best people you can, the people you want to be like.
 
 ## Related Discussions from the community
 
+- [Developers of India, what advice would you give to someone who is just starting out?](https://www.reddit.com/r/developersIndia/comments/1gfkce3/developers_of_india_what_advice_would_you_give_to/).
 - [Senior devs, please drop your best piece of advice for the upcoming devs](https://www.reddit.com/r/developersIndia/comments/1dhqw2r/senior_devs_please_drop_your_best_piece_of_advice/).
 - [How to Software Engineer 101: comprehensive guide with templates!](https://www.reddit.com/r/developersIndia/comments/1eewofj/how_to_software_engineer_101_comprehensive_guide/).
 - [Senior developers of India, what's the single best piece of advice you would give to your younger self?](https://www.reddit.com/r/developersIndia/comments/188c2el/senior_developers_of_india_whats_the_single_best/).
