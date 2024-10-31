@@ -2,7 +2,7 @@
 # Negotiating Salaries
 
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Related Discussions](#related-discussions)
 
 ## Perspectives & advice from the community
 
@@ -54,6 +54,6 @@ I'll summarize for the people who don't want to go through 6k-7k words:
 
 </blockquote>
 
-## Related Discussions from the community
+## Related Discussions
 
 - [What Negotiation tactics you use for salary discussion with HR](https://www.reddit.com/r/developersIndia/comments/1f716gq/what_negotiation_tactics_you_use_for_salary/)

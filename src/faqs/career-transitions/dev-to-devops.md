@@ -3,7 +3,7 @@
 
 - [Perspectives \& advice from the Community](#perspectives--advice-from-the-community)
 - [Stories from the community](#stories-from-the-community)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Related Discussions](#related-discussions-from-the-community)
 
 ## Perspectives & advice from the Community
 
@@ -252,6 +252,6 @@ Most of the devops positions are 5+ years experience required.
 
 </blockquote>
 
-## Related Discussions from the community
+## Related Discussions
 
 - [What to do before DevOps Engineer Interviews? Don't freak out.](https://www.reddit.com/r/developersIndia/comments/1bpexwe/what_to_do_before_devops_engineer_interviews_dont/).

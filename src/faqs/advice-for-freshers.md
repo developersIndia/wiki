@@ -5,7 +5,7 @@
   - [General Advice](#general-advice)
   - [Soft Skills](#soft-skills)
   - [Social Skills](#social-skills)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Related Discussions](#related-discussions)
 
 ## Perspectives & advice from the community
 
@@ -374,7 +374,7 @@ best people you can, the people you want to be like.
 
 </blockquote>
 
-## Related Discussions from the community
+## Related Discussions
 
 - [Developers of India, what advice would you give to someone who is just starting out?](https://www.reddit.com/r/developersIndia/comments/1gfkce3/developers_of_india_what_advice_would_you_give_to/).
 - [Senior devs, please drop your best piece of advice for the upcoming devs](https://www.reddit.com/r/developersIndia/comments/1dhqw2r/senior_devs_please_drop_your_best_piece_of_advice/).

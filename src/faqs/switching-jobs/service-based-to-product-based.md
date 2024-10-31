@@ -3,7 +3,7 @@
 
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
 - [Stories from the community](#stories-from-the-community)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Related Discussions](#related-discussions)
 
 ## Perspectives & advice from the community
 
@@ -60,7 +60,7 @@ the interviewer.
 - [Any of you who switched from service companies to product companies?](https://www.reddit.com/r/developersIndia/comments/106fctt/any_of_you_who_switched_from_service_companies_to/).
 - [WITCH to the product company with 1 year of exp.](https://www.reddit.com/r/developersIndia/comments/tugy3k/witch_to_the_product_company_with_1_year_of_exp/).
 
-## Related Discussions from the community
+## Related Discussions
 
 - [Service-Based Companies Can Be Career Killers—Here’s My Experience](https://www.reddit.com/r/developersIndia/comments/1f1ukb2/servicebased_companies_can_be_career_killersheres/).
 - [Are Service Based Companies Really that Bad?](https://www.reddit.com/r/developersIndia/comments/srj01q/are_service_based_companies_really_that_bad/).

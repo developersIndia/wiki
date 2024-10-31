@@ -1,6 +1,6 @@
 # Effect of CGPA on getting a job
 
-## Related Discussions from the community
+## Related Discussions
 
 - [My low CGPA constantly keeping me depressed and demotivated. Can I even get placed?](https://www.reddit.com/r/developersIndia/comments/1abdso5/my_low_cgpa_constantly_keeping_me_depressed_and/).
 - [Are there people who succeeded in getting good jobs with low cgpa and tier 3 college?](https://www.reddit.com/r/developersIndia/comments/1c3uwn5/are_there_people_who_succeeded_in_getting_good/).

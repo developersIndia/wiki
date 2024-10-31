@@ -1,5 +1,7 @@
 # Negotiating notice periods
 
+## Perspectives & advice from the community
+
 `u/dedxtreme` on a post titled
 [Lied about my Notice period before interview now f\*\*ked](https://www.reddit.com/r/developersIndia/comments/1b875sd/lied_about_my_notice_period_before_interview_now/)
 shared the following advice:

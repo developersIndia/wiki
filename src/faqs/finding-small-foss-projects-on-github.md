@@ -1,4 +1,28 @@
-# Discovering Small GitHub Projects for Contributing to FOSS
+<!-- omit from toc -->
+# Discovering small FOSS projects for contributing on github
+
+- [What this guide covers?](#what-this-guide-covers)
+- [What it doesn't cover?](#what-it-doesnt-cover)
+- [Why contribute to small projects?](#why-contribute-to-small-projects)
+  - [You can make a significant impact](#you-can-make-a-significant-impact)
+  - [This is the "Real" FOSS that needs your help](#this-is-the-real-foss-that-needs-your-help)
+  - [Smaller `Fuck Around & Find Out` domain](#smaller-fuck-around--find-out-domain)
+  - [You chance for being an early adopter](#you-chance-for-being-an-early-adopter)
+- [How to find small projects on **`GitHub`**?](#how-to-find-small-projects-on-github)
+  - [Base Search Criteria](#base-search-criteria)
+  - [Judging the criteria to filter small projects](#judging-the-criteria-to-filter-small-projects)
+  - [How to apply and use the filter query?](#how-to-apply-and-use-the-filter-query)
+    - [Step 1: Search for the filter query](#step-1-search-for-the-filter-query)
+    - [Step 2: Save the search](#step-2-save-the-search)
+    - [Step 3: Use the saved search](#step-3-use-the-saved-search)
+    - [Step 4: Customize \& Combine the search](#step-4-customize--combine-the-search)
+    - [Step 5: Sort by recently updated](#step-5-sort-by-recently-updated)
+  - [What's missing?](#whats-missing)
+  - [FAQs](#faqs)
+    - [What if I don't trust the projects I find?](#what-if-i-dont-trust-the-projects-i-find)
+    - [What if my PRs are not getting merged?](#what-if-my-prs-are-not-getting-merged)
+    - [What if there are no open issues on these small projects?](#what-if-there-are-no-open-issues-on-these-small-projects)
+- [Recommended Reading](#recommended-reading)
 
 Did you know there are more than [**60k small FOSS projects**](https://github.com/search?q=saved%3Asmall-foss+&type=repositories&saved_searches=%5B%7B%22name%22%3A%22small-foss%22%2C%22query%22%3A%22template%3Afalse+archived%3Afalse+fork%3Afalse+stars%3A100..500+forks%3A%3E%3D3+is%3Apublic+topics%3A%3E%3D3+license%3A0bsd+license%3Amit+license%3Aapache-2.0+license%3Agpl+license%3AMPL-2.0+license%3AUnlicense%22%7D%5D&expanded_query=template%3Afalse+archived%3Afalse+fork%3Afalse+stars%3A100..500+forks%3A%3E%3D3+is%3Apublic+topics%3A%3E%3D3+license%3A0bsd+license%3Amit+license%3Aapache-2.0+license%3Agpl+license%3AMPL-2.0+license%3AUnlicense+) on GitHub most likely open to contributions? Have you ever thought about contributing to them? If not, then you should. This guide is about helping the reader identify these projects on GitHub. The guide is meant to encourage both new and experienced contributors to find software that have a small impact and contribute to them in any way.
 

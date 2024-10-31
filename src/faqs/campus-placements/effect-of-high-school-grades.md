@@ -1,6 +1,6 @@
 # Effect of High School grades on getting a job
 
-## Related Discussions from the community
+## Related Discussions
 
 - [56 percent in class 12th will I never get a job ?](https://www.reddit.com/r/developersIndia/comments/1dtpxis/56_percent_in_class_12th_will_i_never_get_a_job/).
 - [I got 65.83% in 12th Boards. I'm in 2nd Year. Should I be worried?](https://www.reddit.com/r/developersIndia/comments/1e773h3/i_got_6583_in_12th_boards_im_in_2nd_year_should_i/).

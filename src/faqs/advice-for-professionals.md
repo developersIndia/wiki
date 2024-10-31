@@ -2,7 +2,7 @@
 # Advice for Professionals
 
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Related Discussions](#related-discussions)
 
 ## Perspectives & advice from the community
 
@@ -94,7 +94,7 @@ And, of course, learning new ways to convince people never goes out of fashion. 
 
 </blockquote>
 
-## Related Discussions from the community
+## Related Discussions
 
 - [Your career span in IT sector would be more like 20 years rather than 40 years, so plan accordingly](https://www.reddit.com/r/developersIndia/comments/1bx1yx4/your_career_span_in_it_sector_would_be_more_like/).
 - [What is the "endgame" for people in IT?](https://www.reddit.com/r/developersIndia/comments/1ak1l1j/what_is_the_endgame_for_people_in_it/).

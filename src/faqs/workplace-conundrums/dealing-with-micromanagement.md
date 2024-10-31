@@ -2,7 +2,7 @@
 # Dealing with micro-management
 
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Related Discussions](#related-discussions)
 
 ## Perspectives & advice from the community
 
@@ -79,7 +79,7 @@ Last but not least, don't stress over it. See if there is anything you can help 
 
 </blockquote>
 
-## Related Discussions from the community
+## Related Discussions
 
 - [What are the traits of a toxic manager? I will go first](https://www.reddit.com/r/developersIndia/comments/1ci64dp/what_are_the_traits_of_a_toxic_manager_i_will_go/).
 - [What are some of the red flags of a toxic manager?](https://www.reddit.com/r/developersIndia/comments/17saqxz/what_are_some_of_the_red_flags_of_a_toxic_manager/).

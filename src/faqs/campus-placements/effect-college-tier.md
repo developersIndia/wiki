@@ -1,6 +1,6 @@
 # Effect of college tier on getting a job
 
-## Related Discussions from the community
+## Related Discussions
 
 - [DOES COLLEGE REALLY MATTER](https://www.reddit.com/r/developersIndia/comments/1al5c4x/does_college_really_matter/).
 - [Does a college's tier really matter in the end?](https://www.reddit.com/r/developersIndia/comments/19949l9/does_a_colleges_tier_really_matter_in_the_end/).

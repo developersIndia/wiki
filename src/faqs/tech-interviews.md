@@ -2,7 +2,7 @@
 # Preparing for tech interviews
 
 - [Prespectives \& advice from the community](#prespectives--advice-from-the-community)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Related Discussions](#related-discussions)
 
 ## Prespectives & advice from the community
 
@@ -67,7 +67,7 @@ All of this is "experience" that makes my life easy as a senior/lead developer. 
 
 </blockquote>
 
-## Related Discussions from the community
+## Related Discussions
 
 - [My tips for interview in product companies in current environment.](https://www.reddit.com/r/developersIndia/comments/1ao43zj/my_tips_for_interview_in_product_companies_in/).
 - [Questions to ask in an interview as an interviewee](https://www.reddit.com/r/developersIndia/comments/v97dbf/questions_to_ask_in_an_interview_as_an_interviewee/).

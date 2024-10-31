@@ -2,7 +2,7 @@
 # Dealing with toxic workplaces
 
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
-- [Related Discussions from the community](#related-discussions-from-the-community)
+- [Related Discussions](#related-discussions)
 
 ## Perspectives & advice from the community
 
@@ -69,7 +69,7 @@ Not a veteran but have considerable experience so here are my 2 cents
 
 </blockquote>
 
-## Related Discussions from the community
+## Related Discussions
 
 - [What are some of the red flags of a toxic manager?](https://www.reddit.com/r/developersIndia/comments/17saqxz/what_are_some_of_the_red_flags_of_a_toxic_manager/).
 - [People who got laid off Or left a job because of toxicity or bad culture how does it turned out for you? How much time did it took you to get a new job?](https://www.reddit.com/r/developersIndia/comments/1ela649/people_who_got_laid_off_or_left_a_job_because_of/).
