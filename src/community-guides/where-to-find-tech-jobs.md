@@ -1,6 +1,17 @@
-# Where to Find Jobs?
+<!-- omit from toc -->
+# Where to find tech jobs?
 
-> Checkout r/developerIndia's official [Job Board](https://developersindia.in/job-board/) for job listings.
+<center>
+
+> **Checkout r/developerIndia's official [Job Board](https://developersindia.in/job-board/) for job listings**.
+
+</center>
+
+- [Traditional Mediums](#traditional-mediums)
+- [Remote job boards](#remote-job-boards)
+- [Job Boards for jobs on Hackernews](#job-boards-for-jobs-on-hackernews)
+- [Newsletter based job Boards](#newsletter-based-job-boards)
+- [Miscellaneous job boards](#miscellaneous-job-boards)
 
 ## Traditional Mediums
 
@@ -12,24 +23,28 @@
 
 Not to mention job portals like Shine and Indeed.
 
-## Remote Job Boards
+## Remote job boards
 
 1. [We Work Remotely](https://weworkremotely.com/)
 2. [Entry Level Remote Job](https://entrylevelremotejob.com/)
-3. [NoCommute - Remote jobs delivered to your inbox](https://nocommute.substack.com/)
-4. [Remote OK](https://remoteok.com/)
-5. [Remotive.io](https://remotive.io/)
-6. [Remote Leaf](https://remoteleaf.com/)
-7. [Remotists](https://remotists.com/)
-8. [JustRemote](https://justremote.co/) (`Doesn't have jobs in India`)
-9. [remote-developer-jobs.com](https://www.remote-developer-jobs.com/)
-10. [Findwork.dev](https://findwork.dev)
-11. [EchoJobs](https://echojobs.io/search?q=&locations=Remote%2BIndia&page=1)
+3. [Remote OK](https://remoteok.com/)
+4. [Remotive.io](https://remotive.io/)
+5. [Remotists](https://remotists.com/)
+6. [remote-developer-jobs.com](https://www.remote-developer-jobs.com/)
+7. [Findwork.dev](https://findwork.dev)
+8. [EchoJobs](https://echojobs.io/search?q=&locations=Remote%2BIndia&page=1)
 
-## Job Boards for HackerNews Jobs
+## Job Boards for jobs on Hackernews
 
 1. [kennytilton.github.io](https://kennytilton.github.io/whoishiring/)
 2. [hnjobs.emilburzo.com](https://hnjobs.emilburzo.com)
 
-## Must check out
+## Newsletter based job Boards
+
+- [NoCommute - Remote jobs delivered to your inbox](https://nocommute.substack.com/).
+- [Remote Leaf](https://remoteleaf.com/)
+
+## Miscellaneous job boards
+
 - [No CS Degree - Job Board for Self-taught Developers](https://www.nocsdegree.com/jobs/)
+- [Hasgeek Job Board](https://hasjob.co/?c=programming).

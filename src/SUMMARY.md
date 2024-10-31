@@ -38,7 +38,7 @@
 
 - [How to constantly upskill yourself as a developer](community-guides/how-to-constantly-upskill-yourself-as-a-developer.md)
 - [How to Create an Ideal Software Engineering Resume](./community-guides/how-to-create-an-ideal-software-engineering-resume.md)
-- [Where to Find Tech Jobs](./community-guides/where-to-find-tech-jobs.md)
+- [Where to find tech jobs?](./community-guides/where-to-find-tech-jobs.md)
 - [Understanding Software Licenses](./community-guides/understanding-software-licenses.md)
 - [Getting Started in Cybersecurity](./community-guides/resources-to-get-started-in-cybersecurity.md)
 - [Hackathons 101: A Step-by-Step Guide to Success](./community-guides/hackathons-101-a-step-by-step-guide-to-success.md)
