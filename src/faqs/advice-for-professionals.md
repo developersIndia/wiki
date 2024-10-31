@@ -101,4 +101,9 @@ And, of course, learning new ways to convince people never goes out of fashion. 
 - [How have you changed with years of experience? What are the things you did as a fresher that you no longer do?](https://www.reddit.com/r/developersIndia/comments/1bo7sre/how_have_you_changed_with_years_of_experience/).
 - [Let's talk performance reviews!](https://www.reddit.com/r/developersIndia/comments/siqswv/lets_talk_performance_reviews/).
 - [As a senior dev, how do you work (or mentor) junior folks around you, what have you learned from them?](https://www.reddit.com/r/developersIndia/comments/15jf4o8/as_a_senior_dev_how_do_you_work_or_mentor_junior/).
-- [How to deal with being unemployed in the IT sector in your 40s and beyond?](https://www.reddit.com/r/developersIndia/comments/15iopcr/how_to_deal_with_being_unemployed_in_the_it/)
+- [How to deal with being unemployed in the IT sector in your 40s and beyond?](https://www.reddit.com/r/developersIndia/comments/15iopcr/how_to_deal_with_being_unemployed_in_the_it/).
+- [How do Indian devs keep up with ageism in the industry?](https://www.reddit.com/r/developersIndia/comments/r9mog3/how_do_indian_devs_keep_up_with_ageism_in_the/).
+- [Let's talk performance reviews!](https://www.reddit.com/r/developersIndia/comments/siqswv/lets_talk_performance_reviews/).
+- [Thoughts from an Old Timer](https://www.reddit.com/r/developersIndia/comments/xgy8s2/thoughts_from_an_old_timer/).
+- [Experienced developers of India, How to be not incompetent at work?](https://www.reddit.com/r/developersIndia/comments/17n1gv5/experienced_developers_of_india_how_to_be_not/).
+- [Who is senior software engineer? The question i ask myself.](https://www.reddit.com/r/developersIndia/comments/1bzxktd/who_is_senior_software_engineer_the_question_i/).

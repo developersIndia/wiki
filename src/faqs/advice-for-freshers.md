@@ -389,3 +389,4 @@ best people you can, the people you want to be like.
 - [Tips for young developers, who find programming overwhelming :)](https://www.reddit.com/r/developersIndia/comments/158codn/tips_for_young_developers_who_find_programming/).
 - [Some tips for fellow developers who are new to IT industry](https://www.reddit.com/r/developersIndia/comments/1bkge7h/some_tips_for_fellow_developers_who_are_new_to_it/).
 - [Rant + Tips for freshers](https://www.reddit.com/r/developersIndia/comments/16ylvcz/rant_tips_for_freshers/).
+- [Lessons that every developer needs but the junior developer needs the most!!](https://www.reddit.com/r/developersIndia/comments/wrn0oe/lessons_that_every_developer_needs_but_the_junior/).
