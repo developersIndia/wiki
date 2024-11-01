@@ -58,3 +58,4 @@ I'll summarize for the people who don't want to go through 6k-7k words:
 
 - [What Negotiation tactics you use for salary discussion with HR](https://www.reddit.com/r/developersIndia/comments/1f716gq/what_negotiation_tactics_you_use_for_salary/).
 - [Salary negotiation frameworks to keep in mind. (Credits to OPs in comments)](https://www.reddit.com/r/developersIndia/comments/yahbss/salary_negotiation_frameworks_to_keep_in_mind/).
+- [IT Professionals: How to Demand the Salary You Deserve](https://www.reddit.com/r/developersIndia/comments/1eh7t8p/it_professionals_how_to_demand_the_salary_you/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
