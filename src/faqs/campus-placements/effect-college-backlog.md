@@ -1,4 +1,9 @@
+<!-- omit from toc -->
 # Effect of backlogs on getting a job
+
+- [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
+- [Related Discussions](#related-discussions)
+- [Stories from the community](#stories-from-the-community)
 
 ## Perspectives & advice from the community
 
