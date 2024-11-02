@@ -32,7 +32,7 @@
 - [Workplace Conundrums](./faqs/workplace-conundrums/README.md)
   - [Dealing with micro management](./faqs/workplace-conundrums/dealing-with-micromanagement.md)
   - [Dealing with toxic workplaces](./faqs/workplace-conundrums/dealing-with-toxic-workplaces.md)
-  - [Dealing with background verification (BGV)]()
+  - [Dealing with background verification (BGV)](./faqs/workplace-conundrums/dealing-with-background-verification.md)
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
 
