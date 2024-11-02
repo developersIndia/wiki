@@ -69,6 +69,27 @@ Not a veteran but have considerable experience so here are my 2 cents
 
 </blockquote>
 
+`u/Life-Appointment-877` shared the following advice on a post titled, [That's it I cried at my workplace! Need help and advice🙂](https://www.reddit.com/r/developersIndia/comments/1eiv9pe/thats_it_i_cried_at_my_workplace_need_help_and/).
+
+<blockquote>
+
+I have seen someone in a similar situation when I was interning somewhere. That guy is now a senior dev at a very good startup and earning a lot.
+
+I don't see your fault in it. A fresher will definitely follow what his tech lead says. I can help you with some tips you can follow:
+
+- whenever a task is given, and as you said the tech lead is very busy, you shouldn't rely only on him for guidance. Try to have connections with other dev in the team. At least junior devs who know the codebase and understand the issues in standup. You can always take help from them.
+- try to set up a regular meet with your tech lead. If he is very busy, try asking him if you will schedule a 15 min meet every alternate day.
+- make some friends other than your lead in the team( QAs, dev, PMs etc.). Initially never hesitate to ask for help from these people. People who know the ecosystem always help you. Try having lunch with them. Somehow be a corporate friend. They also understand you are fresher. They will help only if you ask them.
+- Don't be too stressed. Trust me once you understand the codebase and architecture, it will be very easy for you. It is not that difficult except in the beginning of a few months. Being good in a database is not that difficult. Only if someone understands his task, he can deliver it well. A surgeon cannot do a good surgery if he is not told the patient's body characteristics or disease. It's not the doctor's fault, it's the hospital's fault which didn't manage the patient's information well.
+
+Also, PMs are the dumbest people (no offense for PMs) in the team. Don't let their judgement affect you.
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1eiv9pe/comment/lg9l9n1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+</blockquote>
+
 ## Related Discussions
 
 - [What are some of the red flags of a toxic manager?](https://www.reddit.com/r/developersIndia/comments/17saqxz/what_are_some_of_the_red_flags_of_a_toxic_manager/).

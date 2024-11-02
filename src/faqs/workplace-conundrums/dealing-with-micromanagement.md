@@ -79,6 +79,54 @@ Last but not least, don't stress over it. See if there is anything you can help 
 
 </blockquote>
 
+`u/Beginning-Ladder6224` shared the following advice on a post titled, [Manager micro-manages me and I'm Feeling burnout at my first job!](https://www.reddit.com/r/developersIndia/comments/1bvgmbt/manager_micromanages_me_and_im_feeling_burnout_at/).
+
+<blockquote>
+
+Do not confuse burn out with micro management. Both have the symptom of you being pissed, but burn out is a clinical phenomenon.
+
+A medical doctor will give you a certificate stating you are medically and clinically unfit to work anywhere. As a person who got burn out once with BP 110/190 for more than 3 months, I know. Did that happen to you? No? Then you are not having a burn out.
+
+Thus it sort of becomes personal when random folks just use the term. Those, who actually got burn out would never be happy about it. In a burn out scenario, if you work, you die, you actually die out of heart attack or a stroke. That is what a burn out really is.
+
+I am explaining this only once, so that everyone understands it, loud and clear.
+
+Now that we are out of those, let's focus on OPs problems.
+
+Out of all the "wasted time and career", you can not work with a micro manager who does not teach you anything. Lot of people confuses micro management with actual teaching on the job.
+
+It seems your manager is a toxic person who is literally using his influence to imbibe himself into your career, for more control. He is a control freak and I have seen control freaks. Your manager shows classic symptoms of control freaks. This is also another clinically accepted diagnostic. I have worked with 2 control freaks, and both literally had to go to psychiatrists.
+
+The only way out is to leave as soon as possible. I am always available in DM, so regarding any career choices or psychological choices or evaluation I am always available for everyone.
+
+Get out as soon as you can from the managers influence.
+
+Best.
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1bvgmbt/comment/kxzbf8v/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+</blockquote>
+
+`u/Leather_Trick8751` shared the following advice on a post titled, [Manager micro-manages me and I'm Feeling burnout at my first job!](https://www.reddit.com/r/developersIndia/comments/1bvgmbt/manager_micromanages_me_and_im_feeling_burnout_at/).
+
+<blockquote>
+
+Okay let me put out there
+
+you dont owe anything to your manager or company and vice-versa. You alway look out for your interest as company is looking out for their
+
+Also manager micro managing and abusing people is sign of a incompetent manager not employees. He doesn't know how to manage.
+
+Your career choices looking out for jobs, etc are your personal information and private. They have no authority over it and you dont have any obligation to share it with them until you decide to quit
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1bvgmbt/comment/kxzfqp5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+</blockquote>
+
 ## Related Discussions
 
 - [What are the traits of a toxic manager? I will go first](https://www.reddit.com/r/developersIndia/comments/1ci64dp/what_are_the_traits_of_a_toxic_manager_i_will_go/).
