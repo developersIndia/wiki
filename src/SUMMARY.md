@@ -33,6 +33,7 @@
   - [Dealing with micro management](./faqs/workplace-conundrums/dealing-with-micromanagement.md)
   - [Dealing with toxic workplaces](./faqs/workplace-conundrums/dealing-with-toxic-workplaces.md)
   - [Dealing with background verification (BGV)](./faqs/workplace-conundrums/dealing-with-background-verification.md)
+  - [Dealing with colleagues who steal credit for work](./faqs/workplace-conundrums/dealing-with-colleagues-who-steal-credit.md)
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
 

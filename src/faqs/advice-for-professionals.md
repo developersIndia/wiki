@@ -107,3 +107,4 @@ And, of course, learning new ways to convince people never goes out of fashion. 
 - [Thoughts from an Old Timer](https://www.reddit.com/r/developersIndia/comments/xgy8s2/thoughts_from_an_old_timer/).
 - [Experienced developers of India, How to be not incompetent at work?](https://www.reddit.com/r/developersIndia/comments/17n1gv5/experienced_developers_of_india_how_to_be_not/).
 - [Who is senior software engineer? The question i ask myself.](https://www.reddit.com/r/developersIndia/comments/1bzxktd/who_is_senior_software_engineer_the_question_i/).
+- [What do IT employees do after 40? Do you wish you had taken a different career?](https://www.reddit.com/r/developersIndia/comments/1c7lv2t/what_do_it_employees_do_after_40_do_you_wish_you/).

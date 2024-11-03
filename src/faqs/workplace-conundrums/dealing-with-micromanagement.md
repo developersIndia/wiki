@@ -135,3 +135,4 @@ Your career choices looking out for jobs, etc are your personal information and 
 - [How do you explain to managment that your work is way more harder and meaningful than others ?](https://www.reddit.com/r/developersIndia/comments/1ah5mlh/how_do_you_explain_to_managment_that_your_work_is/).
 - [Why are we working for people who are not not as qualified ?](https://www.reddit.com/r/developersIndia/comments/1bzm1al/why_are_we_working_for_people_who_are_not_not_as/.).
 - [What do engn managers do all day?](https://www.reddit.com/r/developersIndia/comments/18y4m6f/what_do_engn_managers_do_all_day/).
+- [Your Manager is not your Friend.](https://www.reddit.com/r/developersIndia/comments/17oyq9c/your_manager_is_not_your_friend/).
