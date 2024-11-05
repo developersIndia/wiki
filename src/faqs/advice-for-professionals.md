@@ -70,7 +70,7 @@ Lots more! Let the discussion begin.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/190l8ap/comment/kgp5ki4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/190l8ap/comment/kgp5ki4/)
 
 </blockquote>
 
@@ -90,7 +90,7 @@ And, of course, learning new ways to convince people never goes out of fashion. 
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/190l8ap/comment/kgpvfe3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/190l8ap/comment/kgpvfe3/)
 
 </blockquote>
 

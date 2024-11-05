@@ -17,7 +17,7 @@ inconveniences my decision might cause.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/taw6k8/comment/i03f5tu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/taw6k8/comment/i03f5tu/)
 
 </blockquote>
 
@@ -40,7 +40,7 @@ Finally, it's not the end of the world. It's not an ideal situation for any part
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1atp7cg/comment/kqzqisk/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1atp7cg/comment/kqzqisk/)
 
 </blockquote>
 
@@ -54,6 +54,6 @@ In any case, don't feel guilty because a company won't think twice before removi
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1d4yt3c/comment/l6hr9po/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1d4yt3c/comment/l6hr9po/)
 
 </blockquote>

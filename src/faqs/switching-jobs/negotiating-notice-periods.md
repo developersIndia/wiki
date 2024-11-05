@@ -24,7 +24,7 @@ before I switch to a new org.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1b875sd/comment/ktpodj4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1b875sd/comment/ktpodj4/)
 
 </blockquote>
 
@@ -44,6 +44,6 @@ Note: this is not a hack towards your preparation. Nothing can discount preparat
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1gccqao/comment/ltt9o2z/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1gccqao/comment/ltt9o2z/)
 
 </blockquote>

@@ -24,7 +24,7 @@ PS: This is essentially a verbose version of the "have an open conversation" tip
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/qiupil/comment/himagga/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/qiupil/comment/himagga/)
 
 </blockquote>
 

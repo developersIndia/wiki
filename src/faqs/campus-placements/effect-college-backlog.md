@@ -21,7 +21,7 @@ Do well! Cheers!
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1cj0bsn/comment/l2d2vu4/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1cj0bsn/comment/l2d2vu4/)
 
 </blockquote>
 

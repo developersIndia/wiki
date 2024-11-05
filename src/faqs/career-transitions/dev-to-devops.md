@@ -77,7 +77,7 @@ lot easier.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1b585la/comment/kt4eg25/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1b585la/comment/kt4eg25/)
 
 </blockquote>
 
@@ -248,7 +248,7 @@ Most of the devops positions are 5+ years experience required.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1b585la/comment/kt43odf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1b585la/comment/kt43odf/)
 
 </blockquote>
 

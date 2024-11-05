@@ -21,7 +21,7 @@ Kudos to the person standing up and making the upper management know about the t
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1cory3t/comment/l3jlzru/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1cory3t/comment/l3jlzru/)
 
 </blockquote>
 
@@ -39,7 +39,7 @@ Also, with good BGV providers, they also have an option to confirm employment de
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1f29ota/comment/lk52acg/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1f29ota/comment/lk52acg/)
 
 </blockquote>
 

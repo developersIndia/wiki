@@ -28,7 +28,7 @@ As for the 'scrum master', just ignore his words. You are doing your work, and t
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1f0w357/comment/ljuzc6v/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1f0w357/comment/ljuzc6v/)
 </blockquote>
 
 `u/MerakiPigeon` shared the following advice on a post titled, [Feeling Stuck in a Toxic Work Environment ! Scrum master always highlights us when some useless or extra task comes up!](https://www.reddit.com/r/developersIndia/comments/1f0w357/feeling_stuck_in_a_toxic_work_environment_scrum/).
@@ -48,7 +48,7 @@ Hope these suggestions help! Good luck
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/14wyqa2/comment/jrkkv8u/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/14wyqa2/comment/jrkkv8u/)
 
 </blockquote>
 
@@ -65,7 +65,7 @@ Not a veteran but have considerable experience so here are my 2 cents
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1altowr/comment/kph8ifn/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1altowr/comment/kph8ifn/)
 
 </blockquote>
 
@@ -86,7 +86,7 @@ Also, PMs are the dumbest people (no offense for PMs) in the team. Don't let the
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1eiv9pe/comment/lg9l9n1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1eiv9pe/comment/lg9l9n1/)
 
 </blockquote>
 

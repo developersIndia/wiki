@@ -49,7 +49,7 @@ For now, don't worry too much about this. Focus on what comes to your plate and 
 Ideally, this should restrict the PM from doing it again without the fear of facing consequences.
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1ak7u43/comment/kp8wg9k/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1ak7u43/comment/kp8wg9k/)
 
 </blockquote>
 
@@ -69,7 +69,7 @@ Here are a few of the advices he gave me.
 Start giving them subtle hints that you know they are trying to take credit for your work and you're not allowing that, they'll start backing off soon.
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/18l9kwh/comment/kdzuqqi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/18l9kwh/comment/kdzuqqi/)
 
 </blockquote>
 
@@ -88,7 +88,7 @@ Ah credit stealers. You have many options here.
 The basic thing to know is that, these kinds of people will be everywhere. You need to take action (confront, keep distance, or something else) otherwise they'll keep on leaching on you.
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/18l9kwh/comment/kdzofth/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/18l9kwh/comment/kdzofth/)
 
 </blockquote>
 
@@ -107,7 +107,7 @@ Simple point to consider going forward..
 3. in your review meetings you should highlight you are a team player and that you go out and beyond your responsibility to help the team / organisation
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/luzly1j/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/luzly1j/)
 
 ---
 
@@ -119,7 +119,7 @@ Simple point to consider going forward..
 6. Lastly and most importantly don’t be afraid to say No.
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/lv4ane1/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/lv4ane1/)
 
 </blockquote>
 
@@ -135,7 +135,7 @@ Few things I have learned:
 4. Make the other person know if you are frustrated, something like "you could have mentioned my support". Don't say anything else in frustration. Go for a tea/coffee/water/bathroom/exercise break for half an hour if required.
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/luzn50l/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/luzn50l/)
 
 </blockquote>
 
@@ -158,7 +158,7 @@ If you work in a high trust feedback driven environment, it makes sense to have 
 Continue to collaborate with as many peers and seniors as possible. It's the quickest and most efficient way to build relationships and learn.
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/luzodfq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/luzodfq/)
 
 </blockquote>
 
@@ -180,7 +180,7 @@ During busy periods or when handling multiple tasks (like P0) and my manager is 
 I avoid responding to the colleague directly and wait for my manager to request my assistance with them.
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/lv03vw2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/lv03vw2/)
 
 </blockquote>
 
@@ -198,7 +198,7 @@ Regardless, you need to know to handle this type of individuals.
 From now on, make sure your time is visible when you are helping out others.
 
 ---
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/luzoe8e/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1ghrkvj/comment/luzoe8e/)
 
 </blockquote>
 
@@ -230,7 +230,7 @@ Mostly they will be embarrassed and won't even confront you.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/15zuvq8/comment/jxk00hl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/15zuvq8/comment/jxk00hl/)
 
 </blockquote>
 

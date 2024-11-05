@@ -46,7 +46,7 @@ So, I hope it answered the question on "How to find clients?". Obviously, there'
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/17v0m4j/comment/k9br2bx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/17v0m4j/comment/k9br2bx/)
 
 </blockquote>
 
@@ -101,7 +101,7 @@ Also, just so you know, charging Indian clients in $ might not work out, I guess
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/ljh9cb/comment/gngfx8f/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/ljh9cb/comment/gngfx8f/)
 
 </blockquote>
 

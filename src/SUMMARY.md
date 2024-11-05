@@ -36,6 +36,9 @@
   - [Dealing with colleagues who steal credit for work](./faqs/workplace-conundrums/dealing-with-colleagues-who-steal-credit.md)
 - [Freelancing](./faqs/freelancing.md)
 - [Contract Work](./faqs/contract-work.md)
+- [Health]()
+  - [Dealing with mental health](./faqs/health/dealing-with-mental-health.md)
+  - [Managing eye strain]()
 
 # Community Guides
 

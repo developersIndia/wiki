@@ -20,6 +20,6 @@ And as a general rule of thumb, it rarely benefits to accept a counter offer.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/15gwfph/comment/jul7so8/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/15gwfph/comment/jul7so8/)
 
 </blockquote>

@@ -37,7 +37,7 @@ Why would you want to work full time at two places especially when one overworks
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1gajorx/comment/ltgtmkc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1gajorx/comment/ltgtmkc/)
 
 </blockquote>
 
@@ -63,7 +63,7 @@ Your CA will handle everything from taxation to compliance but it's good to unde
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/osk5u1/comment/ht0jg08/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/osk5u1/comment/ht0jg08/)
 
 </blockquote>
 
@@ -81,6 +81,6 @@ Just assume you are a freelancer and most questions will be answered easily.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1akjwv9/comment/kp8giu8/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1akjwv9/comment/kp8giu8/)
 
 </blockquote>

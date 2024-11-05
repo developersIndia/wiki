@@ -96,6 +96,6 @@ recruiters won't care.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/vclqru/comment/icffcq0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/vclqru/comment/icffcq0/)
 
 </blockquote>

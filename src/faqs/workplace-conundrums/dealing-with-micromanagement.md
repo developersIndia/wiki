@@ -29,7 +29,7 @@ By the way secret to make your boss likes you is not do chaplusi ( i mean that w
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1fc54gi/comment/lm6g61v/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1fc54gi/comment/lm6g61v/)
 
 </blockquote>
 
@@ -53,7 +53,7 @@ Be confident - not doubtful. Your manager needs to believe you when you say you 
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1dgiv3a/comment/l8qk6xl/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1dgiv3a/comment/l8qk6xl/)
 
 </blockquote>
 
@@ -75,7 +75,7 @@ Last but not least, don't stress over it. See if there is anything you can help 
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1bksuhc/comment/kw0g1ke/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1bksuhc/comment/kw0g1ke/)
 
 </blockquote>
 
@@ -105,7 +105,7 @@ Best.
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1bvgmbt/comment/kxzbf8v/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1bvgmbt/comment/kxzbf8v/)
 
 </blockquote>
 
@@ -123,7 +123,7 @@ Your career choices looking out for jobs, etc are your personal information and 
 
 ---
 
-[`Source`](https://www.reddit.com/r/developersIndia/comments/1bvgmbt/comment/kxzfqp5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1bvgmbt/comment/kxzfqp5/)
 
 </blockquote>
 
