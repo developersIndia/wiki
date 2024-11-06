@@ -1,4 +1,8 @@
+<!-- omit from toc -->
 # Sharing offer letters & past salaries with recruiters
+
+- [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
+- [Related Discussions](#related-discussions)
 
 ## Perspectives & advice from the community
 
@@ -99,3 +103,9 @@ Do tell them your current CTC, as it saves everyone some time. But keep the
 [`Source`](https://www.reddit.com/r/developersIndia/comments/xhiz2b/comment/ioy1xia/)
 
 </blockquote>
+
+## Related Discussions
+
+- [Is it fine to share the offer letter to another company?](https://www.reddit.com/r/developersIndia/comments/raudjn/is_it_fine_to_share_the_offer_letter_to_another/).
+- [Is it safe to share offer letter of one company to another?](https://www.reddit.com/r/developersIndia/comments/1g9c0dh/is_it_safe_to_share_offer_letter_of_one_company/).
+- [Never tell your current employer whom you are joining next](https://www.reddit.com/r/developersIndia/comments/1bto4f8/never_tell_your_current_employer_whom_you_are/).
