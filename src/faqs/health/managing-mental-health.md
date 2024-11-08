@@ -1,5 +1,5 @@
 <!-- omit from toc -->
-# Dealing with mental health
+# Managing mental health
 
 - [Perspective \& advice from the community](#perspective--advice-from-the-community)
 - [Related Discussions](#related-discussions)
@@ -129,10 +129,31 @@ Also, get a hobby or two to divert your attention. I play video games or watch a
 
 </blockquote>
 
+`u/Mindless_Let_7583` shared the following advice on a post titled, [What do you do to decompress? What's your outlook on life?](https://www.reddit.com/r/developersIndia/comments/1ayt5m0/what_do_you_do_to_decompress_whats_your_outlook/)
+
+<blockquote>
+
+10 years of experience and counting. 6 years of that was as a tech lead for a small startup. So stress was super high.
+
+The short answer is that it really depends on your character, tastes and interest. I will only be sharing what helps me and would like to make it clear that I am an introverted person as well, which biases my choice here.
+
+1. Parties and extremely "fun" activities are fun at a young age and as you grow, you will most likely slow down and enjoy more relaxing hobbies or interactions.
+2. Reading non tech related books helps me.
+3. I am a fairly good badminton player and I currently just train every day and that means a lot of my life is a compromise between my job and badminton. Maybe you like gaming, or open mics, or standup comedy. These things are also good socialising avenues where you are not really expected to do terrible damage to your body unlike parties.
+4. If you are driven by knowledge, even something as simple as learning a different tech stack than your work can help. It sometimes helps for me.
+5. Travel, meet new people, visit new places. The experience you gain by seeing more places cannot be replaced by reading about them or watching YouTube videos. It will help you grow as person too. I am a long time motorcyclist too and spend a large number of my weeks on hill stations around the western ghats.
+6. Keep good and fulfilling company, sometimes just sitting with someone you gel well with and doing the most silly of chores can relax you.
+7. Detox from tech as many times in a week as you can.
+
+---
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1ayt5m0/comment/ks2d6s5)
+
+</blockquote>
+
 ## Related Discussions
 
 - [Suggestions on handling burnout as you age as Developer](https://www.reddit.com/r/developersIndia/comments/1cieqfz/suggestions_on_handling_burnout_as_you_age_as/).
 - [Devs of India, how do you handle burn out?](https://www.reddit.com/r/developersIndia/comments/112op9s/devs_of_india_how_do_you_handle_burn_out/).
 - [I can’t do coding anymore, i am mentally and physically tortured](https://www.reddit.com/r/developersIndia/comments/1fssa3l/i_cant_do_coding_anymore_i_am_mentally_and/).
 - [How do you handle stress?](https://www.reddit.com/r/developersIndia/comments/tdr9bn/how_do_you_handle_stress/).
-- [Anxiety, stress and poor work life balance](https://www.reddit.com/r/developersIndia/comments/ph272r/anxiety_stress_and_poor_work_life_balance/)
+- [Anxiety, stress and poor work life balance](https://www.reddit.com/r/developersIndia/comments/ph272r/anxiety_stress_and_poor_work_life_balance/).

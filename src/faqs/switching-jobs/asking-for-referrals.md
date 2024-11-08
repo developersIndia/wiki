@@ -99,3 +99,44 @@ recruiters won't care.
 [`Source`](https://www.reddit.com/r/developersIndia/comments/vclqru/comment/icffcq0/)
 
 </blockquote>
+
+`u/fonderupp` shared the following advice on a now deleted post titled, [How do you properly ask for referrals?](https://www.reddit.com/r/developersIndia/comments/15w4bh8/how_do_you_properly_ask_for_referrals/)
+
+<blockquote>
+
+Here's my template:
+
+Hi {person name}.
+
+Hope you're doing great.
+
+I'm {my name}. I graduated from {college name since it is a good college, don't mention here if it's not that good} this year and I'm looking for Software Engineer opportunities. There's an opening at {company name} that I'm interested in. I would be grateful if you can refer me for the same. Here's the job: {job link}
+
+A little more about me: {point wise highlight your skills and notable achievements. this section is to show why you're a good fit aka why you should be considered}
+
+I am attaching my resume for your reference: {resume drive link so that people don't have to download}
+
+Thanks and warm regards
+
+**Results**
+
+Ofc there are people who just ignore messages, but overall I get a pretty good response rate. At least people go through my profile or say that they will check with HR and get back. Now it's also a factor that I'm from a good clg with huge alumni network so I mostly reach out to alums, if no alums then alums from sister colleges or similar level colleges.
+
+My template has a very clear format:
+
+1. salutation
+2. short introduction and what I'm asking for. if the reader is not interested, they will simply stop at this point, but at least they know what I was hoping to get from them
+3. now if the reader did not leave, that means they want to know whether you're really good enough to be considered for the role. so here goes more descriptive section with skills and achievement.
+4. again, if they are impressed by section 3, provide them the next step by sharing your resume
+5. end with humble greetings
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/15w4bh8/comment/jwz128f)
+
+</blockquote>
+
+## Related Discussions
+
+- [Why getting a referral is so hard?](https://www.reddit.com/r/developersIndia/comments/18tca0w/why_getting_a_referral_is_so_hard/).
+- [Why you should not refer anyone from Linkedin without knowing them!](https://www.reddit.com/r/developersIndia/comments/1av8rqt/why_you_should_not_refer_anyone_from_linkedin/).

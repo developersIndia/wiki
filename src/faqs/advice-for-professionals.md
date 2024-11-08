@@ -94,6 +94,28 @@ And, of course, learning new ways to convince people never goes out of fashion. 
 
 </blockquote>
 
+`u/Plastic-Kiwi-1063/` shared the following advice on a post titled [Professionals with 15+ years experience](https://www.reddit.com/r/developersIndia/comments/190l8ap/professionals_with_15_years_experience/):
+
+<blockquote>
+
+Establish clear boundaries, especially where long hours and shifting priorities are common. I’ve worked in a startup for the past two years and faced similar challenges. Here are some strategies that might help:
+
+- Do the Minimum Required: The more you work, the more work you'll receive. Aim to meet expectations without overextending yourself.
+- Gradually Reduce Extra Hours: Start by cutting back on the extra time you work. Do this incrementally to avoid abrupt changes.
+- Understand Managerial Behavior: Learn how to navigate your manager’s expectations and behavior effectively.
+- Redirect Attention: Use complex, relevant questions about tasks to shift your manager’s focus away from your workload. This can give you some breathing room.
+- Estimate and Communicate Timelines: At the start of each task, estimate the time required and stick to it. If additional tasks are assigned, extend your timeline accordingly and attribute delays to these tasks.
+- Have Ready Explanations: Be prepared with concise explanations for delays, focusing on task complexity rather than detailed justifications.
+- Manage Expectations: If you’re not seeking a promotion or long-term commitment, gradually reduce the quality of your work. By the time any action is taken, you might have another offer.
+
+Ultimately, you’ll need to adapt these strategies depending on your situation and company dynamics. Play around to see what works best for you.
+
+---
+
+[`Source`](https://www.reddit.com/r/developersIndia/comments/1eze3b8/comment/ljnt8d2)
+
+</blockquote>
+
 ## Related Discussions
 
 - [Your career span in IT sector would be more like 20 years rather than 40 years, so plan accordingly](https://www.reddit.com/r/developersIndia/comments/1bx1yx4/your_career_span_in_it_sector_would_be_more_like/).
