@@ -1,18 +1,12 @@
 <!-- omit from toc -->
 # QA/SDET to Developer
 
-- [Stories from the community](#stories-from-the-community)
 - [Perspectives \& advice from the community](#perspectives--advice-from-the-community)
-
-## Stories from the community
-
-- [My journey from test engineer to software developer](https://www.reddit.com/r/developersIndia/comments/16wy6es/my_journey_from_test_engineer_to_software/)
-  by u/Slayerofmayor.
+- [Stories from the community](#stories-from-the-community)
 
 ## Perspectives & advice from the community
 
-`u/Effective_Spite6462` on a post titled
-[Need guidance on switching from testing to development](https://www.reddit.com/r/developersIndia/comments/twol6c/need_guidance_on_switching_from_testing_to/)
+`u/Effective_Spite6462` on a post titled, [Need guidance on switching from testing to development](https://www.reddit.com/r/developersIndia/comments/twol6c/need_guidance_on_switching_from_testing_to/)
 shared the following advice:
 
 <blockquote>
@@ -63,3 +57,7 @@ in unfavorable environment doesn't stop you from learning.
 [`Source`](https://www.reddit.com/r/developersIndia/comments/twol6c/comment/i3gpwlg/)
 
 </blockquote>
+
+## Stories from the community
+
+- [My journey from test engineer to software developer](https://www.reddit.com/r/developersIndia/comments/16wy6es/my_journey_from_test_engineer_to_software/).
