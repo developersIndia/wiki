@@ -41,7 +41,7 @@ Not to mention job portals like Shine and Indeed.
 
 ## Newsletter based job Boards
 
-- [NoCommute - Remote jobs delivered to your inbox](https://nocommute.substack.com/).
+- [NoCommute - Remote jobs delivered to your inbox](https://www.nocommutejob.com/).
 - [Remote Leaf](https://remoteleaf.com/)
 
 ## Miscellaneous job boards
