@@ -39,6 +39,7 @@
 - [Health]()
   - [Managing mental health](./faqs/health/managing-mental-health.md)
   - [Managing eye strain]()
+- [Preparing for Performance Reviews](./faqs/performance-reviews.md)
 
 # Community Guides
 
