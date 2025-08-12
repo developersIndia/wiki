@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: 'actions/checkout@v4'
+        uses: 'actions/checkout@v5'
 
       - name: Install static-sitemap-cli
         run: npm install static-sitemap-cli
