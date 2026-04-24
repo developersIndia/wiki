@@ -174,21 +174,22 @@ securing your next job offer by enabling you write a very professional document,
 I want to share some additional resources which will provide additional marginal
 benefits.
 
-1. Use this resume template I created in Google Docs -
-   [Anonymous Resume](https://docs.google.com/document/d/12jBHnaiQXpIVH91lHf3OvNA5hPdFpmi5PBK5wUE5C_0/edit?usp=sharing).
+1. Use this resume template I created ~~in Google Docs -
+   [Anonymous Resume](https://docs.google.com/document/d/12jBHnaiQXpIVH91lHf3OvNA5hPdFpmi5PBK5wUE5C_0/edit?usp=sharing)~~
+   using [Typst](https://typst.app) - [Jarmos's resume template](https://github.com/Jarmos-san/resume-template).
 
-2. Get your resume reviewed from your peers. A second opinion will always polish
+3. Get your resume reviewed from your peers. A second opinion will always polish
    out the remaining intricate mistakes here and there which you might've
    missed. Join [our Discord community](https://discord.gg/kRMQSZGzkt) & ping me
    whenever you want to for a resume review (my Discord ID - `Jarmos#8937`).
 
-3. **ALWAYS** remember, job hunting is a numbers game! Don't lose patience and
+4. **ALWAYS** remember, job hunting is a numbers game! Don't lose patience and
    keep applying to jobs on all platforms you can think of. And don't hesitate
    to reach out to prospects & network with people. Be mindful though, asking
    for a job straight away might appear rude to some. See this article -
    [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
    to find some insights & lessons.
-4. The
+5. The
    [r/EngineeringResumes Wiki](https://www.reddit.com/r/EngineeringResumes/wiki/index/)
    .
 
