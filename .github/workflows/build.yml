@@ -36,7 +36,7 @@ jobs:
           npx sscli --no-clean --base https://wiki.developersindia.in
 
       - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v3.0
+        uses: nwtgck/actions-netlify@v4.0
         with:
           publish-dir: 'book'
           production-branch: main
