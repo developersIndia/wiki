@@ -56,7 +56,7 @@ Okay, I know the syllabus, where do I learn from?
 
 If you prefer the book learning approach, you are covered:
 
-- [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - This book is an amazing resource that covers everything, even up to advanced CP concepts. However, for just cracking DSA interviews, you can cover up to chapter 13, which should cover all the basic concepts and introduce you to some medium-level Graph concepts. It is mostly language agnostic but has code in C++.
+- [Competitive Programmer’s Handbook](https://github.com/pllk/cphb/blob/master/book.pdf) - This book is an amazing resource that covers everything, even up to advanced CP concepts. However, for just cracking DSA interviews, you can cover up to chapter 13, which should cover all the basic concepts and introduce you to some medium-level Graph concepts. It is mostly language agnostic but has code in C++.
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 - [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorithms/dp/1680507222)
 - [Saadhan - developersIndia Resource Collection](https://saadhan.developersindia.in/resources?category=dsa)
