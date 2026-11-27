@@ -48,3 +48,4 @@ Not to mention job portals like Shine and Indeed.
 
 - [No CS Degree - Job Board for Self-taught Developers](https://www.nocsdegree.com/jobs/)
 - [Hasgeek Job Board](https://hasjob.co/?c=programming).
+- [IDE Jobs - Job search for software engineers in India](https://idejobs.com/)
